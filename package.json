@@ -1,0 +1,16 @@
+{
+  "name": "config-jungle",
+  "version": "1.0.0",
+  "description": "Mapeo config with jungle presets",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "mapeo-settings-builder": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "mkdirp build && mapeo-settings build -l 'es' -o build/settings-jungle-v${npm_package_version}.mapeosettings",
+    "test": "mapeo-settings lint"
+  },
+  "author": "Gregor MacLennan",
+  "license": "ISC"
+}

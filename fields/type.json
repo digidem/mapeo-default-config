@@ -1,0 +1,7 @@
+{
+    "key": "type",
+    "type": "text",
+    "label": "",
+    "universal": true,
+    "placeholder": "What kind of path"
+}

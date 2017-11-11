@@ -1,0 +1,15 @@
+{
+    "icon": "cave",
+    "fields": [
+        "source", "note"],
+    "geometry": [
+        "point"
+    ],
+    "tags": {
+        "type" : "natural",
+        "natural" : "cave_entrance"
+
+    },
+    "terms":[],
+    "name": "Cave"
+}

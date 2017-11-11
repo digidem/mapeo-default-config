@@ -1,0 +1,7 @@
+{
+    "key": "source",
+    "type": "text",
+    "label": "",
+    "universal": true,
+    "placeholder": "Source of the data"
+}

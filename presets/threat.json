@@ -1,0 +1,14 @@
+{
+    "icon": "threat",
+    "fields": [
+        "source", "note"],
+    "geometry": [
+        "point", "area", "line"
+    ],
+    "tags": {
+        "type" : "impact",
+        "impact" : "threat"
+        },
+    "terms":["danger", "illegal", "monitoring"],
+    "name": "Threat"
+}

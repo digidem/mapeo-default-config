@@ -1,0 +1,15 @@
+{
+    "icon": "hills",
+    "fields": [
+        "source"],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+        "type" : "natural",
+        "natural" : "peak"
+
+    },
+    "terms":["mountains"],
+    "name": "Hills"
+}

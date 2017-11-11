@@ -1,0 +1,17 @@
+{
+    "icon": "fishing",
+    "fields": [
+        "source", "note"
+    ],
+    "geometry": [
+        "point",
+		"area"
+    ],
+    "tags": {
+        "type" : "activity",
+        "activity" : "fishing"
+
+    },
+    "terms":["fish"],
+    "name": "Fishing Site"
+}

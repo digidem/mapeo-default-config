@@ -1,0 +1,15 @@
+{
+    "icon": "palm",
+    "fields": [
+        "source", "palm-species"],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+        "type" : "natural",
+        "natural" : "tree",
+        "tree" : "palm"
+    },
+    "terms":[],
+    "name": "Palm"
+}

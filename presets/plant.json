@@ -1,0 +1,14 @@
+{
+    "icon": "plant",
+    "fields": [
+        "source", "plant-species"],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+        "type" : "natural",
+        "natural" : "plant"
+    },
+    "terms":[],
+    "name": "Plant"
+}

@@ -1,0 +1,16 @@
+{
+    "icon": "lake",
+    "fields": [
+        "source"],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+        "type" : "natural",
+        "natural" : "water",
+        "water" : "lake"
+
+    },
+    "terms":[],
+    "name": "Lake"
+}

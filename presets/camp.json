@@ -1,0 +1,16 @@
+{
+    "icon": "camp",
+    "fields": [
+        "source", "owner"
+    ],
+    "geometry": [
+        "point",
+
+    ],
+    "tags": {
+        "type" : "camp",
+
+    },
+    "terms":["campsite", "camping", "hunting"],
+    "name": "Camp"
+}

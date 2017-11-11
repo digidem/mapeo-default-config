@@ -1,0 +1,14 @@
+{
+    "icon": "waterfall",
+    "fields": [
+        "source"],
+    "geometry": [
+        "point"
+    ],
+    "tags": {
+        "type" : "waterway",
+        "waterway" : "waterfall"
+    },
+    "terms":["cascade"],
+    "name": "Waterfall"
+}

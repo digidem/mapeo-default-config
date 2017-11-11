@@ -1,0 +1,14 @@
+{
+    "icon": "stream",
+    "fields": [
+        "source"],
+    "geometry": [
+        "point", "line"
+    ],
+    "tags": {
+        "type" : "waterway",
+        "waterway" : "stream"
+    },
+    "terms":[],
+    "name": "Stream"
+}

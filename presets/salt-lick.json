@@ -1,0 +1,14 @@
+{
+    "icon": "salt-lick",
+    "fields": [
+        "source"],
+    "geometry": [
+        "point"
+    ],
+    "tags": {
+        "type" : "natural",
+        "natural" : "salt-lick"
+    },
+    "terms":[],
+    "name": "Salt lick"
+}

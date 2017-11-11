@@ -1,0 +1,13 @@
+{
+    "icon": "animal",
+    "fields": [
+        "source", "animal-type"
+    ],"geometry": [
+        "point", "area"
+    ],
+    "tags": {"type" : "animal"
+
+    },
+    "terms":[],
+    "name": "Animal"
+}

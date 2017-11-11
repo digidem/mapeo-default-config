@@ -1,0 +1,17 @@
+{
+    "icon": "boundary",
+    "fields": [
+        "source", "note"
+    ],
+    "geometry": [
+        "point",
+		"line"
+    ],
+    "tags": {
+        "type" : "boundary",
+        "boudnary" : "indigenous"
+
+    },
+    "terms":["border", "frontier"],
+    "name": "boundary"
+}

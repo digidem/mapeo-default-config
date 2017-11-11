@@ -1,0 +1,16 @@
+{
+    "icon": "special-site",
+    "fields": [
+        "source", "note"
+    ],
+    "geometry": [
+        "point", "area"
+
+    ],
+    "tags": {
+        "type" : "cultural",
+        "cultural" : "cultural-site"
+    },
+    "terms":["story", "sacred", "historical", "history"],
+    "name": "Special site"
+}

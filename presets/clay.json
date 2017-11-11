@@ -1,0 +1,17 @@
+{
+    "icon": "clay",
+    "fields": [
+        "source"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "craft",
+        "craft" : "clay"
+
+    },
+    "terms":[ ],
+    "name": "Clay"
+}

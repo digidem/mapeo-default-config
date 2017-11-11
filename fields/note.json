@@ -1,0 +1,8 @@
+{
+    "key": "note",
+    "type": "textarea",
+    "universal": true,
+    "icon": "note",
+    "label": "Note",
+	  "placeholder": "Stories or notes about this place"
+}

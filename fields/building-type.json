@@ -1,0 +1,7 @@
+{
+    "key": "building-type",
+    "type": "text",
+    "label": "",
+    "universal": true,
+    "placeholder": "School/hospital/etc"
+}

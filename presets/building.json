@@ -1,0 +1,16 @@
+{
+    "icon": "building",
+    "fields": [
+        "source", "building-type"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "building"
+
+    },
+    "terms":["medical", "school"],
+    "name": "Building"
+}

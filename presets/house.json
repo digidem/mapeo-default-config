@@ -1,0 +1,13 @@
+{
+    "icon": "house",
+    "fields": [
+        "source", "owner"
+    ],"geometry": [
+        "point"
+    ],
+    "tags": {
+        "building": "residential"
+    },
+    "terms":["house", "home"],
+    "name": "House"
+}

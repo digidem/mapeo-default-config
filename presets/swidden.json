@@ -1,0 +1,17 @@
+{
+    "icon": "swidden",
+    "fields": [
+        "source", "owner"
+    ],
+    "geometry": [
+        "point",
+		"area"
+    ],
+    "tags": {
+        "type" : "landuse",
+        "landuse" : "farmland",
+
+    },
+    "terms":["farm", "garden", "plot", "allotment", "paddy", "cultivation"],
+    "name": "Farmland"
+}
