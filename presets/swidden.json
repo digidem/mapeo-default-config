@@ -9,7 +9,7 @@
     ],
     "tags": {
         "type" : "landuse",
-        "landuse" : "farmland",
+        "landuse" : "farmland"
 
     },
     "terms":["farm", "garden", "plot", "allotment", "paddy", "cultivation"],

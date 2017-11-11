@@ -1,0 +1,18 @@
+{
+    "area": [
+        "airstrip", "animal", "community", "fishing-site", "gathering-site", "hills", "hunting-site", "lake",
+        "palm", "special-site", "swidden", "threat", "tree"
+    ],
+    "line": [
+		"boundary-line", "river", "path", "stream", "threat"
+    ],
+    "point": [
+        "airstrip", "animal", "boundary-line", "building", "camp", "clay", "community", "fishing-site",
+        "gathering-site", "hills", "house", "hunting-site", "lake", "palm",
+        "river", "path", "stream", "salt-lick", "waterfall", "special-site", "swidden", "threat", "tree"
+    ],
+    "vertex": [
+    ],
+    "relation": [
+    ]
+}

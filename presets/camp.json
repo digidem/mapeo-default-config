@@ -4,11 +4,11 @@
         "source", "owner"
     ],
     "geometry": [
-        "point",
+        "point"
 
     ],
     "tags": {
-        "type" : "camp",
+        "type" : "camp"
 
     },
     "terms":["campsite", "camping", "hunting"],
