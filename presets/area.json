@@ -1,0 +1,9 @@
+{ "icon": "estrella",
+    "name": "Nueva area",
+    "tags": {
+        "area": "yes",
+        "nuevo": "yes"
+    },
+    "geometry": ["area", "line"],
+    "matchScore": 0.1
+}

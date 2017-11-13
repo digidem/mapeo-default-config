@@ -1,0 +1,7 @@
+{ "icon": "estrella",
+    "name": "Nueva linea",
+    "tags": {
+      "nuevo": "yes"
+    },
+    "geometry": ["line"]
+}
