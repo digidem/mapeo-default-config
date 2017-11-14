@@ -8,8 +8,8 @@
     ],
     "point": [
         "point", "airstrip", "animal", "boundary-line", "building", "camp", "clay", "community", "fishing-site",
-        "gathering-site", "hills", "house", "hunting-site", "lake", "palm", "cave", "plant",
-        "river", "path", "stream", "salt-lick", "waterfall", "special-site", "swidden", "threat", "tree"
+        "gathering-site", "house", "hunting-site", "palm", "cave", "plant",
+        "salt-lick", "waterfall", "special-site", "swidden", "threat", "tree"
     ],
     "vertex": [
     ],
