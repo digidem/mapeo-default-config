@@ -1,14 +1,14 @@
 {
     "area": [
-        "airstrip", "animal", "community", "fishing-site", "gathering-site", "hills", "hunting-site", "lake",
-        "palm", "special-site", "swidden", "threat", "tree", "area", "plant"
+        "area", "airstrip", "animal", "community", "fishing-site", "gathering-site", "hills", "hunting-site", "lake",
+        "palm", "special-site", "swidden", "threat", "tree", "plant"
     ],
     "line": [
-		"boundary-line", "river", "path", "stream", "threat", "line"
+		"line", "boundary-line", "river", "path", "stream", "threat"
     ],
     "point": [
-        "airstrip", "animal", "boundary-line", "building", "camp", "clay", "community", "fishing-site",
-        "gathering-site", "hills", "house", "hunting-site", "lake", "palm", "point", "cave", "plant",
+        "point", "airstrip", "animal", "boundary-line", "building", "camp", "clay", "community", "fishing-site",
+        "gathering-site", "hills", "house", "hunting-site", "lake", "palm", "cave", "plant",
         "river", "path", "stream", "salt-lick", "waterfall", "special-site", "swidden", "threat", "tree"
     ],
     "vertex": [
