@@ -1,6 +1,6 @@
 {
   "name": "config-jungle",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Mapeo config with jungle presets",
   "dependencies": {
     "mapeo-settings-builder": "^2.7.0-beta.1",
