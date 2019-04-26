@@ -1,15 +1,16 @@
 {
-  "name": "config-jungle",
-  "version": "1.1.0",
-  "description": "Mapeo config with jungle presets",
-  "dependencies": {
+  "name": "mapeo-default-settings",
+  "version": "1.0.0",
+  "description": "Mapeo settings with jungle presets",
+  "dependencies": {},
+  "main": "build/presets.json",
+  "devDependencies": {
     "mapeo-settings-builder": "^2.7.0-beta.1",
     "mkdirp": "^0.5.1"
   },
-  "devDependencies": {},
   "scripts": {
-    "build": "mkdirp build && mapeo-settings build -l 'es' -o build/settings-jungle-v${npm_package_version}.mapeosettings",
-    "prepublish": "npm run build && tarball=\"build/settings-jungle-v${npm_package_version}.mapeosettings\"; tar -C build -xvf $tarball; rm $tarball",
+    "build": "mkdirp build && mapeo-settings build -l 'es' -o build/${npm_package_name}-v${npm_package_version}.mapeosettings",
+    "prepublish": "npm run build && tarball=\"build/${npm_package_name}-v${npm_package_version}.mapeosettings\"; tar -C build -xf $tarball; rm $tarball",
     "test": "mapeo-settings lint"
   },
   "author": "Gregor MacLennan",
