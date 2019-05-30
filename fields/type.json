@@ -1,7 +1,6 @@
 {
-    "key": "type",
+    "key": "path",
     "type": "text",
-    "label": "",
-    "universal": true,
-    "placeholder": "What kind of path"
+    "label": "What kind of path?",
+    "placeholder": "What is this path used for?"
 }

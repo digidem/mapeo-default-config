@@ -1,7 +1,7 @@
 {
     "icon": "airstrip",
     "fields": [
-        "source"
+        "name"
     ],
     "geometry": [
         "point", "area"

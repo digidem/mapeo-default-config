@@ -1,7 +1,7 @@
 {
     "key": "building-type",
-    "type": "text",
-    "label": "",
-    "universal": true,
-    "placeholder": "School/hospital/etc"
+    "type": "select_one",
+    "label": "Building type",
+    "placeholder": "School/hospital/etc",
+    "options": ["School", "Hospital", "Homestead", "Church", "Shop", "Other"]
 }

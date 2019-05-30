@@ -1,7 +1,7 @@
 {
     "icon": "plant",
     "fields": [
-        "source", "plant-species"],
+        "plant-species"],
     "geometry": [
         "point", "area"
     ],

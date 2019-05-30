@@ -1,7 +1,7 @@
 {
     "icon": "animal",
     "fields": [
-        "source", "animal-type"
+        "animal-type"
     ],"geometry": [
         "point", "area"
     ],

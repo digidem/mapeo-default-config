@@ -1,7 +1,6 @@
 {
     "key": "palm-species",
     "type": "text",
-    "label": "",
-    "universal": true,
-    "placeholder": "What kind of palm"
+    "label": "Palm species",
+    "placeholder": "What kind of palm?"
 }

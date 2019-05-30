@@ -1,7 +1,6 @@
 {
     "key": "animal-type",
     "type": "text",
-    "label": "",
-    "universal": true,
-    "placeholder": "What kind of animal"
+    "label": "Animal type",
+    "placeholder": "What kind of animal?"
 }

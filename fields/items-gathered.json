@@ -1,7 +1,6 @@
 {
-    "key": "animal-type",
+    "key": "gathered",
     "type": "text",
-    "label": "",
-    "universal": true,
-    "placeholder": "What is collected here"
+    "label": "What is gathered here?",
+    "placeholder": "e.g. firewood / medicine etc."
 }

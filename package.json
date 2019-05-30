@@ -5,7 +5,7 @@
   "dependencies": {},
   "main": "build/presets.json",
   "devDependencies": {
-    "mapeo-settings-builder": "^2.7.0-beta.1",
+    "mapeo-settings-builder": "^2.8.0",
     "mkdirp": "^0.5.1"
   },
   "scripts": {

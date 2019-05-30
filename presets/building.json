@@ -1,7 +1,7 @@
 {
     "icon": "building",
     "fields": [
-        "source", "building-type"
+        "building-type"
     ],
     "geometry": [
         "point"

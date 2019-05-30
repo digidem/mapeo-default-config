@@ -1,6 +1,7 @@
 {
     "key": "name",
     "type": "localized",
-    "label": "Nombre",
-    "placeholder": "Name (if exists)"
+    "label": "Name",
+    "universal": true,
+    "placeholder": "Common name of this place"
 }

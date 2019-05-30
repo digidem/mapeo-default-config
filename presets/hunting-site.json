@@ -1,7 +1,7 @@
 {
     "icon": "hunting",
     "fields": [
-        "source", "note"
+        "animal-type"
     ],
     "geometry": [
         "point",

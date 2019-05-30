@@ -1,7 +1,7 @@
 {
     "icon": "stream",
     "fields": [
-        "source"],
+        "name"],
     "geometry": [
         "point", "line"
     ],

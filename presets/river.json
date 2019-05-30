@@ -1,7 +1,7 @@
 {
     "icon": "river",
     "fields": [
-        "source"],
+        "name"],
     "geometry": [
         "point", "line"
     ],

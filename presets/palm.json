@@ -1,7 +1,7 @@
 {
     "icon": "palm",
     "fields": [
-        "source", "palm-species"],
+        "palm-species"],
     "geometry": [
         "point", "area"
     ],

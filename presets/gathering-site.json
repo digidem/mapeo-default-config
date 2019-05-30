@@ -1,7 +1,7 @@
 {
     "icon": "gathering",
     "fields": [
-        "source", "items-gathered"
+        "items-gathered"
     ],
     "geometry": [
         "point",

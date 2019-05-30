@@ -1,7 +1,8 @@
 {
     "icon": "cave",
     "fields": [
-        "source", "note"],
+        "name"
+    ],
     "geometry": [
         "point"
     ],

@@ -1,7 +1,7 @@
 {
     "icon": "tree",
     "fields": [
-        "source", "tree-species"],
+        "tree-species"],
     "geometry": [
         "point", "area"
     ],

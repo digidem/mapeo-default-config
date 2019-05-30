@@ -1,7 +1,6 @@
 {
     "key": "source",
     "type": "text",
-    "label": "",
-    "universal": true,
+    "label": "Source",
     "placeholder": "Source of the data"
 }

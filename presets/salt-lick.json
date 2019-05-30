@@ -1,7 +1,7 @@
 {
     "icon": "salt-lick",
     "fields": [
-        "source"],
+        "animal-type"],
     "geometry": [
         "point"
     ],

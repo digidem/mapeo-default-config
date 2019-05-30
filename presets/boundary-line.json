@@ -1,7 +1,6 @@
 {
     "icon": "boundary",
     "fields": [
-        "source", "note"
     ],
     "geometry": [
         "point",

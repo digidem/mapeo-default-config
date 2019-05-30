@@ -1,7 +1,7 @@
 {
     "icon": "camp",
     "fields": [
-        "source", "owner"
+        "owner"
     ],
     "geometry": [
         "point"

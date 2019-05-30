@@ -1,7 +1,7 @@
 {
     "icon": "threat",
     "fields": [
-        "source", "note"],
+    ],
     "geometry": [
         "point", "area", "line"
     ],

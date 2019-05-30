@@ -1,7 +1,7 @@
 {
     "icon": "house",
     "fields": [
-        "source", "owner"
+        "owner"
     ],"geometry": [
         "point"
     ],

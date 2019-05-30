@@ -1,7 +1,6 @@
 {
     "icon": "clay",
     "fields": [
-        "source"
     ],
     "geometry": [
         "point"

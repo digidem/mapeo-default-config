@@ -1,7 +1,7 @@
 {
     "icon": "waterfall",
     "fields": [
-        "source"],
+        "name"],
     "geometry": [
         "point"
     ],
