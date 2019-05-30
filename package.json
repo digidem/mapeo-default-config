@@ -1,6 +1,6 @@
 {
   "name": "mapeo-default-settings",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Mapeo settings with jungle presets",
   "dependencies": {},
   "main": "build/presets.json",
