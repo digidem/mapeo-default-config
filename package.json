@@ -9,6 +9,7 @@
     "mkdirp": "^0.5.1"
   },
   "scripts": {
+    "translations": "node create_messages.js",
     "build": "mkdirp build && mapeo-settings build -l 'es' -o build/${npm_package_name}-v${npm_package_version}.mapeosettings",
     "prepublish": "npm run build && tarball=\"build/${npm_package_name}-v${npm_package_version}.mapeosettings\"; tar -C build -xf $tarball; rm $tarball",
     "test": "mapeo-settings lint"

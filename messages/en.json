@@ -1,0 +1,226 @@
+{
+  "forest-settings.fields.animal-type.label": {
+    "description": "Label displayed to user to give context for Animal type",
+    "message": "Animal type"
+  },
+  "forest-settings.fields.animal-type.placeholder": {
+    "description": "An example to guide the user for Animal type",
+    "message": "What kind of animal?"
+  },
+  "forest-settings.fields.note.label": {
+    "description": "Label displayed to user to give context for Note",
+    "message": "Note"
+  },
+  "forest-settings.fields.note.placeholder": {
+    "description": "An example to guide the user for Note",
+    "message": "Stories or notes about this place"
+  },
+  "forest-settings.fields.building-type.label": {
+    "description": "Label displayed to user to give context for Building type",
+    "message": "Building type"
+  },
+  "forest-settings.fields.building-type.placeholder": {
+    "description": "An example to guide the user for Building type",
+    "message": "School/hospital/etc"
+  },
+  "forest-settings.fields.building-type.options.School": {
+    "description": "An option for Building type",
+    "message": "School"
+  },
+  "forest-settings.fields.building-type.options.Hospital": {
+    "description": "An option for Building type",
+    "message": "Hospital"
+  },
+  "forest-settings.fields.building-type.options.Homestead": {
+    "description": "An option for Building type",
+    "message": "Homestead"
+  },
+  "forest-settings.fields.building-type.options.Church": {
+    "description": "An option for Building type",
+    "message": "Church"
+  },
+  "forest-settings.fields.building-type.options.Shop": {
+    "description": "An option for Building type",
+    "message": "Shop"
+  },
+  "forest-settings.fields.building-type.options.Other": {
+    "description": "An option for Building type",
+    "message": "Other"
+  },
+  "forest-settings.fields.name.label": {
+    "description": "Label displayed to user to give context for Name",
+    "message": "Name"
+  },
+  "forest-settings.fields.name.placeholder": {
+    "description": "An example to guide the user for Name",
+    "message": "Common name of this place"
+  },
+  "forest-settings.fields.items-gathered.label": {
+    "description": "Label displayed to user to give context for What is gathered here?",
+    "message": "What is gathered here?"
+  },
+  "forest-settings.fields.items-gathered.placeholder": {
+    "description": "An example to guide the user for What is gathered here?",
+    "message": "e.g. firewood / medicine etc."
+  },
+  "forest-settings.fields.owner.label": {
+    "description": "Label displayed to user to give context for Owner",
+    "message": "Owner"
+  },
+  "forest-settings.fields.owner.placeholder": {
+    "description": "An example to guide the user for Owner",
+    "message": "Owner or user of the place"
+  },
+  "forest-settings.fields.tree-species.label": {
+    "description": "Label displayed to user to give context for Tree species",
+    "message": "Tree species"
+  },
+  "forest-settings.fields.tree-species.placeholder": {
+    "description": "An example to guide the user for Tree species",
+    "message": "What kind of tree?"
+  },
+  "forest-settings.fields.type.label": {
+    "description": "Label displayed to user to give context for What kind of path?",
+    "message": "What kind of path?"
+  },
+  "forest-settings.fields.type.placeholder": {
+    "description": "An example to guide the user for What kind of path?",
+    "message": "What is this path used for?"
+  },
+  "forest-settings.fields.palm-species.label": {
+    "description": "Label displayed to user to give context for Palm species",
+    "message": "Palm species"
+  },
+  "forest-settings.fields.palm-species.placeholder": {
+    "description": "An example to guide the user for Palm species",
+    "message": "What kind of palm?"
+  },
+  "forest-settings.fields.plant-species.label": {
+    "description": "Label displayed to user to give context for Plant species",
+    "message": "Plant species"
+  },
+  "forest-settings.fields.plant-species.placeholder": {
+    "description": "An example to guide the user for Plant species",
+    "message": "What kind of plant?"
+  },
+  "forest-settings.fields.source.label": {
+    "description": "Label displayed to user to give context for Source",
+    "message": "Source"
+  },
+  "forest-settings.fields.source.placeholder": {
+    "description": "An example to guide the user for Source",
+    "message": "Source of the data"
+  },
+  "forest-settings.presets.animal": {
+    "description": "The name of preset animal",
+    "message": "Animal"
+  },
+  "forest-settings.presets.airstrip": {
+    "description": "The name of preset airstrip",
+    "message": "Airstrip"
+  },
+  "forest-settings.presets.camp": {
+    "description": "The name of preset camp",
+    "message": "Camp"
+  },
+  "forest-settings.presets.boundary-line": {
+    "description": "The name of preset boundary-line",
+    "message": "boundary"
+  },
+  "forest-settings.presets.area": {
+    "description": "The name of preset area",
+    "message": "New area"
+  },
+  "forest-settings.presets.building": {
+    "description": "The name of preset building",
+    "message": "Building"
+  },
+  "forest-settings.presets.fishing-site": {
+    "description": "The name of preset fishing-site",
+    "message": "Fishing Site"
+  },
+  "forest-settings.presets.cave": {
+    "description": "The name of preset cave",
+    "message": "Cave"
+  },
+  "forest-settings.presets.clay": {
+    "description": "The name of preset clay",
+    "message": "Clay"
+  },
+  "forest-settings.presets.community": {
+    "description": "The name of preset community",
+    "message": "Community"
+  },
+  "forest-settings.presets.hunting-site": {
+    "description": "The name of preset hunting-site",
+    "message": "Hunting Site"
+  },
+  "forest-settings.presets.gathering-site": {
+    "description": "The name of preset gathering-site",
+    "message": "Gathering Site"
+  },
+  "forest-settings.presets.house": {
+    "description": "The name of preset house",
+    "message": "House"
+  },
+  "forest-settings.presets.line": {
+    "description": "The name of preset line",
+    "message": "New line"
+  },
+  "forest-settings.presets.hills": {
+    "description": "The name of preset hills",
+    "message": "Hills"
+  },
+  "forest-settings.presets.lake": {
+    "description": "The name of preset lake",
+    "message": "Lake"
+  },
+  "forest-settings.presets.palm": {
+    "description": "The name of preset palm",
+    "message": "Palm"
+  },
+  "forest-settings.presets.point": {
+    "description": "The name of preset point",
+    "message": "Nuevo punto"
+  },
+  "forest-settings.presets.river": {
+    "description": "The name of preset river",
+    "message": "River"
+  },
+  "forest-settings.presets.plant": {
+    "description": "The name of preset plant",
+    "message": "Plant"
+  },
+  "forest-settings.presets.path": {
+    "description": "The name of preset path",
+    "message": "Path"
+  },
+  "forest-settings.presets.salt-lick": {
+    "description": "The name of preset salt-lick",
+    "message": "Salt lick"
+  },
+  "forest-settings.presets.stream": {
+    "description": "The name of preset stream",
+    "message": "Stream"
+  },
+  "forest-settings.presets.special-site": {
+    "description": "The name of preset special-site",
+    "message": "Special site"
+  },
+  "forest-settings.presets.threat": {
+    "description": "The name of preset threat",
+    "message": "Threat"
+  },
+  "forest-settings.presets.swidden": {
+    "description": "The name of preset swidden",
+    "message": "Farmland"
+  },
+  "forest-settings.presets.waterfall": {
+    "description": "The name of preset waterfall",
+    "message": "Waterfall"
+  },
+  "forest-settings.presets.tree": {
+    "description": "The name of preset tree",
+    "message": "Tree"
+  }
+}
