@@ -5,14 +5,17 @@
   "dependencies": {},
   "main": "build/presets.json",
   "devDependencies": {
-    "mapeo-settings-builder": "^2.8.0",
-    "mkdirp": "^0.5.1"
+    "mapeo-settings-builder": "^2.14.0",
+    "mkdirp": "^1.0.4"
   },
   "scripts": {
     "build": "mkdirp build && mapeo-settings build -l 'es' -o build/${npm_package_name}-v${npm_package_version}.mapeosettings",
-    "prepublish": "npm run build && tarball=\"build/${npm_package_name}-v${npm_package_version}.mapeosettings\"; tar -C build -xf $tarball; rm $tarball",
+    "prepublishOnly": "npm run build && tarball=\"build/${npm_package_name}-v${npm_package_version}.mapeosettings\"; tar -C build -xf $tarball; rm $tarball",
     "test": "mapeo-settings lint"
   },
   "author": "Gregor MacLennan",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "dist"
+  ]
 }
