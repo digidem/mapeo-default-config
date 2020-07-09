@@ -5,12 +5,13 @@
   "dependencies": {},
   "main": "build/presets.json",
   "devDependencies": {
-    "mkdirp": "^1.0.4"
     "mapeo-settings-builder": "^3.0.0",
+    "mkdirp": "^1.0.4",
+    "rimraf": "^3.0.2"
   },
   "scripts": {
     "build": "mkdirp build && mapeo-settings build -l 'es' -o build/${npm_package_name}-v${npm_package_version}.mapeosettings",
-    "prepublishOnly": "npm run build && tarball=\"build/${npm_package_name}-v${npm_package_version}.mapeosettings\"; tar -C build -xf $tarball; rm $tarball",
+    "prepublishOnly": "rimraf dist && mkdirp dist && npm run -s build && tar -C dist -xf build/${npm_package_name}-v${npm_package_version}.mapeosettings",
     "test": "mapeo-settings lint"
   },
   "author": "Gregor MacLennan",
