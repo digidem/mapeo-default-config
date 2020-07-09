@@ -17,5 +17,17 @@
   "license": "ISC",
   "files": [
     "dist"
-  ]
+  ],
+  "main": "dist/presets.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digidem/mapeo-default-config.git"
+  },
+  "keywords": [
+    "mapeo"
+  ],
+  "bugs": {
+    "url": "https://github.com/digidem/mapeo-default-config/issues"
+  },
+  "homepage": "https://github.com/digidem/mapeo-default-config#readme"
 }
