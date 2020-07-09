@@ -5,8 +5,8 @@
   "dependencies": {},
   "main": "build/presets.json",
   "devDependencies": {
-    "mapeo-settings-builder": "^2.14.0",
     "mkdirp": "^1.0.4"
+    "mapeo-settings-builder": "^3.0.0",
   },
   "scripts": {
     "build": "mkdirp build && mapeo-settings build -l 'es' -o build/${npm_package_name}-v${npm_package_version}.mapeosettings",
