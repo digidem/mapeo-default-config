@@ -14,7 +14,7 @@
     "test": "mapeo-settings lint"
   },
   "author": "Gregor MacLennan",
-  "license": "ISC",
+  "license": "CC-BY-NC-4.0",
   "files": [
     "dist"
   ],
