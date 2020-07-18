@@ -285,7 +285,7 @@
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
-    "message": "River"
+    "message": "Sông"
   },
   "presets.river.terms": {
     "description": "List of search terms for preset 'river'",
