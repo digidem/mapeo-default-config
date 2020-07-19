@@ -1,11 +1,11 @@
 {
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
-    "message": "Animal type"
+    "message": "ประเภทสัตว์"
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "What kind of animal?"
+    "message": "สัตว์ชนิดใด?"
   },
   "fields.animal-type.helperText": {
     "description": "Descriptive text for field 'animal-type",
@@ -13,11 +13,11 @@
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
-    "message": "Name"
+    "message": "ชื่อ"
   },
   "fields.name.placeholder": {
     "description": "An example to guide the user for field 'name'",
-    "message": "Common name of this place"
+    "message": "ชื่อสามัญของสถานที่นี้"
   },
   "fields.name.helperText": {
     "description": "Descriptive text for field 'name",
@@ -25,11 +25,11 @@
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
-    "message": "Building type"
+    "message": "ประเภทอาคาร"
   },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
-    "message": "School/hospital/etc"
+    "message": "โรงเรียน/โรงพยาบาล/อื่น ๆ"
   },
   "fields.building-type.helperText": {
     "description": "Descriptive text for field 'building-type",
@@ -37,11 +37,11 @@
   },
   "fields.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
-    "message": "What is gathered here?"
+    "message": "รวบรวมอะไรไว้ที่นี่?"
   },
   "fields.items-gathered.placeholder": {
     "description": "An example to guide the user for field 'items-gathered'",
-    "message": "e.g. firewood / medicine etc."
+    "message": "เช่น ไม้ทำฟืน / ยา เป็นต้น"
   },
   "fields.items-gathered.helperText": {
     "description": "Descriptive text for field 'items-gathered",
@@ -53,7 +53,7 @@
   },
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
-    "message": "Stories or notes about this place"
+    "message": "เรื่องเล่าหรือบันทึกของสถานที่นี้"
   },
   "fields.note.helperText": {
     "description": "Descriptive text for field 'note",
@@ -61,11 +61,11 @@
   },
   "fields.owner.label": {
     "description": "Label for field 'owner'",
-    "message": "Owner"
+    "message": "เจ้าของ"
   },
   "fields.owner.placeholder": {
     "description": "An example to guide the user for field 'owner'",
-    "message": "Owner or user of the place"
+    "message": "เจ้าของหรือผู้ใช้สถานที่"
   },
   "fields.owner.helperText": {
     "description": "Descriptive text for field 'owner",
@@ -73,11 +73,11 @@
   },
   "fields.palm-species.label": {
     "description": "Label for field 'palm-species'",
-    "message": "Palm species"
+    "message": "สายพันธุ์ปาล์ม"
   },
   "fields.palm-species.placeholder": {
     "description": "An example to guide the user for field 'palm-species'",
-    "message": "What kind of palm?"
+    "message": "ชนิดของปาล์ม?"
   },
   "fields.palm-species.helperText": {
     "description": "Descriptive text for field 'palm-species",
