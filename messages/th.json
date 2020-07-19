@@ -77,7 +77,7 @@
   },
   "fields.palm-species.placeholder": {
     "description": "An example to guide the user for field 'palm-species'",
-    "message": "ชนิดของปาล์ม?"
+    "message": "ปาล์มชนิดใด?"
   },
   "fields.palm-species.helperText": {
     "description": "Descriptive text for field 'palm-species",
@@ -85,11 +85,11 @@
   },
   "fields.plant-species.label": {
     "description": "Label for field 'plant-species'",
-    "message": "Plant species"
+    "message": "สายพันธุ์พืช"
   },
   "fields.plant-species.placeholder": {
     "description": "An example to guide the user for field 'plant-species'",
-    "message": "What kind of plant?"
+    "message": "พืชชนิดใด?"
   },
   "fields.plant-species.helperText": {
     "description": "Descriptive text for field 'plant-species",
@@ -97,11 +97,11 @@
   },
   "fields.source.label": {
     "description": "Label for field 'source'",
-    "message": "Source"
+    "message": "แหล่งที่มา"
   },
   "fields.source.placeholder": {
     "description": "An example to guide the user for field 'source'",
-    "message": "Source of the data"
+    "message": "แหล่งที่มาข้อมูล"
   },
   "fields.source.helperText": {
     "description": "Descriptive text for field 'source",
@@ -121,11 +121,11 @@
   },
   "fields.tree-species.label": {
     "description": "Label for field 'tree-species'",
-    "message": "Tree species"
+    "message": "สายพันธุ์ต้นไม้"
   },
   "fields.tree-species.placeholder": {
     "description": "An example to guide the user for field 'tree-species'",
-    "message": "What kind of tree?"
+    "message": "ต้นไม้ชนิดใด?"
   },
   "fields.tree-species.helperText": {
     "description": "Descriptive text for field 'tree-species",
@@ -141,7 +141,7 @@
   },
   "presets.animal.name": {
     "description": "The name of preset 'animal'",
-    "message": "Animal"
+    "message": "สัตว์"
   },
   "presets.animal.terms": {
     "description": "List of search terms for preset 'animal'",
@@ -285,7 +285,7 @@
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
-    "message": "River"
+    "message": "แม่น้ำ"
   },
   "presets.river.terms": {
     "description": "List of search terms for preset 'river'",
