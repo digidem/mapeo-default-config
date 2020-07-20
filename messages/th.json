@@ -177,7 +177,7 @@
   },
   "presets.building.terms": {
     "description": "List of search terms for preset 'building'",
-    "message": "medical,school"
+    "message": "โรงเรียนทางการแพทย์"
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
@@ -197,7 +197,7 @@
   },
   "presets.clay.name": {
     "description": "The name of preset 'clay'",
-    "message": "Clay"
+    "message": "ดินเหนียว"
   },
   "presets.clay.terms": {
     "description": "List of search terms for preset 'clay'",
@@ -301,11 +301,11 @@
   },
   "presets.special-site.name": {
     "description": "The name of preset 'special-site'",
-    "message": "Special site"
+    "message": "สถานที่พิเศษ"
   },
   "presets.special-site.terms": {
     "description": "List of search terms for preset 'special-site'",
-    "message": "story,sacred,historical,history"
+    "message": "มีเรื่องเล่า ความศักดิ์สิทธิ์ ประวัติศาสตร์"
   },
   "presets.stream.name": {
     "description": "The name of preset 'stream'",
@@ -317,11 +317,11 @@
   },
   "presets.swidden.name": {
     "description": "The name of preset 'swidden'",
-    "message": "Farmland"
+    "message": "ที่นา"
   },
   "presets.swidden.terms": {
     "description": "List of search terms for preset 'swidden'",
-    "message": "farm,garden,plot,allotment,paddy,cultivation"
+    "message": "ฟาร์ม สวน แปลงปลูก การจัดแปลง นาข้าว ที่การเกษตร"
   },
   "presets.threat.name": {
     "description": "The name of preset 'threat'",
