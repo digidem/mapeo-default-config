@@ -245,7 +245,7 @@
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
-    "message": "New line"
+    "message": "เส้นทางใหม่"
   },
   "presets.line.terms": {
     "description": "List of search terms for preset 'line'",
@@ -269,7 +269,7 @@
   },
   "presets.point.name": {
     "description": "The name of preset 'point'",
-    "message": "Nuevo punto"
+    "message": "ตำแหน่งใหม่"
   },
   "presets.point.terms": {
     "description": "List of search terms for preset 'point'",
@@ -349,10 +349,10 @@
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "Gathering Site"
+    "message": "โรงเก็บสินค้า"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
-    "message": "collection"
+    "message": "ของสะสม"
   }
 }
