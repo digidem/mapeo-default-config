@@ -17,7 +17,7 @@
   },
   "fields.name.placeholder": {
     "description": "An example to guide the user for field 'name'",
-    "message": "Common name of this place"
+    "message": "ឈ្មោះទូទៅនៃកន្លែងនេះ"
   },
   "fields.name.helperText": {
     "description": "Descriptive text for field 'name",
@@ -37,7 +37,7 @@
   },
   "fields.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
-    "message": "What is gathered here?"
+    "message": "reading"
   },
   "fields.items-gathered.placeholder": {
     "description": "An example to guide the user for field 'items-gathered'",
@@ -49,11 +49,11 @@
   },
   "fields.note.label": {
     "description": "Label for field 'note'",
-    "message": "Note"
+    "message": "កំណត់សំគាល់"
   },
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
-    "message": "Stories or notes about this place"
+    "message": "រឿងរ៉ាវឬកំណត់ត្រាអំពីកន្លែងនេះ"
   },
   "fields.note.helperText": {
     "description": "Descriptive text for field 'note",
@@ -61,11 +61,11 @@
   },
   "fields.owner.label": {
     "description": "Label for field 'owner'",
-    "message": "Owner"
+    "message": "ម្ចាស់"
   },
   "fields.owner.placeholder": {
     "description": "An example to guide the user for field 'owner'",
-    "message": "Owner or user of the place"
+    "message": "ម្ចាស់ឬអ្នកប្រើប្រាស់ទីកន្លែង"
   },
   "fields.owner.helperText": {
     "description": "Descriptive text for field 'owner",
@@ -85,11 +85,11 @@
   },
   "fields.plant-species.label": {
     "description": "Label for field 'plant-species'",
-    "message": "Plant species"
+    "message": "ប្រភេទរុក្ខជាតិ"
   },
   "fields.plant-species.placeholder": {
     "description": "An example to guide the user for field 'plant-species'",
-    "message": "What kind of plant?"
+    "message": "តើប្រភេទរុក្ខជាតិអ្វី?"
   },
   "fields.plant-species.helperText": {
     "description": "Descriptive text for field 'plant-species",
@@ -205,7 +205,7 @@
   },
   "presets.hunting-site.name": {
     "description": "The name of preset 'hunting-site'",
-    "message": "Hunting Site"
+    "message": "កន្លែងបរបាញ់"
   },
   "presets.hunting-site.terms": {
     "description": "List of search terms for preset 'hunting-site'",
@@ -213,15 +213,15 @@
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
-    "message": "Fishing Site"
+    "message": "កន្លែងនេសាទ"
   },
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
-    "message": "fish"
+    "message": "ត្រី"
   },
   "presets.house.name": {
     "description": "The name of preset 'house'",
-    "message": "House"
+    "message": "ផ្ទះ"
   },
   "presets.house.terms": {
     "description": "List of search terms for preset 'house'",
@@ -229,7 +229,7 @@
   },
   "presets.lake.name": {
     "description": "The name of preset 'lake'",
-    "message": "Lake"
+    "message": "បឹង"
   },
   "presets.lake.terms": {
     "description": "List of search terms for preset 'lake'",
@@ -237,15 +237,15 @@
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
-    "message": "Hills"
+    "message": "ភ្នំ"
   },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
-    "message": "mountains"
+    "message": "ភ្នំ"
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
-    "message": "New line"
+    "message": "បន្ទាត់ថ្មី"
   },
   "presets.line.terms": {
     "description": "List of search terms for preset 'line'",
@@ -261,7 +261,7 @@
   },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
-    "message": "Plant"
+    "message": "រុក្ខជាតិ"
   },
   "presets.plant.terms": {
     "description": "List of search terms for preset 'plant'",
@@ -277,7 +277,7 @@
   },
   "presets.path.name": {
     "description": "The name of preset 'path'",
-    "message": "Path"
+    "message": "ផ្លូវ"
   },
   "presets.path.terms": {
     "description": "List of search terms for preset 'path'",
@@ -301,15 +301,15 @@
   },
   "presets.special-site.name": {
     "description": "The name of preset 'special-site'",
-    "message": "Special site"
+    "message": "តំបន់ពិសេស"
   },
   "presets.special-site.terms": {
     "description": "List of search terms for preset 'special-site'",
-    "message": "story,sacred,historical,history"
+    "message": "រឿង, ពិសិដ្ឋ, ជាប្រវត្តិសាស្រ្ត, ប្រវត្តិសាស្រ្ត"
   },
   "presets.stream.name": {
     "description": "The name of preset 'stream'",
-    "message": "Stream"
+    "message": "ស្ទឹង"
   },
   "presets.stream.terms": {
     "description": "List of search terms for preset 'stream'",
@@ -317,7 +317,7 @@
   },
   "presets.swidden.name": {
     "description": "The name of preset 'swidden'",
-    "message": "Farmland"
+    "message": "ដីស្រែចំការ"
   },
   "presets.swidden.terms": {
     "description": "List of search terms for preset 'swidden'",
@@ -325,7 +325,7 @@
   },
   "presets.threat.name": {
     "description": "The name of preset 'threat'",
-    "message": "Threat"
+    "message": "ការគំរាមកំហែង"
   },
   "presets.threat.terms": {
     "description": "List of search terms for preset 'threat'",
@@ -333,7 +333,7 @@
   },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
-    "message": "Tree"
+    "message": "ដើមឈើ"
   },
   "presets.tree.terms": {
     "description": "List of search terms for preset 'tree'",
@@ -341,18 +341,18 @@
   },
   "presets.waterfall.name": {
     "description": "The name of preset 'waterfall'",
-    "message": "Waterfall"
+    "message": "ទឹកជ្រោះ"
   },
   "presets.waterfall.terms": {
     "description": "List of search terms for preset 'waterfall'",
-    "message": "cascade"
+    "message": "ល្បាក់"
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "Gathering Site"
+    "message": "កន្លែងប្រមូលផ្តុំ"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
-    "message": "collection"
+    "message": "ប្រមូល"
   }
 }
