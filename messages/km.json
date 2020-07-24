@@ -5,7 +5,7 @@
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "What kind of animal?"
+    "message": "តើនេះជាប្រភេទសត្វអ្វី?"
   },
   "fields.animal-type.helperText": {
     "description": "Descriptive text for field 'animal-type",
@@ -97,11 +97,11 @@
   },
   "fields.source.label": {
     "description": "Label for field 'source'",
-    "message": "Source"
+    "message": "ប្រភព"
   },
   "fields.source.placeholder": {
     "description": "An example to guide the user for field 'source'",
-    "message": "Source of the data"
+    "message": "ប្រភពទិន្នន័យ"
   },
   "fields.source.helperText": {
     "description": "Descriptive text for field 'source",
@@ -109,11 +109,11 @@
   },
   "fields.type.label": {
     "description": "Label for field 'type'",
-    "message": "What kind of path?"
+    "message": "តើផ្លូវប្រភេទណា?"
   },
   "fields.type.placeholder": {
     "description": "An example to guide the user for field 'type'",
-    "message": "What is this path used for?"
+    "message": "តើផ្លូវនេះត្រូវបានប្រើសម្រាប់អ្វី?"
   },
   "fields.type.helperText": {
     "description": "Descriptive text for field 'type",
@@ -121,11 +121,11 @@
   },
   "fields.tree-species.label": {
     "description": "Label for field 'tree-species'",
-    "message": "Tree species"
+    "message": "ប្រភេទដើមឈើ"
   },
   "fields.tree-species.placeholder": {
     "description": "An example to guide the user for field 'tree-species'",
-    "message": "What kind of tree?"
+    "message": "តើដើមឈើប្រភេទអ្វី?"
   },
   "fields.tree-species.helperText": {
     "description": "Descriptive text for field 'tree-species",
@@ -137,11 +137,11 @@
   },
   "presets.airstrip.terms": {
     "description": "List of search terms for preset 'airstrip'",
-    "message": "airfield,airport,landing"
+    "message": "អាកាសយានដ្ឋាន ព្រលានយន្តហោះ ចុះចត"
   },
   "presets.animal.name": {
     "description": "The name of preset 'animal'",
-    "message": "Animal"
+    "message": "សត្វ"
   },
   "presets.animal.terms": {
     "description": "List of search terms for preset 'animal'",
@@ -157,7 +157,7 @@
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
-    "message": "boundary"
+    "message": "ព្រំប្រទល់"
   },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
@@ -165,7 +165,7 @@
   },
   "presets.area.name": {
     "description": "The name of preset 'area'",
-    "message": "New area"
+    "message": "តំបន់ថ្មី"
   },
   "presets.area.terms": {
     "description": "List of search terms for preset 'area'",
@@ -173,23 +173,23 @@
   },
   "presets.building.name": {
     "description": "The name of preset 'building'",
-    "message": "Building"
+    "message": "អាគារ"
   },
   "presets.building.terms": {
     "description": "List of search terms for preset 'building'",
-    "message": "medical,school"
+    "message": "​ពេទ្យ សាលារៀន"
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
-    "message": "Community"
+    "message": "សហគមន៍"
   },
   "presets.community.terms": {
     "description": "List of search terms for preset 'community'",
-    "message": "village"
+    "message": "ភូមិ"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
-    "message": "Cave"
+    "message": "រូងភ្នំ"
   },
   "presets.cave.terms": {
     "description": "List of search terms for preset 'cave'",
@@ -197,7 +197,7 @@
   },
   "presets.clay.name": {
     "description": "The name of preset 'clay'",
-    "message": "Clay"
+    "message": "ដីឥដ្ឋ"
   },
   "presets.clay.terms": {
     "description": "List of search terms for preset 'clay'",
@@ -285,7 +285,7 @@
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
-    "message": "River"
+    "message": "ទន្លេ"
   },
   "presets.river.terms": {
     "description": "List of search terms for preset 'river'",
