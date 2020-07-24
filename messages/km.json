@@ -1,7 +1,7 @@
 {
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
-    "message": "Animal type"
+    "message": "ប្រភេទសត្វ"
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
@@ -13,7 +13,7 @@
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
-    "message": "Name"
+    "message": "ឈ្មោះ"
   },
   "fields.name.placeholder": {
     "description": "An example to guide the user for field 'name'",
@@ -25,11 +25,11 @@
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
-    "message": "Building type"
+    "message": "ប្រភេទសំណង់"
   },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
-    "message": "School/hospital/etc"
+    "message": "សាលារៀន / មន្ទីរពេទ្យ / ផ្សេងៗ"
   },
   "fields.building-type.helperText": {
     "description": "Descriptive text for field 'building-type",
