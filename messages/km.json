@@ -41,7 +41,7 @@
   },
   "fields.items-gathered.placeholder": {
     "description": "An example to guide the user for field 'items-gathered'",
-    "message": "e.g. firewood / medicine etc."
+    "message": "ឧទា. អុស / ថ្នាំ។ ល។"
   },
   "fields.items-gathered.helperText": {
     "description": "Descriptive text for field 'items-gathered",
@@ -73,11 +73,11 @@
   },
   "fields.palm-species.label": {
     "description": "Label for field 'palm-species'",
-    "message": "Palm species"
+    "message": "ប្រភេទដូង"
   },
   "fields.palm-species.placeholder": {
     "description": "An example to guide the user for field 'palm-species'",
-    "message": "What kind of palm?"
+    "message": "តើប្រភេទដូងអ្វី?"
   },
   "fields.palm-species.helperText": {
     "description": "Descriptive text for field 'palm-species",
@@ -137,7 +137,7 @@
   },
   "presets.airstrip.terms": {
     "description": "List of search terms for preset 'airstrip'",
-    "message": "អាកាសយានដ្ឋាន ព្រលានយន្តហោះ ចុះចត"
+    "message": "អាកាសយានដ្ឋាន, ព្រលានយន្តហោះ, ចុះចត"
   },
   "presets.animal.name": {
     "description": "The name of preset 'animal'",
@@ -149,11 +149,11 @@
   },
   "presets.camp.name": {
     "description": "The name of preset 'camp'",
-    "message": "Camp"
+    "message": "បោះជំរុំ"
   },
   "presets.camp.terms": {
     "description": "List of search terms for preset 'camp'",
-    "message": "campsite,camping,hunting"
+    "message": "កន្លែងបោះជំរុំ, បោះជំរុំ, ប្រម៉ាញ់"
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
@@ -177,7 +177,7 @@
   },
   "presets.building.terms": {
     "description": "List of search terms for preset 'building'",
-    "message": "​ពេទ្យ សាលារៀន"
+    "message": "​ពេទ្យ, សាលារៀន"
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
@@ -225,7 +225,7 @@
   },
   "presets.house.terms": {
     "description": "List of search terms for preset 'house'",
-    "message": "house,home"
+    "message": "ផ្ទះសំបែង, ផ្ទះ"
   },
   "presets.lake.name": {
     "description": "The name of preset 'lake'",
@@ -253,7 +253,7 @@
   },
   "presets.palm.name": {
     "description": "The name of preset 'palm'",
-    "message": "Palm"
+    "message": "ដូង"
   },
   "presets.palm.terms": {
     "description": "List of search terms for preset 'palm'",
@@ -321,7 +321,7 @@
   },
   "presets.swidden.terms": {
     "description": "List of search terms for preset 'swidden'",
-    "message": "farm,garden,plot,allotment,paddy,cultivation"
+    "message": "កសិដ្ឋាន, សួនច្បារ, គ្រោង, បែងចែក, ដីស្រែ, ការដាំដុះ"
   },
   "presets.threat.name": {
     "description": "The name of preset 'threat'",
@@ -329,7 +329,7 @@
   },
   "presets.threat.terms": {
     "description": "List of search terms for preset 'threat'",
-    "message": "danger,illegal,monitoring"
+    "message": "គ្រោះថ្នាក់, ខុសច្បាប់, ការត្រួតពិនិត្យ"
   },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
