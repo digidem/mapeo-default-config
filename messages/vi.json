@@ -1,4 +1,8 @@
 {
+  "fields.animal-type.helperText": {
+    "description": "Descriptive text for field 'animal-type",
+    "message": ""
+  },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
     "message": "Loại động vật"
@@ -7,20 +11,8 @@
     "description": "An example to guide the user for field 'animal-type'",
     "message": "Đây là loài động vật nào?"
   },
-  "fields.animal-type.helperText": {
-    "description": "Descriptive text for field 'animal-type",
-    "message": ""
-  },
-  "fields.name.label": {
-    "description": "Label for field 'name'",
-    "message": "Tên"
-  },
-  "fields.name.placeholder": {
-    "description": "An example to guide the user for field 'name'",
-    "message": "Tên thường gọi của địa điểm này"
-  },
-  "fields.name.helperText": {
-    "description": "Descriptive text for field 'name",
+  "fields.building-type.helperText": {
+    "description": "Descriptive text for field 'building-type",
     "message": ""
   },
   "fields.building-type.label": {
@@ -31,8 +23,8 @@
     "description": "An example to guide the user for field 'building-type'",
     "message": "Trường học/bệnh viện/vv"
   },
-  "fields.building-type.helperText": {
-    "description": "Descriptive text for field 'building-type",
+  "fields.items-gathered.helperText": {
+    "description": "Descriptive text for field 'items-gathered",
     "message": ""
   },
   "fields.items-gathered.label": {
@@ -43,8 +35,20 @@
     "description": "An example to guide the user for field 'items-gathered'",
     "message": "ví dụ: củi/thuốc, vv"
   },
-  "fields.items-gathered.helperText": {
-    "description": "Descriptive text for field 'items-gathered",
+  "fields.name.helperText": {
+    "description": "Descriptive text for field 'name",
+    "message": ""
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Tên"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Tên thường gọi của địa điểm này"
+  },
+  "fields.note.helperText": {
+    "description": "Descriptive text for field 'note",
     "message": ""
   },
   "fields.note.label": {
@@ -55,8 +59,8 @@
     "description": "An example to guide the user for field 'note'",
     "message": "Câu chuyện hoặc ghi chú về địa điểm này"
   },
-  "fields.note.helperText": {
-    "description": "Descriptive text for field 'note",
+  "fields.owner.helperText": {
+    "description": "Descriptive text for field 'owner",
     "message": ""
   },
   "fields.owner.label": {
@@ -67,8 +71,8 @@
     "description": "An example to guide the user for field 'owner'",
     "message": "Người sở hữu hoặc người sử dụng địa điểm"
   },
-  "fields.owner.helperText": {
-    "description": "Descriptive text for field 'owner",
+  "fields.palm-species.helperText": {
+    "description": "Descriptive text for field 'palm-species",
     "message": ""
   },
   "fields.palm-species.label": {
@@ -79,8 +83,8 @@
     "description": "An example to guide the user for field 'palm-species'",
     "message": "Đây là loài cọ gì?"
   },
-  "fields.palm-species.helperText": {
-    "description": "Descriptive text for field 'palm-species",
+  "fields.plant-species.helperText": {
+    "description": "Descriptive text for field 'plant-species",
     "message": ""
   },
   "fields.plant-species.label": {
@@ -91,8 +95,8 @@
     "description": "An example to guide the user for field 'plant-species'",
     "message": "Đây là loài cây gì?"
   },
-  "fields.plant-species.helperText": {
-    "description": "Descriptive text for field 'plant-species",
+  "fields.source.helperText": {
+    "description": "Descriptive text for field 'source",
     "message": ""
   },
   "fields.source.label": {
@@ -103,20 +107,8 @@
     "description": "An example to guide the user for field 'source'",
     "message": "Nguồn dữ liệu"
   },
-  "fields.source.helperText": {
-    "description": "Descriptive text for field 'source",
-    "message": ""
-  },
-  "fields.type.label": {
-    "description": "Label for field 'type'",
-    "message": "Đây là đường gì?"
-  },
-  "fields.type.placeholder": {
-    "description": "An example to guide the user for field 'type'",
-    "message": "Con đường này dùng để làm gì?"
-  },
-  "fields.type.helperText": {
-    "description": "Descriptive text for field 'type",
+  "fields.tree-species.helperText": {
+    "description": "Descriptive text for field 'tree-species",
     "message": ""
   },
   "fields.tree-species.label": {
@@ -127,9 +119,17 @@
     "description": "An example to guide the user for field 'tree-species'",
     "message": "Đây là loài cây gì?"
   },
-  "fields.tree-species.helperText": {
-    "description": "Descriptive text for field 'tree-species",
+  "fields.type.helperText": {
+    "description": "Descriptive text for field 'type",
     "message": ""
+  },
+  "fields.type.label": {
+    "description": "Label for field 'type'",
+    "message": "Đây là đường gì?"
+  },
+  "fields.type.placeholder": {
+    "description": "An example to guide the user for field 'type'",
+    "message": "Con đường này dùng để làm gì?"
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
@@ -147,13 +147,13 @@
     "description": "List of search terms for preset 'animal'",
     "message": ""
   },
-  "presets.camp.name": {
-    "description": "The name of preset 'camp'",
-    "message": "Trại"
+  "presets.area.name": {
+    "description": "The name of preset 'area'",
+    "message": "Khu vực mới"
   },
-  "presets.camp.terms": {
-    "description": "List of search terms for preset 'camp'",
-    "message": "khu cắm trại, đi cắm trại, săn bắn"
+  "presets.area.terms": {
+    "description": "List of search terms for preset 'area'",
+    "message": ""
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
@@ -163,14 +163,6 @@
     "description": "List of search terms for preset 'boundary-line'",
     "message": "biên giới, biên thùy"
   },
-  "presets.area.name": {
-    "description": "The name of preset 'area'",
-    "message": "Khu vực mới"
-  },
-  "presets.area.terms": {
-    "description": "List of search terms for preset 'area'",
-    "message": ""
-  },
   "presets.building.name": {
     "description": "The name of preset 'building'",
     "message": "Tòa nhà"
@@ -179,13 +171,13 @@
     "description": "List of search terms for preset 'building'",
     "message": "bệnh viện, trường học"
   },
-  "presets.community.name": {
-    "description": "The name of preset 'community'",
-    "message": "Cộng đồng"
+  "presets.camp.name": {
+    "description": "The name of preset 'camp'",
+    "message": "Trại"
   },
-  "presets.community.terms": {
-    "description": "List of search terms for preset 'community'",
-    "message": "làng"
+  "presets.camp.terms": {
+    "description": "List of search terms for preset 'camp'",
+    "message": "khu cắm trại, đi cắm trại, săn bắn"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
@@ -203,13 +195,13 @@
     "description": "List of search terms for preset 'clay'",
     "message": ""
   },
-  "presets.hunting-site.name": {
-    "description": "The name of preset 'hunting-site'",
-    "message": "Khu săn bắn"
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Cộng đồng"
   },
-  "presets.hunting-site.terms": {
-    "description": "List of search terms for preset 'hunting-site'",
-    "message": ""
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "làng"
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
@@ -219,21 +211,13 @@
     "description": "List of search terms for preset 'fishing-site'",
     "message": "cá"
   },
-  "presets.house.name": {
-    "description": "The name of preset 'house'",
-    "message": "Nhà"
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "Địa điểm tụ họp"
   },
-  "presets.house.terms": {
-    "description": "List of search terms for preset 'house'",
-    "message": "nhà"
-  },
-  "presets.lake.name": {
-    "description": "The name of preset 'lake'",
-    "message": "Hồ"
-  },
-  "presets.lake.terms": {
-    "description": "List of search terms for preset 'lake'",
-    "message": ""
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "bộ sưu tập"
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
@@ -242,6 +226,30 @@
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
     "message": "núi"
+  },
+  "presets.house.name": {
+    "description": "The name of preset 'house'",
+    "message": "Nhà"
+  },
+  "presets.house.terms": {
+    "description": "List of search terms for preset 'house'",
+    "message": "nhà"
+  },
+  "presets.hunting-site.name": {
+    "description": "The name of preset 'hunting-site'",
+    "message": "Khu săn bắn"
+  },
+  "presets.hunting-site.terms": {
+    "description": "List of search terms for preset 'hunting-site'",
+    "message": ""
+  },
+  "presets.lake.name": {
+    "description": "The name of preset 'lake'",
+    "message": "Hồ"
+  },
+  "presets.lake.terms": {
+    "description": "List of search terms for preset 'lake'",
+    "message": ""
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
@@ -259,6 +267,14 @@
     "description": "List of search terms for preset 'palm'",
     "message": ""
   },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Con đường"
+  },
+  "presets.path.terms": {
+    "description": "List of search terms for preset 'path'",
+    "message": ""
+  },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Cây"
@@ -273,14 +289,6 @@
   },
   "presets.point.terms": {
     "description": "List of search terms for preset 'point'",
-    "message": ""
-  },
-  "presets.path.name": {
-    "description": "The name of preset 'path'",
-    "message": "Con đường"
-  },
-  "presets.path.terms": {
-    "description": "List of search terms for preset 'path'",
     "message": ""
   },
   "presets.river.name": {
@@ -346,13 +354,5 @@
   "presets.waterfall.terms": {
     "description": "List of search terms for preset 'waterfall'",
     "message": "chảy xuống"
-  },
-  "presets.gathering-site.name": {
-    "description": "The name of preset 'gathering-site'",
-    "message": "Địa điểm tụ họp"
-  },
-  "presets.gathering-site.terms": {
-    "description": "List of search terms for preset 'gathering-site'",
-    "message": "bộ sưu tập"
   }
 }
