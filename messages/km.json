@@ -1,6 +1,6 @@
 {
   "fields.animal-type.helperText": {
-    "description": "Descriptive text for field 'animal-type",
+    "description": "Descriptive text for field 'animal-type'",
     "message": ""
   },
   "fields.animal-type.label": {
@@ -12,7 +12,7 @@
     "message": "តើនេះជាប្រភេទសត្វអ្វី?"
   },
   "fields.building-type.helperText": {
-    "description": "Descriptive text for field 'building-type",
+    "description": "Descriptive text for field 'building-type'",
     "message": ""
   },
   "fields.building-type.label": {
@@ -24,7 +24,7 @@
     "message": "សាលារៀន / មន្ទីរពេទ្យ / ផ្សេងៗ"
   },
   "fields.items-gathered.helperText": {
-    "description": "Descriptive text for field 'items-gathered",
+    "description": "Descriptive text for field 'items-gathered'",
     "message": ""
   },
   "fields.items-gathered.label": {
@@ -36,7 +36,7 @@
     "message": "ឧទា. អុស / ថ្នាំ។ ល។"
   },
   "fields.name.helperText": {
-    "description": "Descriptive text for field 'name",
+    "description": "Descriptive text for field 'name'",
     "message": ""
   },
   "fields.name.label": {
@@ -48,7 +48,7 @@
     "message": "ឈ្មោះទូទៅនៃកន្លែងនេះ"
   },
   "fields.note.helperText": {
-    "description": "Descriptive text for field 'note",
+    "description": "Descriptive text for field 'note'",
     "message": ""
   },
   "fields.note.label": {
@@ -60,7 +60,7 @@
     "message": "រឿងរ៉ាវឬកំណត់ត្រាអំពីកន្លែងនេះ"
   },
   "fields.owner.helperText": {
-    "description": "Descriptive text for field 'owner",
+    "description": "Descriptive text for field 'owner'",
     "message": ""
   },
   "fields.owner.label": {
@@ -72,7 +72,7 @@
     "message": "ម្ចាស់ឬអ្នកប្រើប្រាស់ទីកន្លែង"
   },
   "fields.palm-species.helperText": {
-    "description": "Descriptive text for field 'palm-species",
+    "description": "Descriptive text for field 'palm-species'",
     "message": ""
   },
   "fields.palm-species.label": {
@@ -84,7 +84,7 @@
     "message": "តើប្រភេទដូងអ្វី?"
   },
   "fields.plant-species.helperText": {
-    "description": "Descriptive text for field 'plant-species",
+    "description": "Descriptive text for field 'plant-species'",
     "message": ""
   },
   "fields.plant-species.label": {
@@ -96,7 +96,7 @@
     "message": "តើប្រភេទរុក្ខជាតិអ្វី?"
   },
   "fields.source.helperText": {
-    "description": "Descriptive text for field 'source",
+    "description": "Descriptive text for field 'source'",
     "message": ""
   },
   "fields.source.label": {
@@ -108,7 +108,7 @@
     "message": "ប្រភពទិន្នន័យ"
   },
   "fields.tree-species.helperText": {
-    "description": "Descriptive text for field 'tree-species",
+    "description": "Descriptive text for field 'tree-species'",
     "message": ""
   },
   "fields.tree-species.label": {
@@ -120,7 +120,7 @@
     "message": "តើដើមឈើប្រភេទអ្វី?"
   },
   "fields.type.helperText": {
-    "description": "Descriptive text for field 'type",
+    "description": "Descriptive text for field 'type'",
     "message": ""
   },
   "fields.type.label": {
