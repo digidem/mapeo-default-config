@@ -1,11 +1,11 @@
 {
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
-    "message": "ประเภทสัตว์"
+    "message": "Animal type"
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "สัตว์ชนิดใด?"
+    "message": "What kind of animal?"
   },
   "fields.animal-type.helperText": {
     "description": "Descriptive text for field 'animal-type",
@@ -13,11 +13,11 @@
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
-    "message": "ชื่อ"
+    "message": "Name"
   },
   "fields.name.placeholder": {
     "description": "An example to guide the user for field 'name'",
-    "message": "ชื่อสามัญของสถานที่นี้"
+    "message": "Common name of this place"
   },
   "fields.name.helperText": {
     "description": "Descriptive text for field 'name",
@@ -25,11 +25,11 @@
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
-    "message": "ประเภทอาคาร"
+    "message": "Building type"
   },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
-    "message": "โรงเรียน/โรงพยาบาล/อื่น ๆ"
+    "message": "School/hospital/etc"
   },
   "fields.building-type.helperText": {
     "description": "Descriptive text for field 'building-type",
@@ -37,11 +37,11 @@
   },
   "fields.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
-    "message": "รวบรวมอะไรไว้ที่นี่?"
+    "message": "What is gathered here?"
   },
   "fields.items-gathered.placeholder": {
     "description": "An example to guide the user for field 'items-gathered'",
-    "message": "เช่น ไม้ทำฟืน / ยา เป็นต้น"
+    "message": "e.g. firewood / medicine etc."
   },
   "fields.items-gathered.helperText": {
     "description": "Descriptive text for field 'items-gathered",
@@ -49,11 +49,11 @@
   },
   "fields.note.label": {
     "description": "Label for field 'note'",
-    "message": "หมายเหตุ"
+    "message": "Note"
   },
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
-    "message": "เรื่องเล่าหรือบันทึกของสถานที่นี้"
+    "message": "Stories or notes about this place"
   },
   "fields.note.helperText": {
     "description": "Descriptive text for field 'note",
@@ -61,11 +61,11 @@
   },
   "fields.owner.label": {
     "description": "Label for field 'owner'",
-    "message": "เจ้าของ"
+    "message": "Owner"
   },
   "fields.owner.placeholder": {
     "description": "An example to guide the user for field 'owner'",
-    "message": "เจ้าของหรือผู้ใช้สถานที่"
+    "message": "Owner or user of the place"
   },
   "fields.owner.helperText": {
     "description": "Descriptive text for field 'owner",
@@ -73,11 +73,11 @@
   },
   "fields.palm-species.label": {
     "description": "Label for field 'palm-species'",
-    "message": "สายพันธุ์ปาล์ม"
+    "message": "Palm species"
   },
   "fields.palm-species.placeholder": {
     "description": "An example to guide the user for field 'palm-species'",
-    "message": "ปาล์มชนิดใด?"
+    "message": "What kind of palm?"
   },
   "fields.palm-species.helperText": {
     "description": "Descriptive text for field 'palm-species",
@@ -85,11 +85,11 @@
   },
   "fields.plant-species.label": {
     "description": "Label for field 'plant-species'",
-    "message": "สายพันธุ์พืช"
+    "message": "Plant species"
   },
   "fields.plant-species.placeholder": {
     "description": "An example to guide the user for field 'plant-species'",
-    "message": "พืชชนิดใด?"
+    "message": "What kind of plant?"
   },
   "fields.plant-species.helperText": {
     "description": "Descriptive text for field 'plant-species",
@@ -97,11 +97,11 @@
   },
   "fields.source.label": {
     "description": "Label for field 'source'",
-    "message": "แหล่งที่มา"
+    "message": "Source"
   },
   "fields.source.placeholder": {
     "description": "An example to guide the user for field 'source'",
-    "message": "แหล่งที่มาข้อมูล"
+    "message": "Source of the data"
   },
   "fields.source.helperText": {
     "description": "Descriptive text for field 'source",
@@ -109,11 +109,11 @@
   },
   "fields.type.label": {
     "description": "Label for field 'type'",
-    "message": "ทางเดินประเภทใด?"
+    "message": "What kind of path?"
   },
   "fields.type.placeholder": {
     "description": "An example to guide the user for field 'type'",
-    "message": "เส้นทางนี้ใช้ทำอะไร?"
+    "message": "What is this path used for?"
   },
   "fields.type.helperText": {
     "description": "Descriptive text for field 'type",
@@ -121,11 +121,11 @@
   },
   "fields.tree-species.label": {
     "description": "Label for field 'tree-species'",
-    "message": "สายพันธุ์ต้นไม้"
+    "message": "Tree species"
   },
   "fields.tree-species.placeholder": {
     "description": "An example to guide the user for field 'tree-species'",
-    "message": "ต้นไม้ชนิดใด?"
+    "message": "What kind of tree?"
   },
   "fields.tree-species.helperText": {
     "description": "Descriptive text for field 'tree-species",
@@ -133,15 +133,15 @@
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
-    "message": "ทางขึ้น-ลงของเครื่องบิน"
+    "message": "Airstrip"
   },
   "presets.airstrip.terms": {
     "description": "List of search terms for preset 'airstrip'",
-    "message": "ลานบิน สนามบิน ที่ลงจอด"
+    "message": "airfield,airport,landing"
   },
   "presets.animal.name": {
     "description": "The name of preset 'animal'",
-    "message": "สัตว์"
+    "message": "Animal"
   },
   "presets.animal.terms": {
     "description": "List of search terms for preset 'animal'",
@@ -149,23 +149,23 @@
   },
   "presets.camp.name": {
     "description": "The name of preset 'camp'",
-    "message": "แคมป์"
+    "message": "Camp"
   },
   "presets.camp.terms": {
     "description": "List of search terms for preset 'camp'",
-    "message": "ที่ตั้งแคมป์ ตั้งแคมป์ ล่าสัตว์"
+    "message": "campsite,camping,hunting"
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
-    "message": "ขอบเขต"
+    "message": "boundary"
   },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
-    "message": "เขตแดน แนวพรมแดน"
+    "message": "border,frontier"
   },
   "presets.area.name": {
     "description": "The name of preset 'area'",
-    "message": "พื้นที่ใหม่"
+    "message": "New area"
   },
   "presets.area.terms": {
     "description": "List of search terms for preset 'area'",
@@ -173,23 +173,23 @@
   },
   "presets.building.name": {
     "description": "The name of preset 'building'",
-    "message": "อาคาร"
+    "message": "Building"
   },
   "presets.building.terms": {
     "description": "List of search terms for preset 'building'",
-    "message": "โรงเรียนทางการแพทย์"
+    "message": "medical,school"
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
-    "message": "ชุมชน"
+    "message": "Community"
   },
   "presets.community.terms": {
     "description": "List of search terms for preset 'community'",
-    "message": "หมู่บ้าน"
+    "message": "village"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
-    "message": "ถ้ำ"
+    "message": "Cave"
   },
   "presets.cave.terms": {
     "description": "List of search terms for preset 'cave'",
@@ -197,7 +197,7 @@
   },
   "presets.clay.name": {
     "description": "The name of preset 'clay'",
-    "message": "ดินเหนียว"
+    "message": "Clay"
   },
   "presets.clay.terms": {
     "description": "List of search terms for preset 'clay'",
@@ -205,7 +205,7 @@
   },
   "presets.hunting-site.name": {
     "description": "The name of preset 'hunting-site'",
-    "message": "ที่ล่าสัตว์"
+    "message": "Hunting Site"
   },
   "presets.hunting-site.terms": {
     "description": "List of search terms for preset 'hunting-site'",
@@ -213,23 +213,23 @@
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
-    "message": "ที่ตกปลา"
+    "message": "Fishing Site"
   },
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
-    "message": "ปลา"
+    "message": "fish"
   },
   "presets.house.name": {
     "description": "The name of preset 'house'",
-    "message": "บ้าน"
+    "message": "House"
   },
   "presets.house.terms": {
     "description": "List of search terms for preset 'house'",
-    "message": "บ้าน ที่อยู่อาศัย"
+    "message": "house,home"
   },
   "presets.lake.name": {
     "description": "The name of preset 'lake'",
-    "message": "ทะเลสาบ"
+    "message": "Lake"
   },
   "presets.lake.terms": {
     "description": "List of search terms for preset 'lake'",
@@ -237,15 +237,15 @@
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
-    "message": "เนินเขา"
+    "message": "Hills"
   },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
-    "message": "ภูเขา"
+    "message": "mountains"
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
-    "message": "เส้นทางใหม่"
+    "message": "New line"
   },
   "presets.line.terms": {
     "description": "List of search terms for preset 'line'",
@@ -253,7 +253,7 @@
   },
   "presets.palm.name": {
     "description": "The name of preset 'palm'",
-    "message": "ต้นปาล์ม"
+    "message": "Palm"
   },
   "presets.palm.terms": {
     "description": "List of search terms for preset 'palm'",
@@ -261,7 +261,7 @@
   },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
-    "message": "พืช"
+    "message": "Plant"
   },
   "presets.plant.terms": {
     "description": "List of search terms for preset 'plant'",
@@ -269,7 +269,7 @@
   },
   "presets.point.name": {
     "description": "The name of preset 'point'",
-    "message": "ตำแหน่งใหม่"
+    "message": "Nuevo punto"
   },
   "presets.point.terms": {
     "description": "List of search terms for preset 'point'",
@@ -277,7 +277,7 @@
   },
   "presets.path.name": {
     "description": "The name of preset 'path'",
-    "message": "เส้นทาง"
+    "message": "Path"
   },
   "presets.path.terms": {
     "description": "List of search terms for preset 'path'",
@@ -285,7 +285,7 @@
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
-    "message": "แม่น้ำ"
+    "message": "River"
   },
   "presets.river.terms": {
     "description": "List of search terms for preset 'river'",
@@ -293,7 +293,7 @@
   },
   "presets.salt-lick.name": {
     "description": "The name of preset 'salt-lick'",
-    "message": "โป่งเกลือ"
+    "message": "Salt lick"
   },
   "presets.salt-lick.terms": {
     "description": "List of search terms for preset 'salt-lick'",
@@ -301,15 +301,15 @@
   },
   "presets.special-site.name": {
     "description": "The name of preset 'special-site'",
-    "message": "สถานที่พิเศษ"
+    "message": "Special site"
   },
   "presets.special-site.terms": {
     "description": "List of search terms for preset 'special-site'",
-    "message": "มีเรื่องเล่า ความศักดิ์สิทธิ์ ประวัติศาสตร์"
+    "message": "story,sacred,historical,history"
   },
   "presets.stream.name": {
     "description": "The name of preset 'stream'",
-    "message": "ลำธาร"
+    "message": "Stream"
   },
   "presets.stream.terms": {
     "description": "List of search terms for preset 'stream'",
@@ -317,23 +317,23 @@
   },
   "presets.swidden.name": {
     "description": "The name of preset 'swidden'",
-    "message": "ที่นา"
+    "message": "Farmland"
   },
   "presets.swidden.terms": {
     "description": "List of search terms for preset 'swidden'",
-    "message": "ฟาร์ม สวน แปลงปลูก การจัดแปลง นาข้าว ที่การเกษตร"
+    "message": "farm,garden,plot,allotment,paddy,cultivation"
   },
   "presets.threat.name": {
     "description": "The name of preset 'threat'",
-    "message": "ภัยคุกคาม"
+    "message": "Threat"
   },
   "presets.threat.terms": {
     "description": "List of search terms for preset 'threat'",
-    "message": "ภัยอันตราย สิ่งผิดกฎหมาย การติดตาม"
+    "message": "danger,illegal,monitoring"
   },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
-    "message": "ต้นไม้"
+    "message": "Tree"
   },
   "presets.tree.terms": {
     "description": "List of search terms for preset 'tree'",
@@ -341,18 +341,18 @@
   },
   "presets.waterfall.name": {
     "description": "The name of preset 'waterfall'",
-    "message": "น้ำตก"
+    "message": "Waterfall"
   },
   "presets.waterfall.terms": {
     "description": "List of search terms for preset 'waterfall'",
-    "message": "ชั้นน้ำตก"
+    "message": "cascade"
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "โรงเก็บสินค้า"
+    "message": "Gathering Site"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
-    "message": "ของสะสม"
+    "message": "collection"
   }
 }
