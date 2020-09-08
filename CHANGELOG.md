@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/digidem/mapeo-default-config/compare/v3.0.0...v3.1.0) (2020-09-08)
+
+
+### Features
+
+* Add creative commons license ([c80585f](https://github.com/digidem/mapeo-default-config/commit/c80585f352133e05aabb1485280ce4aabf78c74a))
+* Add translations ([911fadc](https://github.com/digidem/mapeo-default-config/commit/911fadcd12208ab47eea65794628789ceea2c3ec))
+
 ## [3.0.0](https://github.com/digidem/mapeo-default-config/compare/v2.1.0...v3.0.0) (2020-07-09)
 
 
