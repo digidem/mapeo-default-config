@@ -1,4 +1,8 @@
 {
+  "fields.animal-type.helperText": {
+    "description": "Descriptive text for field 'animal-type",
+    "message": ""
+  },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
     "message": "Animal type"
@@ -7,20 +11,8 @@
     "description": "An example to guide the user for field 'animal-type'",
     "message": "What kind of animal?"
   },
-  "fields.animal-type.helperText": {
-    "description": "Descriptive text for field 'animal-type",
-    "message": ""
-  },
-  "fields.name.label": {
-    "description": "Label for field 'name'",
-    "message": "Name"
-  },
-  "fields.name.placeholder": {
-    "description": "An example to guide the user for field 'name'",
-    "message": "Common name of this place"
-  },
-  "fields.name.helperText": {
-    "description": "Descriptive text for field 'name",
+  "fields.building-type.helperText": {
+    "description": "Descriptive text for field 'building-type",
     "message": ""
   },
   "fields.building-type.label": {
@@ -31,8 +23,8 @@
     "description": "An example to guide the user for field 'building-type'",
     "message": "School/hospital/etc"
   },
-  "fields.building-type.helperText": {
-    "description": "Descriptive text for field 'building-type",
+  "fields.items-gathered.helperText": {
+    "description": "Descriptive text for field 'items-gathered",
     "message": ""
   },
   "fields.items-gathered.label": {
@@ -43,8 +35,20 @@
     "description": "An example to guide the user for field 'items-gathered'",
     "message": "e.g. firewood / medicine etc."
   },
-  "fields.items-gathered.helperText": {
-    "description": "Descriptive text for field 'items-gathered",
+  "fields.name.helperText": {
+    "description": "Descriptive text for field 'name",
+    "message": ""
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Name"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Common name of this place"
+  },
+  "fields.note.helperText": {
+    "description": "Descriptive text for field 'note",
     "message": ""
   },
   "fields.note.label": {
@@ -55,8 +59,8 @@
     "description": "An example to guide the user for field 'note'",
     "message": "Stories or notes about this place"
   },
-  "fields.note.helperText": {
-    "description": "Descriptive text for field 'note",
+  "fields.owner.helperText": {
+    "description": "Descriptive text for field 'owner",
     "message": ""
   },
   "fields.owner.label": {
@@ -67,8 +71,8 @@
     "description": "An example to guide the user for field 'owner'",
     "message": "Owner or user of the place"
   },
-  "fields.owner.helperText": {
-    "description": "Descriptive text for field 'owner",
+  "fields.palm-species.helperText": {
+    "description": "Descriptive text for field 'palm-species",
     "message": ""
   },
   "fields.palm-species.label": {
@@ -79,8 +83,8 @@
     "description": "An example to guide the user for field 'palm-species'",
     "message": "What kind of palm?"
   },
-  "fields.palm-species.helperText": {
-    "description": "Descriptive text for field 'palm-species",
+  "fields.plant-species.helperText": {
+    "description": "Descriptive text for field 'plant-species",
     "message": ""
   },
   "fields.plant-species.label": {
@@ -91,8 +95,8 @@
     "description": "An example to guide the user for field 'plant-species'",
     "message": "What kind of plant?"
   },
-  "fields.plant-species.helperText": {
-    "description": "Descriptive text for field 'plant-species",
+  "fields.source.helperText": {
+    "description": "Descriptive text for field 'source",
     "message": ""
   },
   "fields.source.label": {
@@ -103,20 +107,8 @@
     "description": "An example to guide the user for field 'source'",
     "message": "Source of the data"
   },
-  "fields.source.helperText": {
-    "description": "Descriptive text for field 'source",
-    "message": ""
-  },
-  "fields.type.label": {
-    "description": "Label for field 'type'",
-    "message": "What kind of path?"
-  },
-  "fields.type.placeholder": {
-    "description": "An example to guide the user for field 'type'",
-    "message": "What is this path used for?"
-  },
-  "fields.type.helperText": {
-    "description": "Descriptive text for field 'type",
+  "fields.tree-species.helperText": {
+    "description": "Descriptive text for field 'tree-species",
     "message": ""
   },
   "fields.tree-species.label": {
@@ -127,9 +119,17 @@
     "description": "An example to guide the user for field 'tree-species'",
     "message": "What kind of tree?"
   },
-  "fields.tree-species.helperText": {
-    "description": "Descriptive text for field 'tree-species",
+  "fields.type.helperText": {
+    "description": "Descriptive text for field 'type",
     "message": ""
+  },
+  "fields.type.label": {
+    "description": "Label for field 'type'",
+    "message": "What kind of path?"
+  },
+  "fields.type.placeholder": {
+    "description": "An example to guide the user for field 'type'",
+    "message": "What is this path used for?"
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
@@ -147,13 +147,13 @@
     "description": "List of search terms for preset 'animal'",
     "message": ""
   },
-  "presets.camp.name": {
-    "description": "The name of preset 'camp'",
-    "message": "Camp"
+  "presets.area.name": {
+    "description": "The name of preset 'area'",
+    "message": "New area"
   },
-  "presets.camp.terms": {
-    "description": "List of search terms for preset 'camp'",
-    "message": "campsite,camping,hunting"
+  "presets.area.terms": {
+    "description": "List of search terms for preset 'area'",
+    "message": ""
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
@@ -163,14 +163,6 @@
     "description": "List of search terms for preset 'boundary-line'",
     "message": "border,frontier"
   },
-  "presets.area.name": {
-    "description": "The name of preset 'area'",
-    "message": "New area"
-  },
-  "presets.area.terms": {
-    "description": "List of search terms for preset 'area'",
-    "message": ""
-  },
   "presets.building.name": {
     "description": "The name of preset 'building'",
     "message": "Building"
@@ -179,13 +171,13 @@
     "description": "List of search terms for preset 'building'",
     "message": "medical,school"
   },
-  "presets.community.name": {
-    "description": "The name of preset 'community'",
-    "message": "Community"
+  "presets.camp.name": {
+    "description": "The name of preset 'camp'",
+    "message": "Camp"
   },
-  "presets.community.terms": {
-    "description": "List of search terms for preset 'community'",
-    "message": "village"
+  "presets.camp.terms": {
+    "description": "List of search terms for preset 'camp'",
+    "message": "campsite,camping,hunting"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
@@ -203,13 +195,13 @@
     "description": "List of search terms for preset 'clay'",
     "message": ""
   },
-  "presets.hunting-site.name": {
-    "description": "The name of preset 'hunting-site'",
-    "message": "Hunting Site"
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Community"
   },
-  "presets.hunting-site.terms": {
-    "description": "List of search terms for preset 'hunting-site'",
-    "message": ""
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "village"
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
@@ -219,21 +211,13 @@
     "description": "List of search terms for preset 'fishing-site'",
     "message": "fish"
   },
-  "presets.house.name": {
-    "description": "The name of preset 'house'",
-    "message": "House"
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "Gathering Site"
   },
-  "presets.house.terms": {
-    "description": "List of search terms for preset 'house'",
-    "message": "house,home"
-  },
-  "presets.lake.name": {
-    "description": "The name of preset 'lake'",
-    "message": "Lake"
-  },
-  "presets.lake.terms": {
-    "description": "List of search terms for preset 'lake'",
-    "message": ""
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "collection"
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
@@ -242,6 +226,30 @@
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
     "message": "mountains"
+  },
+  "presets.house.name": {
+    "description": "The name of preset 'house'",
+    "message": "House"
+  },
+  "presets.house.terms": {
+    "description": "List of search terms for preset 'house'",
+    "message": "house,home"
+  },
+  "presets.hunting-site.name": {
+    "description": "The name of preset 'hunting-site'",
+    "message": "Hunting Site"
+  },
+  "presets.hunting-site.terms": {
+    "description": "List of search terms for preset 'hunting-site'",
+    "message": ""
+  },
+  "presets.lake.name": {
+    "description": "The name of preset 'lake'",
+    "message": "Lake"
+  },
+  "presets.lake.terms": {
+    "description": "List of search terms for preset 'lake'",
+    "message": ""
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
@@ -259,6 +267,14 @@
     "description": "List of search terms for preset 'palm'",
     "message": ""
   },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Path"
+  },
+  "presets.path.terms": {
+    "description": "List of search terms for preset 'path'",
+    "message": ""
+  },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Plant"
@@ -273,14 +289,6 @@
   },
   "presets.point.terms": {
     "description": "List of search terms for preset 'point'",
-    "message": ""
-  },
-  "presets.path.name": {
-    "description": "The name of preset 'path'",
-    "message": "Path"
-  },
-  "presets.path.terms": {
-    "description": "List of search terms for preset 'path'",
     "message": ""
   },
   "presets.river.name": {
@@ -346,13 +354,5 @@
   "presets.waterfall.terms": {
     "description": "List of search terms for preset 'waterfall'",
     "message": "cascade"
-  },
-  "presets.gathering-site.name": {
-    "description": "The name of preset 'gathering-site'",
-    "message": "Gathering Site"
-  },
-  "presets.gathering-site.terms": {
-    "description": "List of search terms for preset 'gathering-site'",
-    "message": "collection"
   }
 }
