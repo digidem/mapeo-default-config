@@ -1,6 +1,6 @@
 {
   "fields.animal-type.helperText": {
-    "description": "Descriptive text for field 'animal-type",
+    "description": "Descriptive text for field 'animal-type'",
     "message": ""
   },
   "fields.animal-type.label": {
@@ -12,7 +12,7 @@
     "message": "สัตว์ชนิดใด?"
   },
   "fields.building-type.helperText": {
-    "description": "Descriptive text for field 'building-type",
+    "description": "Descriptive text for field 'building-type'",
     "message": ""
   },
   "fields.building-type.label": {
@@ -24,7 +24,7 @@
     "message": "โรงเรียน/โรงพยาบาล/อื่น ๆ"
   },
   "fields.items-gathered.helperText": {
-    "description": "Descriptive text for field 'items-gathered",
+    "description": "Descriptive text for field 'items-gathered'",
     "message": ""
   },
   "fields.items-gathered.label": {
@@ -36,7 +36,7 @@
     "message": "เช่น ไม้ทำฟืน / ยา เป็นต้น"
   },
   "fields.name.helperText": {
-    "description": "Descriptive text for field 'name",
+    "description": "Descriptive text for field 'name'",
     "message": ""
   },
   "fields.name.label": {
@@ -48,7 +48,7 @@
     "message": "ชื่อสามัญของสถานที่นี้"
   },
   "fields.note.helperText": {
-    "description": "Descriptive text for field 'note",
+    "description": "Descriptive text for field 'note'",
     "message": ""
   },
   "fields.note.label": {
@@ -60,7 +60,7 @@
     "message": "เรื่องเล่าหรือบันทึกของสถานที่นี้"
   },
   "fields.owner.helperText": {
-    "description": "Descriptive text for field 'owner",
+    "description": "Descriptive text for field 'owner'",
     "message": ""
   },
   "fields.owner.label": {
@@ -72,7 +72,7 @@
     "message": "เจ้าของหรือผู้ใช้สถานที่"
   },
   "fields.palm-species.helperText": {
-    "description": "Descriptive text for field 'palm-species",
+    "description": "Descriptive text for field 'palm-species'",
     "message": ""
   },
   "fields.palm-species.label": {
@@ -84,7 +84,7 @@
     "message": "ปาล์มชนิดใด?"
   },
   "fields.plant-species.helperText": {
-    "description": "Descriptive text for field 'plant-species",
+    "description": "Descriptive text for field 'plant-species'",
     "message": ""
   },
   "fields.plant-species.label": {
@@ -96,7 +96,7 @@
     "message": "พืชชนิดใด?"
   },
   "fields.source.helperText": {
-    "description": "Descriptive text for field 'source",
+    "description": "Descriptive text for field 'source'",
     "message": ""
   },
   "fields.source.label": {
@@ -108,7 +108,7 @@
     "message": "แหล่งที่มาข้อมูล"
   },
   "fields.tree-species.helperText": {
-    "description": "Descriptive text for field 'tree-species",
+    "description": "Descriptive text for field 'tree-species'",
     "message": ""
   },
   "fields.tree-species.label": {
@@ -120,7 +120,7 @@
     "message": "ต้นไม้ชนิดใด?"
   },
   "fields.type.helperText": {
-    "description": "Descriptive text for field 'type",
+    "description": "Descriptive text for field 'type'",
     "message": ""
   },
   "fields.type.label": {
