@@ -19,6 +19,30 @@
     "description": "Label for field 'building-type'",
     "message": "ប្រភេទសំណង់"
   },
+  "fields.building-type.options.\"Church\"": {
+    "description": "Select option for field 'building-type' for value '\"Church\"'",
+    "message": "Church"
+  },
+  "fields.building-type.options.\"Homestead\"": {
+    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
+    "message": "Homestead"
+  },
+  "fields.building-type.options.\"Hospital\"": {
+    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
+    "message": "Hospital"
+  },
+  "fields.building-type.options.\"Other\"": {
+    "description": "Select option for field 'building-type' for value '\"Other\"'",
+    "message": "Other"
+  },
+  "fields.building-type.options.\"School\"": {
+    "description": "Select option for field 'building-type' for value '\"School\"'",
+    "message": "School"
+  },
+  "fields.building-type.options.\"Shop\"": {
+    "description": "Select option for field 'building-type' for value '\"Shop\"'",
+    "message": "Shop"
+  },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "សាលារៀន / មន្ទីរពេទ្យ / ផ្សេងៗ"
