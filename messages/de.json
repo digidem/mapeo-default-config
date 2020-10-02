@@ -1,358 +1,358 @@
 {
   "fields.animal-type.helperText": {
-    "description": "Descriptive text for field 'animal-type'",
+    "description": "Beschreibender Text für das 'animal-type' (Tierart) Feld",
     "message": ""
   },
   "fields.animal-type.label": {
-    "description": "Label for field 'animal-type'",
-    "message": "Animal type"
+    "description": "Kurztext für das 'animal-type' (Tierart) Feld",
+    "message": "Tierart"
   },
   "fields.animal-type.placeholder": {
-    "description": "An example to guide the user for field 'animal-type'",
-    "message": "What kind of animal?"
+    "description": "Ein Beispiel für das 'animal-type' (Tierart) Feld, um den Benutzer anzuleiten",
+    "message": "Welche Art von Tier?"
   },
   "fields.building-type.helperText": {
-    "description": "Descriptive text for field 'building-type'",
+    "description": "Beschreibender Text für das 'building-type' (Gebäude-Typ) Feld",
     "message": ""
   },
   "fields.building-type.label": {
-    "description": "Label for field 'building-type'",
-    "message": "Building type"
+    "description": "Kurztext für das 'building-type' (Gebäude-Typ) Feld",
+    "message": "Gebäude-Typ"
   },
   "fields.building-type.placeholder": {
-    "description": "An example to guide the user for field 'building-type'",
-    "message": "School/hospital/etc"
+    "description": "Ein Beispiel für das 'building-type' (Gebäude-Typ) Feld, um den Benutzer anzuleiten",
+    "message": "Schule/Krankenhaus/etc."
   },
   "fields.items-gathered.helperText": {
-    "description": "Descriptive text for field 'items-gathered'",
+    "description": "Beschreibender Text für das 'items-gathered' (gesammelte Items) Feld",
     "message": ""
   },
   "fields.items-gathered.label": {
-    "description": "Label for field 'items-gathered'",
-    "message": "What is gathered here?"
+    "description": "Kurztext für das 'items-gathered' (gesammelte Items) Feld",
+    "message": "Was wird hier gesammelt?"
   },
   "fields.items-gathered.placeholder": {
-    "description": "An example to guide the user for field 'items-gathered'",
-    "message": "e.g. firewood / medicine etc."
+    "description": "Ein Beispiel für das 'items-gathered' (gesammelte Items) Feld, um den Benutzer anzuleiten",
+    "message": "z.B. Feuerholz/Medizin/etc."
   },
   "fields.name.helperText": {
-    "description": "Descriptive text for field 'name'",
+    "description": "Beschreibender Text für das 'name' Feld",
     "message": ""
   },
   "fields.name.label": {
-    "description": "Label for field 'name'",
+    "description": "Kurztext für das 'name' Feld",
     "message": "Name"
   },
   "fields.name.placeholder": {
-    "description": "An example to guide the user for field 'name'",
-    "message": "Common name of this place"
+    "description": "Ein Beispiel für das 'name' Feld, um den Benutzer anzuleiten",
+    "message": "Verbreiteter Name dieses Ortes"
   },
   "fields.note.helperText": {
-    "description": "Descriptive text for field 'note'",
+    "description": "Beschreibender Text für das 'note' (Notiz) Feld",
     "message": ""
   },
   "fields.note.label": {
-    "description": "Label for field 'note'",
-    "message": "Note"
+    "description": "Kurztext für das 'note' (Notiz) Feld",
+    "message": "Notiz"
   },
   "fields.note.placeholder": {
-    "description": "An example to guide the user for field 'note'",
-    "message": "Stories or notes about this place"
+    "description": "Ein Beispiel für das 'note' (Notiz) Feld, um den Benutzer anzuleiten",
+    "message": "Geschichten oder Notizen über diesen Ort"
   },
   "fields.owner.helperText": {
-    "description": "Descriptive text for field 'owner'",
+    "description": "Beschreibender Text für das 'owner' (Besitzer) Feld",
     "message": ""
   },
   "fields.owner.label": {
-    "description": "Label for field 'owner'",
-    "message": "Owner"
+    "description": "Kurztext für das 'owner' (Besitzer) Feld",
+    "message": "Besitzer"
   },
   "fields.owner.placeholder": {
-    "description": "An example to guide the user for field 'owner'",
-    "message": "Owner or user of the place"
+    "description": "Ein Beispiel für das 'owner' (Besitzer) Feld, um den Benutzer anzuleiten",
+    "message": "Besitzer bzw. Benutzer diesen Ortes"
   },
   "fields.palm-species.helperText": {
-    "description": "Descriptive text for field 'palm-species'",
+    "description": "Beschreibender Text für das 'palm-species' (Palmenart) Feld",
     "message": ""
   },
   "fields.palm-species.label": {
-    "description": "Label for field 'palm-species'",
-    "message": "Palm species"
+    "description": "Kurztext für das 'palm-species' (Palmenart) Feld",
+    "message": "Palmenart"
   },
   "fields.palm-species.placeholder": {
-    "description": "An example to guide the user for field 'palm-species'",
-    "message": "What kind of palm?"
+    "description": "Ein Beispiel für das 'palm-species' (Palmenart) Feld, um den Benutzer anzuleiten",
+    "message": "Welche Art von Palme?"
   },
   "fields.plant-species.helperText": {
-    "description": "Descriptive text for field 'plant-species'",
+    "description": "Beschreibender Text für das 'plant-species' (Pflanzenart) Feld",
     "message": ""
   },
   "fields.plant-species.label": {
-    "description": "Label for field 'plant-species'",
-    "message": "Plant species"
+    "description": "Kurztext für das 'plant-species' (Pflanzenart) Feld",
+    "message": "Pflanzenart"
   },
   "fields.plant-species.placeholder": {
-    "description": "An example to guide the user for field 'plant-species'",
-    "message": "What kind of plant?"
+    "description": "Ein Beispiel für das 'plant-species' (Pflanzenart) Feld, um den Benutzer anzuleiten",
+    "message": "Welche Art von Pflanze?"
   },
   "fields.source.helperText": {
-    "description": "Descriptive text for field 'source'",
+    "description": "Beschreibender Text für das 'source' (Quelle) Feld",
     "message": ""
   },
   "fields.source.label": {
-    "description": "Label for field 'source'",
-    "message": "Source"
+    "description": "Kurztext für das 'source' (Quelle) Feld",
+    "message": "Quelle"
   },
   "fields.source.placeholder": {
-    "description": "An example to guide the user for field 'source'",
-    "message": "Source of the data"
+    "description": "Ein Beispiel für das 'source' (Quelle) Feld, um den Benutzer anzuleiten",
+    "message": "Quelle der Daten"
   },
   "fields.tree-species.helperText": {
-    "description": "Descriptive text for field 'tree-species'",
+    "description": "Beschreibender Text für das 'tree-species' (Baumart) Feld",
     "message": ""
   },
   "fields.tree-species.label": {
-    "description": "Label for field 'tree-species'",
-    "message": "Tree species"
+    "description": "Kurztext für das 'tree-species' (Baumart) Feld",
+    "message": "Baumart"
   },
   "fields.tree-species.placeholder": {
-    "description": "An example to guide the user for field 'tree-species'",
-    "message": "What kind of tree?"
+    "description": "Ein Beispiel für das 'tree-species' (Baumart) Feld, um den Benutzer anzuleiten",
+    "message": "Welche Art von Baum?"
   },
   "fields.type.helperText": {
-    "description": "Descriptive text for field 'type'",
+    "description": "Beschreibender Text für das 'type' (Typ) Feld",
     "message": ""
   },
   "fields.type.label": {
-    "description": "Label for field 'type'",
-    "message": "What kind of path?"
+    "description": "Kurztext für das 'type' (Typ) Feld",
+    "message": "Welche Art von Pfad?"
   },
   "fields.type.placeholder": {
-    "description": "An example to guide the user for field 'type'",
-    "message": "What is this path used for?"
+    "description": "Ein Beispiel für das 'type' (Typ, um den Benutzer anzuleiten",
+    "message": "Wofür wird dieser Pfad benutzt?"
   },
   "presets.airstrip.name": {
-    "description": "The name of preset 'airstrip'",
-    "message": "Airstrip"
+    "description": "Der Name der Vorlage 'airstrip' (Landebahn)",
+    "message": "Landebahn"
   },
   "presets.airstrip.terms": {
-    "description": "List of search terms for preset 'airstrip'",
-    "message": "airfield,airport,landing"
+    "description": "Liste der Suchbegriffe für die Vorlage 'airstrip' (Landebahn)",
+    "message": "flughafen,landen"
   },
   "presets.animal.name": {
-    "description": "The name of preset 'animal'",
-    "message": "Animal"
+    "description": "Der Name der Vorlage 'animal' (Tier)",
+    "message": "Tier"
   },
   "presets.animal.terms": {
-    "description": "List of search terms for preset 'animal'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'animal' (Tier)",
     "message": ""
   },
   "presets.area.name": {
-    "description": "The name of preset 'area'",
-    "message": "New area"
+    "description": "Der Name der Vorlage 'area' (Gebiet)",
+    "message": "Neues Gebiet"
   },
   "presets.area.terms": {
-    "description": "List of search terms for preset 'area'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'area' (Gebiet)",
     "message": ""
   },
   "presets.boundary-line.name": {
-    "description": "The name of preset 'boundary-line'",
-    "message": "boundary"
+    "description": "Der Name der Vorlage 'boundary-line' (Grenzlinie)",
+    "message": "Grenzlinie"
   },
   "presets.boundary-line.terms": {
-    "description": "List of search terms for preset 'boundary-line'",
-    "message": "border,frontier"
+    "description": "Liste der Suchbegriffe für die Vorlage 'boundary-line' (Grenzlinie)",
+    "message": "grenze"
   },
   "presets.building.name": {
-    "description": "The name of preset 'building'",
-    "message": "Building"
+    "description": "Der Name der Vorlage 'building' (Gebäude)",
+    "message": "Gebäude"
   },
   "presets.building.terms": {
-    "description": "List of search terms for preset 'building'",
-    "message": "medical,school"
+    "description": "Liste der Suchbegriffe für die Vorlage 'building' (Gebäude)",
+    "message": "medizinisch,schule"
   },
   "presets.camp.name": {
-    "description": "The name of preset 'camp'",
-    "message": "Camp"
+    "description": "Der Name der Vorlage 'camp' (Campingplatz)",
+    "message": "Campingplatz"
   },
   "presets.camp.terms": {
-    "description": "List of search terms for preset 'camp'",
-    "message": "campsite,camping,hunting"
+    "description": "Liste der Suchbegriffe für die Vorlage 'camp' (Campingplatz)",
+    "message": "campingplatz,camping,jagen"
   },
   "presets.cave.name": {
-    "description": "The name of preset 'cave'",
-    "message": "Cave"
+    "description": "Der Name der Vorlage 'cave' (Höhle)",
+    "message": "Höhle"
   },
   "presets.cave.terms": {
-    "description": "List of search terms for preset 'cave'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'cave' (Höhle)",
     "message": ""
   },
   "presets.clay.name": {
-    "description": "The name of preset 'clay'",
-    "message": "Clay"
+    "description": "Der Name der Vorlage 'clay' (Lehm)",
+    "message": "Lehm"
   },
   "presets.clay.terms": {
-    "description": "List of search terms for preset 'clay'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'clay' (Lehm)",
     "message": ""
   },
   "presets.community.name": {
-    "description": "The name of preset 'community'",
-    "message": "Community"
+    "description": "Der Name der Vorlage 'community' (Gemeinschaft)",
+    "message": "Gemeinschaft"
   },
   "presets.community.terms": {
-    "description": "List of search terms for preset 'community'",
-    "message": "village"
+    "description": "Liste der Suchbegriffe für die Vorlage 'community' (Gemeinschaft)",
+    "message": "ort"
   },
   "presets.fishing-site.name": {
-    "description": "The name of preset 'fishing-site'",
-    "message": "Fishing Site"
+    "description": "Der Name der Vorlage 'fishing-site' (Fischplatz)",
+    "message": "Fischplatz"
   },
   "presets.fishing-site.terms": {
-    "description": "List of search terms for preset 'fishing-site'",
-    "message": "fish"
+    "description": "Liste der Suchbegriffe für die Vorlage 'fishing-site' (Fischplatz)",
+    "message": "fisch"
   },
   "presets.gathering-site.name": {
-    "description": "The name of preset 'gathering-site'",
-    "message": "Gathering Site"
+    "description": "Der Name der Vorlage 'gathering-site' (Sammelplatz für Gegenstände)",
+    "message": "Sammelplatz"
   },
   "presets.gathering-site.terms": {
-    "description": "List of search terms for preset 'gathering-site'",
-    "message": "collection"
+    "description": "Liste der Suchbegriffe für die Vorlage 'gathering-site' (Sammelplatz für Gegenstände)",
+    "message": "sammlung"
   },
   "presets.hills.name": {
-    "description": "The name of preset 'hills'",
-    "message": "Hills"
+    "description": "Der Name der Vorlage 'hills' (Berge)",
+    "message": "Berge"
   },
   "presets.hills.terms": {
-    "description": "List of search terms for preset 'hills'",
-    "message": "mountains"
+    "description": "Liste der Suchbegriffe für die Vorlage 'hills' (Berge)",
+    "message": "berge"
   },
   "presets.house.name": {
-    "description": "The name of preset 'house'",
-    "message": "House"
+    "description": "Der Name der Vorlage 'house' (Haus)",
+    "message": "Haus"
   },
   "presets.house.terms": {
-    "description": "List of search terms for preset 'house'",
-    "message": "house,home"
+    "description": "Liste der Suchbegriffe für die Vorlage 'house' (Haus)",
+    "message": "haus,heim"
   },
   "presets.hunting-site.name": {
-    "description": "The name of preset 'hunting-site'",
-    "message": "Hunting Site"
+    "description": "Der Name der Vorlage 'hunting-site' (Jagdplatz)",
+    "message": "Jagdplatz"
   },
   "presets.hunting-site.terms": {
-    "description": "List of search terms for preset 'hunting-site'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'hunting-site' (Jagdplatz)",
     "message": ""
   },
   "presets.lake.name": {
-    "description": "The name of preset 'lake'",
-    "message": "Lake"
+    "description": "Der Name der Vorlage 'lake' (See)",
+    "message": "See"
   },
   "presets.lake.terms": {
-    "description": "List of search terms for preset 'lake'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'lake' (See)",
     "message": ""
   },
   "presets.line.name": {
-    "description": "The name of preset 'line'",
-    "message": "New line"
+    "description": "Der Name der Vorlage 'line' (Linie)",
+    "message": "Neue Linie"
   },
   "presets.line.terms": {
-    "description": "List of search terms for preset 'line'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'line' (Linie)",
     "message": ""
   },
   "presets.palm.name": {
-    "description": "The name of preset 'palm'",
-    "message": "Palm"
+    "description": "Der Name der Vorlage 'palm' (Palme)",
+    "message": "Palme"
   },
   "presets.palm.terms": {
-    "description": "List of search terms for preset 'palm'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'palm' (Palme)",
     "message": ""
   },
   "presets.path.name": {
-    "description": "The name of preset 'path'",
-    "message": "Path"
+    "description": "Der Name der Vorlage 'path' (Pfad)",
+    "message": "Pfad"
   },
   "presets.path.terms": {
-    "description": "List of search terms for preset 'path'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'path' (Pfad)",
     "message": ""
   },
   "presets.plant.name": {
-    "description": "The name of preset 'plant'",
+    "description": "Der Name der Vorlage 'plant' (Pflanze)",
     "message": "Plant"
   },
   "presets.plant.terms": {
-    "description": "List of search terms for preset 'plant'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'plant' (Pflanze)",
     "message": ""
   },
   "presets.point.name": {
-    "description": "The name of preset 'point'",
-    "message": "Nuevo punto"
+    "description": "Der Name der Vorlage 'point' (Punkt)",
+    "message": "Neuer Punkt"
   },
   "presets.point.terms": {
-    "description": "List of search terms for preset 'point'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'point' (Punkt)",
     "message": ""
   },
   "presets.river.name": {
-    "description": "The name of preset 'river'",
-    "message": "River"
+    "description": "Der Name der Vorlage 'river' (Fluss)",
+    "message": "Fluss"
   },
   "presets.river.terms": {
-    "description": "List of search terms for preset 'river'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'river' (Fluss)",
     "message": ""
   },
   "presets.salt-lick.name": {
-    "description": "The name of preset 'salt-lick'",
-    "message": "Salt lick"
+    "description": "Der Name der Vorlage 'salt-lick' (Salzlecke)",
+    "message": "Salzlecke"
   },
   "presets.salt-lick.terms": {
-    "description": "List of search terms for preset 'salt-lick'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'salt-lick' (Salzlecke)",
     "message": ""
   },
   "presets.special-site.name": {
-    "description": "The name of preset 'special-site'",
-    "message": "Special site"
+    "description": "Der Name der Vorlage 'special-site' (Spezieller Ort)",
+    "message": "Spezieller Ort"
   },
   "presets.special-site.terms": {
-    "description": "List of search terms for preset 'special-site'",
-    "message": "story,sacred,historical,history"
+    "description": "Liste der Suchbegriffe für die Vorlage 'special-site' (Spezieller Ort)",
+    "message": "geschichte,story,heilig,geschichtlich"
   },
   "presets.stream.name": {
-    "description": "The name of preset 'stream'",
-    "message": "Stream"
+    "description": "Der Name der Vorlage 'stream' (Ströhmung)",
+    "message": "Ströhmung"
   },
   "presets.stream.terms": {
-    "description": "List of search terms for preset 'stream'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'stream' (Ströhmung)",
     "message": ""
   },
   "presets.swidden.name": {
-    "description": "The name of preset 'swidden'",
-    "message": "Farmland"
+    "description": "Der Name der Vorlage 'swidden' (Farmgebiet)",
+    "message": "Farmgebiet"
   },
   "presets.swidden.terms": {
-    "description": "List of search terms for preset 'swidden'",
-    "message": "farm,garden,plot,allotment,paddy,cultivation"
+    "description": "Liste der Suchbegriffe für die Vorlage 'swidden' (Farmgebiet)",
+    "message": "farm,garten,grundstück,kultivierungs"
   },
   "presets.threat.name": {
-    "description": "The name of preset 'threat'",
-    "message": "Threat"
+    "description": "Der Name der Vorlage 'threat' (Gefahr)",
+    "message": "Gefahr"
   },
   "presets.threat.terms": {
-    "description": "List of search terms for preset 'threat'",
-    "message": "danger,illegal,monitoring"
+    "description": "Liste der Suchbegriffe für die Vorlage 'threat' (Gefahr)",
+    "message": "gefahr,illegal,überwachung"
   },
   "presets.tree.name": {
-    "description": "The name of preset 'tree'",
+    "description": "Der Name der Vorlage 'tree' (Baum)",
     "message": "Tree"
   },
   "presets.tree.terms": {
-    "description": "List of search terms for preset 'tree'",
+    "description": "Liste der Suchbegriffe für die Vorlage 'tree' (Baum)",
     "message": ""
   },
   "presets.waterfall.name": {
-    "description": "The name of preset 'waterfall'",
-    "message": "Waterfall"
+    "description": "Der Name der Vorlage 'waterfall' (Wasserfall)",
+    "message": "Wasserfall"
   },
   "presets.waterfall.terms": {
-    "description": "List of search terms for preset 'waterfall'",
-    "message": "cascade"
+    "description": "Liste der Suchbegriffe für die Vorlage 'waterfall' (Wasserfall)",
+    "message": "kaskade"
   }
 }
