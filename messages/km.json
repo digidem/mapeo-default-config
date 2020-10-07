@@ -25,7 +25,7 @@
   },
   "fields.building-type.options.\"Other\"": {
     "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "ផ្សេង"
+    "message": "ផ្សេងទៀត"
   },
   "fields.building-type.options.\"School\"": {
     "description": "Select option for field 'building-type' for value '\"School\"'",
