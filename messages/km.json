@@ -111,6 +111,10 @@
     "description": "An example to guide the user for field 'type'",
     "message": "តើផ្លូវនេះត្រូវបានប្រើសម្រាប់អ្វី?"
   },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "ផ្លូវយន្តហោះ"
+  },
   "presets.airstrip.terms": {
     "description": "List of search terms for preset 'airstrip'",
     "message": "អាកាសយានដ្ឋាន, ព្រលានយន្តហោះ, ចុះចត"
@@ -126,6 +130,10 @@
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
     "message": "ព្រំប្រទល់"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "ព្រំដែន"
   },
   "presets.building.name": {
     "description": "The name of preset 'building'",
@@ -214,6 +222,10 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "រុក្ខជាតិ"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "ទស្សនៈថ្មី"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
