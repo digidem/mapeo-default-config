@@ -6,5 +6,57 @@
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
     "message": "Que tipo de animal?"
+  },
+  "fields.building-type.label": {
+    "description": "Label for field 'building-type'",
+    "message": "Tipo de prédio"
+  },
+  "fields.building-type.options.\"Church\"": {
+    "description": "Select option for field 'building-type' for value '\"Church\"'",
+    "message": "Igreja"
+  },
+  "fields.building-type.options.\"Hospital\"": {
+    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
+    "message": "Hospital"
+  },
+  "fields.building-type.options.\"Other\"": {
+    "description": "Select option for field 'building-type' for value '\"Other\"'",
+    "message": "Outro"
+  },
+  "fields.building-type.options.\"School\"": {
+    "description": "Select option for field 'building-type' for value '\"School\"'",
+    "message": "Escola"
+  },
+  "fields.building-type.options.\"Shop\"": {
+    "description": "Select option for field 'building-type' for value '\"Shop\"'",
+    "message": "Loja"
+  },
+  "fields.building-type.placeholder": {
+    "description": "An example to guide the user for field 'building-type'",
+    "message": "Escola/hospital/etc"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nome"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Nome comum deste lugar"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Anotação"
+  },
+  "fields.note.placeholder": {
+    "description": "An example to guide the user for field 'note'",
+    "message": "Histórias ou anotações sobre este lugar"
+  },
+  "fields.owner.label": {
+    "description": "Label for field 'owner'",
+    "message": "Proprietário"
+  },
+  "fields.owner.placeholder": {
+    "description": "An example to guide the user for field 'owner'",
+    "message": "Proprietário ou usuário do local"
   }
 }
