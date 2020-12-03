@@ -90,5 +90,53 @@
   "fields.type.label": {
     "description": "Label for field 'type'",
     "message": "Que tipo de caminho?"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Pista"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Animal"
+  },
+  "presets.area.name": {
+    "description": "The name of preset 'area'",
+    "message": "Nova área"
+  },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "limite"
+  },
+  "presets.camp.name": {
+    "description": "The name of preset 'camp'",
+    "message": "Acampamento"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Caverna"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Comunidade"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "aldeia"
+  },
+  "presets.fishing-site.name": {
+    "description": "The name of preset 'fishing-site'",
+    "message": "Local de pesca"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "peixe"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "montanhas"
+  },
+  "presets.house.name": {
+    "description": "The name of preset 'house'",
+    "message": "Casa"
   }
 }
