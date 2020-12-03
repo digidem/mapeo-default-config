@@ -1,1 +1,10 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Tipo de animal"
+  },
+  "fields.animal-type.placeholder": {
+    "description": "An example to guide the user for field 'animal-type'",
+    "message": "Que tipo de animal?"
+  }
+}
