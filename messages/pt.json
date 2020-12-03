@@ -58,5 +58,37 @@
   "fields.owner.placeholder": {
     "description": "An example to guide the user for field 'owner'",
     "message": "Proprietário ou usuário do local"
+  },
+  "fields.palm-species.label": {
+    "description": "Label for field 'palm-species'",
+    "message": "Tipo de palmeira"
+  },
+  "fields.palm-species.placeholder": {
+    "description": "An example to guide the user for field 'palm-species'",
+    "message": "Que tipo de palmeira?"
+  },
+  "fields.plant-species.label": {
+    "description": "Label for field 'plant-species'",
+    "message": "Tipo de planta"
+  },
+  "fields.plant-species.placeholder": {
+    "description": "An example to guide the user for field 'plant-species'",
+    "message": "Que tipo de planta?"
+  },
+  "fields.source.placeholder": {
+    "description": "An example to guide the user for field 'source'",
+    "message": "Fonte de dados"
+  },
+  "fields.tree-species.label": {
+    "description": "Label for field 'tree-species'",
+    "message": "Espécie de árvore"
+  },
+  "fields.tree-species.placeholder": {
+    "description": "An example to guide the user for field 'tree-species'",
+    "message": "Que tipo de árvore?"
+  },
+  "fields.type.label": {
+    "description": "Label for field 'type'",
+    "message": "Que tipo de caminho?"
   }
 }
