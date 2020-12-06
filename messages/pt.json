@@ -247,6 +247,10 @@
     "description": "The name of preset 'swidden'",
     "message": "Terra agrícola"
   },
+  "presets.swidden.terms": {
+    "description": "List of search terms for preset 'swidden'",
+    "message": "fazenda, jardim, lote, parcela, arrozal, cultivo"
+  },
   "presets.threat.name": {
     "description": "The name of preset 'threat'",
     "message": "Ameaça"
