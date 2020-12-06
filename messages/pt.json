@@ -35,6 +35,14 @@
     "description": "An example to guide the user for field 'building-type'",
     "message": "Escola/hospital/etc"
   },
+  "fields.items-gathered.label": {
+    "description": "Label for field 'items-gathered'",
+    "message": "O que está reunido aqui?"
+  },
+  "fields.items-gathered.placeholder": {
+    "description": "An example to guide the user for field 'items-gathered'",
+    "message": "e.g. lenha / remédio, etc."
+  },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "Nome"
@@ -75,6 +83,10 @@
     "description": "An example to guide the user for field 'plant-species'",
     "message": "Que tipo de planta?"
   },
+  "fields.source.label": {
+    "description": "Label for field 'source'",
+    "message": "Fonte"
+  },
   "fields.source.placeholder": {
     "description": "An example to guide the user for field 'source'",
     "message": "Fonte de dados"
@@ -91,9 +103,17 @@
     "description": "Label for field 'type'",
     "message": "Que tipo de caminho?"
   },
+  "fields.type.placeholder": {
+    "description": "An example to guide the user for field 'type'",
+    "message": "Para que é usado este caminho?"
+  },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
     "message": "Pista"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "aeródromo, aeroporto, pista de pouso"
   },
   "presets.animal.name": {
     "description": "The name of preset 'animal'",
@@ -202,5 +222,29 @@
   "presets.special-site.terms": {
     "description": "List of search terms for preset 'special-site'",
     "message": "história, sagrada, histórica"
+  },
+  "presets.stream.name": {
+    "description": "The name of preset 'stream'",
+    "message": "Riacho"
+  },
+  "presets.swidden.name": {
+    "description": "The name of preset 'swidden'",
+    "message": "Terra agrícola"
+  },
+  "presets.threat.name": {
+    "description": "The name of preset 'threat'",
+    "message": "Ameaça"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Árvore"
+  },
+  "presets.waterfall.name": {
+    "description": "The name of preset 'waterfall'",
+    "message": "Cachoeira"
+  },
+  "presets.waterfall.terms": {
+    "description": "List of search terms for preset 'waterfall'",
+    "message": "cascata"
   }
 }
