@@ -127,9 +127,25 @@
     "description": "The name of preset 'boundary-line'",
     "message": "limite"
   },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "divisa, fronteira"
+  },
+  "presets.building.name": {
+    "description": "The name of preset 'building'",
+    "message": "Prédio"
+  },
+  "presets.building.terms": {
+    "description": "List of search terms for preset 'building'",
+    "message": "médico, escola"
+  },
   "presets.camp.name": {
     "description": "The name of preset 'camp'",
     "message": "Acampamento"
+  },
+  "presets.camp.terms": {
+    "description": "List of search terms for preset 'camp'",
+    "message": "acampamento, caça"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
@@ -234,6 +250,10 @@
   "presets.threat.name": {
     "description": "The name of preset 'threat'",
     "message": "Ameaça"
+  },
+  "presets.threat.terms": {
+    "description": "List of search terms for preset 'threat'",
+    "message": "perigo, ilegal, monitoramento"
   },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
