@@ -115,6 +115,10 @@
     "description": "The name of preset 'cave'",
     "message": "Caverna"
   },
+  "presets.clay.name": {
+    "description": "The name of preset 'clay'",
+    "message": "Argila"
+  },
   "presets.community.name": {
     "description": "The name of preset 'community'",
     "message": "Comunidade"
@@ -130,6 +134,10 @@
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
     "message": "peixe"
+  },
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "Local de recolha"
   },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
