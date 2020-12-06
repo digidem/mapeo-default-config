@@ -190,5 +190,17 @@
   "presets.river.name": {
     "description": "The name of preset 'river'",
     "message": "Rio"
+  },
+  "presets.salt-lick.name": {
+    "description": "The name of preset 'salt-lick'",
+    "message": "Saleiro"
+  },
+  "presets.special-site.name": {
+    "description": "The name of preset 'special-site'",
+    "message": "Local especial"
+  },
+  "presets.special-site.terms": {
+    "description": "List of search terms for preset 'special-site'",
+    "message": "história, sagrada, histórica"
   }
 }
