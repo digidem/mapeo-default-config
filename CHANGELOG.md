@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](https://github.com/digidem/mapeo-default-config/compare/v3.2.0...v3.3.0) (2020-12-07)
+
+
+### Features
+
+* Brazilian Portuguese translations ([#11](https://github.com/digidem/mapeo-default-config/issues/11)) ([fc24cf6](https://github.com/digidem/mapeo-default-config/commit/fc24cf6b538029a09acddd9ec951e96a8a054d61))
+
 ## [3.2.0](https://github.com/digidem/mapeo-default-config/compare/v3.1.0...v3.2.0) (2020-10-20)
 
 
