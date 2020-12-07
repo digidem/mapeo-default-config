@@ -22,7 +22,7 @@ jobs:
         id: build_asset
         run: |
           npm run build
-          ARTIFACT_PATHNAME=$(ls build/*.mapeo-settings | head -n 1)
+          ARTIFACT_PATHNAME=$(ls build/*.mapeosettings | head -n 1)
           ARTIFACT_NAME=$(basename $ARTIFACT_PATHNAME)
           echo ::set-output name=filename::${ARTIFACT_NAME}
           echo ::set-output name=pathname::${ARTIFACT_PATHNAME}
