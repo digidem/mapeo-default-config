@@ -15,6 +15,10 @@
     "description": "Select option for field 'building-type' for value '\"Church\"'",
     "message": "Igreja"
   },
+  "fields.building-type.options.\"Homestead\"": {
+    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
+    "message": "Domicílio"
+  },
   "fields.building-type.options.\"Hospital\"": {
     "description": "Select option for field 'building-type' for value '\"Hospital\"'",
     "message": "Hospital"
