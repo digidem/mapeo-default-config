@@ -177,11 +177,11 @@
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "Local de recolha"
+    "message": "Local de coleta"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
-    "message": "recolha"
+    "message": "coleta"
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
