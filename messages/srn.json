@@ -15,6 +15,10 @@
     "description": "Select option for field 'building-type' for value '\"Church\"'",
     "message": "Kerki"
   },
+  "fields.building-type.options.\"Homestead\"": {
+    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
+    "message": "Gron"
+  },
   "fields.building-type.options.\"Hospital\"": {
     "description": "Select option for field 'building-type' for value '\"Hospital\"'",
     "message": "Ati oso"
@@ -34,5 +38,77 @@
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "Skoro/ati oso/enz"
+  },
+  "fields.items-gathered.label": {
+    "description": "Label for field 'items-gathered'",
+    "message": "Sort sani ie kan kisi djaso?"
+  },
+  "fields.items-gathered.placeholder": {
+    "description": "An example to guide the user for field 'items-gathered'",
+    "message": "lek faya-udu / dresi enz."
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Neng"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "San na a neng fu a presi disi"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Notitie"
+  },
+  "fields.note.placeholder": {
+    "description": "An example to guide the user for field 'note'",
+    "message": "Tori o tra sani yu wan skrifi abra a presi disi"
+  },
+  "fields.owner.label": {
+    "description": "Label for field 'owner'",
+    "message": "Eiginari"
+  },
+  "fields.owner.placeholder": {
+    "description": "An example to guide the user for field 'owner'",
+    "message": "Eigenari noso a man di gebroiki a presi disi"
+  },
+  "fields.palm-species.label": {
+    "description": "Label for field 'palm-species'",
+    "message": "Sort palm bon"
+  },
+  "fields.palm-species.placeholder": {
+    "description": "An example to guide the user for field 'palm-species'",
+    "message": "Sort palm bon na disi?"
+  },
+  "fields.plant-species.label": {
+    "description": "Label for field 'plant-species'",
+    "message": "Sort prani"
+  },
+  "fields.plant-species.placeholder": {
+    "description": "An example to guide the user for field 'plant-species'",
+    "message": "Sort prani na disi?"
+  },
+  "fields.source.label": {
+    "description": "Label for field 'source'",
+    "message": "Bron"
+  },
+  "fields.source.placeholder": {
+    "description": "An example to guide the user for field 'source'",
+    "message": "Bron fu a gegevens"
+  },
+  "fields.tree-species.label": {
+    "description": "Label for field 'tree-species'",
+    "message": "Sort bon"
+  },
+  "fields.tree-species.placeholder": {
+    "description": "An example to guide the user for field 'tree-species'",
+    "message": "Sort bon na disi?"
+  },
+  "fields.type.label": {
+    "description": "Label for field 'type'",
+    "message": "Sort pasi na disi?"
+  },
+  "fields.type.placeholder": {
+    "description": "An example to guide the user for field 'type'",
+    "message": "Fa dey man gebroiki a pasi disi?"
   }
 }
