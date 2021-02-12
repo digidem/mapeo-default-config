@@ -246,5 +246,33 @@
   "presets.stream.name": {
     "description": "The name of preset 'stream'",
     "message": "Kriki"
+  },
+  "presets.swidden.name": {
+    "description": "The name of preset 'swidden'",
+    "message": "Prani gron"
+  },
+  "presets.swidden.terms": {
+    "description": "List of search terms for preset 'swidden'",
+    "message": "prani gron,dyari,pisi gron,domein,aleisi gron,kostgron"
+  },
+  "presets.threat.name": {
+    "description": "The name of preset 'threat'",
+    "message": "Kefalek"
+  },
+  "presets.threat.terms": {
+    "description": "List of search terms for preset 'threat'",
+    "message": "kefalek,illegaal,luku a busi"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Bon"
+  },
+  "presets.waterfall.name": {
+    "description": "The name of preset 'waterfall'",
+    "message": "Bigi sula"
+  },
+  "presets.waterfall.terms": {
+    "description": "List of search terms for preset 'waterfall'",
+    "message": "sula"
   }
 }
