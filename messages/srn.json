@@ -1,1 +1,38 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Sort meti"
+  },
+  "fields.animal-type.placeholder": {
+    "description": "An example to guide the user for field 'animal-type'",
+    "message": "Sort meti na disi?"
+  },
+  "fields.building-type.label": {
+    "description": "Label for field 'building-type'",
+    "message": "Sort oso"
+  },
+  "fields.building-type.options.\"Church\"": {
+    "description": "Select option for field 'building-type' for value '\"Church\"'",
+    "message": "Kerki"
+  },
+  "fields.building-type.options.\"Hospital\"": {
+    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
+    "message": "Ati oso"
+  },
+  "fields.building-type.options.\"Other\"": {
+    "description": "Select option for field 'building-type' for value '\"Other\"'",
+    "message": "Tra sani"
+  },
+  "fields.building-type.options.\"School\"": {
+    "description": "Select option for field 'building-type' for value '\"School\"'",
+    "message": "Skoro"
+  },
+  "fields.building-type.options.\"Shop\"": {
+    "description": "Select option for field 'building-type' for value '\"Shop\"'",
+    "message": "Wenkri"
+  },
+  "fields.building-type.placeholder": {
+    "description": "An example to guide the user for field 'building-type'",
+    "message": "Skoro/ati oso/enz"
+  }
+}
