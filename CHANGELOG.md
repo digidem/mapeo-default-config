@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.4.0](https://github.com/digidem/mapeo-default-config/compare/v3.3.0...v3.4.0) (2021-04-06)
+
+
+### Features
+
+* Add Dutch translations ([#13](https://github.com/digidem/mapeo-default-config/issues/13)) ([989078f](https://github.com/digidem/mapeo-default-config/commit/989078f658cd642a9084c3cafc72c390e877c6a2))
+* Add Sranan Tongo translations ([3113a2b](https://github.com/digidem/mapeo-default-config/commit/3113a2beb3dcef5cc1c6cd47f2894de4b542984f))
+
+
+### Bug Fixes
+
+* Add missing Vietnamese translations ([516aa5c](https://github.com/digidem/mapeo-default-config/commit/516aa5c2a56065cf0410c1feae1ac0e2d517aeac))
+
 ## [3.3.0](https://github.com/digidem/mapeo-default-config/compare/v3.2.0...v3.3.0) (2020-12-07)
 
 
