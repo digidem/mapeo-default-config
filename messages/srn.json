@@ -1,15 +1,15 @@
 {
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
-    "message": "Sort meti"
+    "message": "Sort' meti"
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "Sort meti na disi?"
+    "message": "Sort' meti na disi?"
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
-    "message": "Sort oso"
+    "message": "Sort' oso"
   },
   "fields.building-type.options.\"Church\"": {
     "description": "Select option for field 'building-type' for value '\"Church\"'",
@@ -21,7 +21,7 @@
   },
   "fields.building-type.options.\"Hospital\"": {
     "description": "Select option for field 'building-type' for value '\"Hospital\"'",
-    "message": "Ati oso"
+    "message": "Hati oso"
   },
   "fields.building-type.options.\"Other\"": {
     "description": "Select option for field 'building-type' for value '\"Other\"'",
