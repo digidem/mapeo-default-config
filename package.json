@@ -4,7 +4,7 @@
   "description": "Mapeo default config (categories, icons, questions)",
   "dependencies": {},
   "devDependencies": {
-    "mapeo-settings-builder": "^3.1.1",
+    "mapeo-settings-builder": "^3.3.1",
     "mkdirp": "^1.0.4",
     "rimraf": "^3.0.2"
   },
