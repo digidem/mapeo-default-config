@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.5.0](https://github.com/digidem/mapeo-default-config/compare/v3.4.1...v3.5.0) (2021-08-04)
+
+
+### Features
+
+* Add Portuguese translations ([#20](https://github.com/digidem/mapeo-default-config/issues/20)) ([df14417](https://github.com/digidem/mapeo-default-config/commit/df14417cc5f7c34ba3b512df727756c597b59e89))
+
+
+### Bug Fixes
+
+* Translation fixes (Sranan Tongo) ([#16](https://github.com/digidem/mapeo-default-config/issues/16)) ([a9c845d](https://github.com/digidem/mapeo-default-config/commit/a9c845d2ecc9c514762f21429b970146b81fbdc8))
+
 ### 3.4.1 (2021-07-15)
 
 ### 3.4.1 (2021-07-15)
