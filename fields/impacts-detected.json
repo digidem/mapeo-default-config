@@ -1,0 +1,14 @@
+{
+    "key": "impacts-detected",
+    "type": "select_multiple",
+    "label": "Impacts detected",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Poaching",
+    	"Disease",
+    	"Displacement",
+    	"Contamination",
+    	"Population decrease",
+    	"Other"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "key": "observer-name-id",
+    "type": "text",
+    "label": "Observer name/ID",
+    "placeholder": "Observed by",
+    "options": []
+}

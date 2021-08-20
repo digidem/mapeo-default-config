@@ -1,0 +1,12 @@
+{
+    "key": "issue-reproducibility",
+    "type": "select_one",
+    "label": "Issue reproducibility",
+    "placeholder": "Can you re-create the issue?",
+    "options": [
+        "Yes",
+        "No",
+        "Maybe - I will try",
+        "I'm not sure how"
+    ]
+}

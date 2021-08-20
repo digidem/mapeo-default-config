@@ -1,0 +1,7 @@
+{
+    "key": "cultural-details",
+    "type": "text",
+    "label": "Cultural details",
+    "placeholder": "Add details/stories relevant to local culture",
+    "options": []
+}

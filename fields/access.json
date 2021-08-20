@@ -1,0 +1,7 @@
+{
+    "key": "access",
+    "type": "text",
+    "label": "Access",
+    "placeholder": "Access details",
+    "options": []
+}

@@ -1,0 +1,13 @@
+{
+    "key": "communication-quality",
+    "type": "select_one",
+    "label": "Communication quality",
+    "placeholder": "Select one",
+    "options": [
+    	"Excellent", 
+        "Good/fair", 
+        "Poor/inconsistent", 
+        "Not working",
+        "Not sure"
+    ]
+}

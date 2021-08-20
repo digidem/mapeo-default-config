@@ -1,0 +1,15 @@
+{
+    "key": "permanent-shelter-type",
+    "type": "select_one",
+    "label": "Permanent shelter type",
+    "placeholder": "Select one",
+    "options": [
+    	"Portable trailer",
+    	"Tiny house", 
+    	"Single family home", 
+    	"Multiple family Home", 
+    	"Residential building", 
+    	"Barn/shack", 
+        "Other"
+    ]
+}

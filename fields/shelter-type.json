@@ -1,0 +1,11 @@
+{
+    "key": "shelter-type",
+    "type": "select_multiplee",
+    "label": "Shelter type",
+    "placeholder": "What kind of shelter is it?",
+    "options": [
+    	"Temporary",
+    	"Permanant",
+    	"Not in use"
+    ]
+}

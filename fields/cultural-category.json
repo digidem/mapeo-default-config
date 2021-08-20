@@ -1,0 +1,14 @@
+{
+    "key": "cultural-category",
+    "type": "select_multiple",
+    "label": "Cultural category",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Archeological",
+        "Historical",
+        "Mythological",
+        "Sacred",
+        "Gathering site",
+        "Story"
+    ]
+}

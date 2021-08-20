@@ -1,0 +1,30 @@
+{
+    "key": "communication-details",
+    "type": "select_multiple",
+    "label": "Communication details",
+    "placeholder": "What infrastructure and equipment is present?",
+    "options": [
+    	"Customer service",
+        "Technician",
+        "Mobile phone",
+        "Mobile data",
+        "WiFi",
+        "Broadcast channel",
+        "Broadcast studio",
+        "Router",
+        "Modem",
+        "Transmitter",
+        "Receiver",
+        "Satellite/antenna",
+        "Sound system",
+        "Noise signals/alarms",
+        "Reception",
+        "Billboards",
+        "Bulletin board",
+        "Mailbox",
+        "Sign/poster",
+        "Flyers/newspaper",
+        "Distribution point",
+        "Stage/theatre/hall"
+    ]
+}

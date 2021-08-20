@@ -1,0 +1,10 @@
+{
+    "key": "water-source",
+    "type": "select_one",
+    "label": "Water source",
+    "placeholder": "Select one",
+    "options": [
+    	"Spring", "River", "Lake", 
+    	"Tree/Plant", "Rain collection", 
+    	"Well", "Municipal Infrastructure", "Other"]
+}

@@ -1,0 +1,12 @@
+{
+    "key": "permission",
+    "type": "select_one",
+    "label": "Permission",
+    "placeholder": "Select one",
+    "options": [
+    	"Permitted",
+    	"Not permitted",
+    	"Insufficient consultation",
+    	"Not sure"
+    ]
+}

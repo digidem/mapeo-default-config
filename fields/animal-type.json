@@ -1,6 +1,13 @@
 {
     "key": "animal-type",
-    "type": "text",
+    "type": "select_one",
     "label": "Animal type",
-    "placeholder": "What kind of animal?"
+    "placeholder": "Select one",
+    "options": [
+    	"Mammal",
+    	"Bird",
+    	"Reptile/amphibian",
+    	"Fish",
+    	"Other"]
+
 }

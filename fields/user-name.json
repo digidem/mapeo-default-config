@@ -1,0 +1,7 @@
+{
+    "key": "user-name",
+    "type": "text",
+    "label": "User name",
+    "placeholder": "Enter complete name",
+    "options": []
+}

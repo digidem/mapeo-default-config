@@ -1,0 +1,22 @@
+{
+    "key": "natural-resource",
+    "type": "select_multiple",
+    "label": "Natural Resource",
+    "placeholder": "This is a source of",
+    "options": [
+    	"Food",
+        "Water",
+        "Shelter",
+        "Clothing",
+        "Artisanry",
+    	"Medical/health care",
+        "Mental health/social support",
+    	"Safety & security",
+        "Revenue",
+        "Infrastructure",
+        "Tools",
+    	"Transportation",
+        "Communication",
+        "Other"
+    ]
+}

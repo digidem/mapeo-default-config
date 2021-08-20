@@ -1,0 +1,12 @@
+{
+    "key": "vehicle-type-air",
+    "type": "select_multiple",
+    "label": "Vehicle type - air",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Small aircraft", 
+        "Helicopter",
+        "Aircraft",
+        "Other"
+    ]
+}

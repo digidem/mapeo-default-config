@@ -1,0 +1,15 @@
+{
+    "key": "temporary-shelter-type",
+    "type": "select_one",
+    "label": "Temporary shelter type",
+    "placeholder": "Select one",
+    "options": [
+    	"Camp", 
+    	"Tent", 
+    	"Car/van", 
+    	"Trailer/caravan", 
+    	"Traveller accommodations",
+    	"Emergency shelter", 
+    	"Other"
+    ]
+}

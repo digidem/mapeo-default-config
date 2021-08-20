@@ -1,0 +1,18 @@
+{
+    "key": "communiciation-type",
+    "type": "select_multiple",
+    "label": "Communication type",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Telephone",
+        "Internet",
+        "Radio",
+        "Video monitor/projector",
+        "Loud speaker/alarm",
+        "Telegraph",
+        "Mail",
+        "Print media",
+        "Sign",
+        "Translation"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "key": "ecological-status",
+    "type": "select_one",
+    "label": "Ecological status",
+    "placeholder": "Select one",
+    "options": [
+    	"Native species",
+    	"Invasive species",
+    	"Controlled species",
+    	"Not sure"
+    ]
+}

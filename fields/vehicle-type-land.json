@@ -1,0 +1,16 @@
+{
+    "key": "vehicle-type-land",
+    "type": "select_multiple",
+    "label": "Vehicle type - land",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Foot",
+        "Bicycle",
+        "Motorcycle",
+        "Passenger van/car",
+        "Cargo van/truck",
+        "All terrain vehicle",
+        "Bus",
+        "Train"
+    ]
+}

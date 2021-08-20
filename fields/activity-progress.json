@@ -1,0 +1,13 @@
+{
+    "key": "activity-progress",
+    "type": "select_one",
+    "label": "Activity progress",
+    "placeholder": "Select one",
+    "options": [
+    	"Preparation/Installation",
+        "Active/In-progress",
+        "Temporarily suspended",
+        "Repeat Activity",
+        "Inactive/Complete"
+    ]
+}

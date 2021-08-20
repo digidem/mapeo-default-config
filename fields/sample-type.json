@@ -1,0 +1,14 @@
+{
+    "key": "field-test-details",
+    "type": "select_one",
+    "label": "Field test details",
+    "placeholder": "Select the type of testing",
+    "options": [
+    	"Meteorological",
+    	"Air",
+    	"Soil",
+    	"Water",
+    	"Mineral",
+    	"Other"
+	]
+}

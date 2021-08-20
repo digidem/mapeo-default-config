@@ -1,0 +1,14 @@
+{
+    "key": "network-type",
+    "type": "select_multiple",
+    "label": "Network type",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Mobile network",
+    	"Wire/cable/fiber", 
+    	"Local airwaves",
+    	"Satellite", 
+    	"Human transmission/distribution",
+    	"Site specific"
+    ]
+}

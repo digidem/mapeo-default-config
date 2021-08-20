@@ -1,0 +1,24 @@
+{
+    "key": "cultural-mediums",
+    "type": "select_multiple",
+    "label": "Cultural mediums",
+    "placeholder": "Select all that apply",
+    "options": [
+        "Place/site",
+        "Literary/poetry",
+        "Song/music",
+        "Dance/play",
+        "Game/sport",
+        "Performance/presentation",
+        "Visual art/exhibit/display",
+        "Event",
+        "Ceremony",
+        "Rituals/customs",
+        "Clothing/adornment",
+        "Decoration",
+        "Food/cuisine",
+        "Design/architecture",
+        "Tools/technology",
+        "Digital media"
+    ]
+}

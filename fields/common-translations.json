@@ -1,0 +1,7 @@
+{
+    "key": "common-translations",
+    "type": "text",
+    "label": "Common translations",
+    "placeholder": "What are common translations for this word/place?",
+    "options": []
+}

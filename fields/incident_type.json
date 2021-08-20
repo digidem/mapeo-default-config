@@ -1,0 +1,16 @@
+{
+    "key": "incident_type",
+    "type": "select_multiple",
+    "label": "Incident type",
+    "placeholder": "Select all that apply",
+    "options": [
+        "Invasion",
+        "Violence",
+        "Theft",
+        "Material damage",
+        "Injury",
+        "Illness",
+        "Human rights violation",
+        "Conflict"
+    ]
+}

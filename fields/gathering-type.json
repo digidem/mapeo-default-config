@@ -1,0 +1,15 @@
+{
+    "key": "gathering-type",
+    "type": "select_multiple",
+    "label": "Gathering type",
+    "placeholder": "Resources gathered here",
+    "options": [
+    	"Clay",
+        "Fibers",
+        "Berries",
+        "Tree fruit",
+        "Mushrooms",
+        "Medicine"
+    ]
+
+}

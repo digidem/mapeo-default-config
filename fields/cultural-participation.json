@@ -1,0 +1,16 @@
+{
+    "key": "cultural-participation",
+    "type": "select_multiple",
+    "label": "Cultural participation",
+    "placeholder": "Select all that apply",
+    "options": [
+        "Private",
+        "Family",
+        "Group members",
+        "Community",
+        "Visitors",
+        "Public",
+        "Audience/spectator",
+        "Participatory"
+    ]
+}

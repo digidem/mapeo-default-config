@@ -1,0 +1,18 @@
+{
+    "key": "body-of-water-type",
+    "type": "select_multiple",
+    "label": "Body of water type",
+    "placeholder": "Select as many as apply",
+    "options": [
+    	"Headwaters",
+        "Stream",
+        "River",
+        "Rapids",
+        "Waterfall",
+        "Lake",
+        "Pond",
+        "Delta",
+        "Subsurface water table"
+    ]
+
+}

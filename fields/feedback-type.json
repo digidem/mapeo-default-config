@@ -1,0 +1,11 @@
+{
+    "key": "feedback-type",
+    "type": "select_one",
+    "label": "Feedback type",
+    "placeholder": "Select one",
+    "options": [
+    	"Positive feedback",
+        "Suggested improvement",
+        "User issue"
+    ]
+}

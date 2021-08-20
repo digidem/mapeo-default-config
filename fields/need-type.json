@@ -1,0 +1,16 @@
+{
+    "key": "need-type",
+    "type": "select_multiple",
+    "label": "Need type",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Food",
+        "Potable Water",
+        "Supplies/materials",
+        "Shelter/housing",
+        "Transportation",
+        "Health services",
+        "Crisis response services",
+        "Law enforcement"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "service-type",
+    "type": "select_multiple",
+    "label": "Service type",
+    "placeholder": "What type of site is this?",
+    "options": [
+    	"Water infrastructure",
+        "Market/food services",
+        "Shops/utility",
+        "Community services",
+        "Communication"
+    ]
+}

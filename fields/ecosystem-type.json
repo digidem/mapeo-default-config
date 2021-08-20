@@ -1,0 +1,18 @@
+{
+    "key": "ecosystem-type",
+    "type": "select_one",
+    "label": "Ecosystem type",
+    "placeholder": "Select one",
+    "options": [
+    	"Ravine",
+        "Forest/woodland", 
+        "Mangrove",
+        "Wetland",
+        "Grasslands",
+        "Desert",
+        "Permafrost",
+        "Tundra",
+        "Other"
+    ]
+
+}

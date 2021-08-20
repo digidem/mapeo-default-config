@@ -1,0 +1,7 @@
+{
+    "key": "vehicle-capacity",
+    "type": "text",
+    "label": "Vehicle capacity",
+    "placeholder": "Describe passenger or cargo capacity",
+    "options": []
+}

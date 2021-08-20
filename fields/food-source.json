@@ -1,0 +1,18 @@
+{
+    "key": "food-source",
+    "type": "select_multiple",
+    "label": "Food source",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Permaculture",
+    	"Food forest",
+    	"Hunting",
+        "Trapline",
+        "Garden",
+        "Farmland",
+        "Pasture",
+        "Fishing area",
+        "Foraging",
+        "Trap"
+    ]
+}

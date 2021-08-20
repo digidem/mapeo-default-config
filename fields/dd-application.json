@@ -1,0 +1,10 @@
+{
+    "key": "dd-application",
+    "type": "select_one",
+    "label": "Dd application",
+    "placeholder": "Select one",
+    "options": [
+    	"MAPEO Mobile",
+        "MAPEO Desktop"
+    ]
+}

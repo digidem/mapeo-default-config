@@ -1,0 +1,18 @@
+{
+    "key": "activity-documented",
+    "type": "select_multiple",
+    "label": "Activity documented",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Surveying/sampling",
+        "Contamination",
+        "Unmaintained infraestructure",
+        "Spill",
+        "Deforestation",
+        "Extraction",
+        "Excavation",
+        "Invasion",
+        "Remediation",
+        "Impacted waterway"
+    ]
+}

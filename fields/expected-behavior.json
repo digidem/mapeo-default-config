@@ -1,0 +1,7 @@
+{
+    "key": "expected-behavior",
+    "type": "text",
+    "label": "Expected behavior",
+    "placeholder": "What behaviour did you expect Mapeo to have?",
+    "options": []
+}

@@ -1,0 +1,7 @@
+{
+    "key": "presumed-responsible",
+    "type": "text",
+    "label": "Presumed responsbile",
+    "placeholder": "Who or what may be responsible for this?",
+    "options": []
+}

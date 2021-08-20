@@ -1,0 +1,12 @@
+{
+    "key": "path-details",
+    "type": "select_multiple",
+    "label": "Path details",
+    "placeholder": "What is being identified?",
+    "options": [
+    	"Unmarked",
+    	"Marked", 
+    	"Unpaved",
+    	"Paved"
+    ]
+}

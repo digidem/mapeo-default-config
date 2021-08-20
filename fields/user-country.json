@@ -1,0 +1,7 @@
+{
+    "key": "user-country",
+    "type": "text",
+    "label": "User country",
+    "placeholder": "Your usual country of residence",
+    "options": []
+}

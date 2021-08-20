@@ -1,0 +1,17 @@
+{
+    "key": "authorities-needed",
+    "type": "select_multiple",
+    "label": "Authorities needed or involved",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"None",
+        "Local leadership",
+        "Munilcipal police",
+        "Regional law enforcement",
+        "National Law Enforcment",
+        "Park Rangers",
+        "Health Authorities",
+        "Private security",
+        "Other"
+    ]
+}

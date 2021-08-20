@@ -1,0 +1,11 @@
+{
+    "key": "vehicle-type-water",
+    "type": "select_multiple",
+    "label": "Vehicle type - water",
+    "placeholder": "Select all that apply",
+    "options": [
+    	"Boat - inboard motor",
+        "Boat - outboard motor",
+        "Small watercraft"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "key": "conditions",
+    "type": "select_one",
+    "label": "Conditions",
+    "placeholder": "Select one",
+    "options": [
+    	"Expected",
+    	"Unusual"
+	]
+}

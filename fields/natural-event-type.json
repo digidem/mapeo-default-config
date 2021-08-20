@@ -1,0 +1,7 @@
+{
+    "key": "natural-event-type",
+    "type": "select_one",
+    "label": "Natural event type",
+    "placeholder": "Select one",
+    "options": ["Storm", "Flood", "Drought", "Other"]
+}

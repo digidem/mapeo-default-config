@@ -1,0 +1,7 @@
+{
+    "key": "field-test-details",
+    "type": "text",
+    "label": "Field test details",
+    "placeholder": "Describe the test used, the sample and observations ",
+    "options": []
+}

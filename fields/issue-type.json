@@ -1,0 +1,22 @@
+{
+    "key": "issue-type",
+    "type": "select_multiple",
+    "label": "Issue type",
+    "placeholder": "What happened?",
+    "options": [
+        "App crashed",
+        "Error Message",
+        "Could not find device to sync with",
+        "Sync started but did not finish",
+        "I don't know if sync worked",
+        "Some data did sync but not the photos",
+        "Issues saving edits on my observations",
+        "GPS issue",
+        "Offline map issue",
+        "Details survey issue",
+        "Camera issue",
+        "Configuration loading issue",
+        "Language setting issue",
+        "Sharing observation issue"
+    ]
+}
