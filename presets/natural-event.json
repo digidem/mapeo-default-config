@@ -1,7 +1,8 @@
 {
-    "icon": "tree",
-    "sort": "3",
+    "icon": "animal",
+    "sort": "2",
     "fields": [
+        "animal-type",
         "ecological-status",
         "natural-resource",
         "conditions",
@@ -13,9 +14,7 @@
 
     ],
     "tags": {
-        "type" : "natural",
-        "natural" : "tree"
     },
     "terms":[],
-    "name": "Tree"
+    "name": "Natural event/phenomenon"
 }

@@ -1,6 +1,6 @@
 {
-    "icon": "tree",
-    "sort": "3",
+    "icon": "fungi",
+    "sort": "5",
     "fields": [
         "ecological-status",
         "natural-resource",
@@ -10,12 +10,11 @@
     ],
     "geometry": [
         "point", "area"
-
     ],
     "tags": {
         "type" : "natural",
-        "natural" : "tree"
+        "natural" : "plant"
     },
     "terms":[],
-    "name": "Tree"
+    "name": "Fungi"
 }

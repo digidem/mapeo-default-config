@@ -1,13 +1,18 @@
 {
-    "icon": "animal",
+    "icon": "natural-event",
+    "sort": "1",
     "fields": [
-        "animal-type"
-    ],"geometry": [
-        "point", "area"
+        "natural-event-type",
+        "conditions",
+        "observer-name-id",
+        "observer-affiliation"
     ],
-    "tags": {"type" : "animal"
+    "geometry": [
+        "point", "area"
 
+    ],
+    "tags": {
     },
     "terms":[],
-    "name": "Animal"
+    "name": "Natural event/phenomenon"
 }

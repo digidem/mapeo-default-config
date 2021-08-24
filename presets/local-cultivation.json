@@ -1,21 +1,19 @@
 {
-    "icon": "tree",
-    "sort": "3",
+    "icon": "local-cultivation",
+    "sort": "14",
     "fields": [
-        "ecological-status",
-        "natural-resource",
+        "food-source",
         "conditions",
+        "access",
+        "name",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
         "point", "area"
-
     ],
     "tags": {
-        "type" : "natural",
-        "natural" : "tree"
     },
     "terms":[],
-    "name": "Tree"
+    "name": "Local/community cultivation"
 }

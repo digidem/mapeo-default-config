@@ -1,21 +1,18 @@
 {
-    "icon": "tree",
-    "sort": "3",
+    "icon": "field-test-result",
+    "sort": "15",
     "fields": [
-        "ecological-status",
-        "natural-resource",
+        "sample-type",
+        "field-test-result",
         "conditions",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
         "point", "area"
-
     ],
     "tags": {
-        "type" : "natural",
-        "natural" : "tree"
     },
     "terms":[],
-    "name": "Tree"
+    "name": "Field test result"
 }

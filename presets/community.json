@@ -1,15 +1,17 @@
 {
     "icon": "community",
+    "sort": "22",
     "fields": [
-        "name"
+        "shelter-type",
+        "access",
+        "observer-name-id",
+        "observer-affiliation"
     ],
     "geometry": [
-        "point",
-		"area"
+        "point", "area"
     ],
     "tags": {
-        "place": "village"
     },
-    "terms":["village"],
+    "terms":[],
     "name": "Community"
 }

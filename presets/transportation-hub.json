@@ -1,17 +1,19 @@
 {
-    "icon": "path",
-    "sort": "32",
+    "icon": "transportation-hub",
+    "sort": "35",
     "fields": [
         "vehicle-type-land",
+        "vehicle-type-air",
+        "vehicle-type-water",
         "access",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Path/trail"
+    "name": "Transportation hub"
 }

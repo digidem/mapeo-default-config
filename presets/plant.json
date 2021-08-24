@@ -1,7 +1,13 @@
 {
     "icon": "plant",
+    "sort": "4",
     "fields": [
-        "plant-species"],
+        "ecological-status",
+        "natural-resource",
+        "conditions",
+        "observer-name-id",
+        "observer-affiliation"
+    ],
     "geometry": [
         "point", "area"
     ],

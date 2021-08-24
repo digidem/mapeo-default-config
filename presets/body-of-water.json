@@ -1,21 +1,18 @@
 {
-    "icon": "tree",
-    "sort": "3",
+    "icon": "body-of-water",
+    "sort": "9",
     "fields": [
-        "ecological-status",
-        "natural-resource",
+        "body-of-water-type",
         "conditions",
+        "name",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
         "point", "area"
-
     ],
     "tags": {
-        "type" : "natural",
-        "natural" : "tree"
     },
     "terms":[],
-    "name": "Tree"
+    "name": "Body of water"
 }

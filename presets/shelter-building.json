@@ -1,8 +1,8 @@
 {
-    "icon": "path",
-    "sort": "32",
+    "icon": "shelter-building",
+    "sort": "21",
     "fields": [
-        "vehicle-type-land",
+        "shelter-type",
         "access",
         "observer-name-id",
         "observer-affiliation"
@@ -13,5 +13,5 @@
     "tags": {
     },
     "terms":[],
-    "name": "Path/trail"
+    "name": "Shelter/building"
 }

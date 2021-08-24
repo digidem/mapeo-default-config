@@ -1,8 +1,8 @@
 {
-    "icon": "path",
-    "sort": "32",
+    "icon": "community-infrastructure-service",
+    "sort": "23",
     "fields": [
-        "vehicle-type-land",
+        "service-type",
         "access",
         "observer-name-id",
         "observer-affiliation"
@@ -13,5 +13,5 @@
     "tags": {
     },
     "terms":[],
-    "name": "Path/trail"
+    "name": "Community infrastructure/service"
 }

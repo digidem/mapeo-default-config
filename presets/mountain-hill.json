@@ -1,21 +1,20 @@
 {
-    "icon": "tree",
-    "sort": "3",
+    "icon": "mountain-hill",
+    "sort": "7",
     "fields": [
-        "ecological-status",
-        "natural-resource",
         "conditions",
+        "name",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
         "point", "area"
-
     ],
     "tags": {
         "type" : "natural",
-        "natural" : "tree"
+        "natural" : "peak"
+
     },
-    "terms":[],
-    "name": "Tree"
+    "terms":["mountains"],
+    "name": "Mountain/hill"
 }

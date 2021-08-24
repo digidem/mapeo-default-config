@@ -1,6 +1,6 @@
 {
-    "icon": "path",
-    "sort": "32",
+    "icon": "roadway",
+    "sort": "33",
     "fields": [
         "vehicle-type-land",
         "access",
@@ -13,5 +13,5 @@
     "tags": {
     },
     "terms":[],
-    "name": "Path/trail"
+    "name": "Roadway"
 }

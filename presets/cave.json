@@ -1,7 +1,11 @@
 {
     "icon": "cave",
+    "sort": "6",
     "fields": [
-        "name"
+        "conditions",
+        "name",
+        "observer-name-id",
+        "observer-affiliation"
     ],
     "geometry": [
         "point"

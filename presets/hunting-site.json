@@ -1,17 +1,17 @@
 {
-    "icon": "hunting",
+    "icon": "hunting-site",
+    "sort": "11",
     "fields": [
-        "animal-type"
+        "access",
+        "name",
+        "observer-name-id",
+        "observer-affiliation"
     ],
     "geometry": [
-        "point",
-		"area"
+        "point", "area", "line"
     ],
     "tags": {
-        "type" : "activity",
-        "activity" : "hunting"
-
     },
     "terms":[],
-    "name": "Hunting Site"
+    "name": "Hunting site/path"
 }

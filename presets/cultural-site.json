@@ -1,9 +1,11 @@
 {
-    "icon": "path",
-    "sort": "32",
+    "icon": "cultural-site",
+    "sort": "41",
     "fields": [
-        "vehicle-type-land",
+        "cultural-category",
+        "cultural-details",
         "access",
+        "name",
         "observer-name-id",
         "observer-affiliation"
     ],
@@ -13,5 +15,5 @@
     "tags": {
     },
     "terms":[],
-    "name": "Path/trail"
+    "name": "Cultural site"
 }
