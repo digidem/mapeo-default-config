@@ -1,0 +1,7 @@
+{
+    "key": "observer-affiliation",
+    "type": "text",
+    "label": "Observer affiliation",
+    "placeholder": "Relevant affiliate groups / organizations",
+    "options": []
+}

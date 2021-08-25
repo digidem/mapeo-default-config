@@ -1,15 +1,16 @@
 {
-    "icon": "gathering-site",
-    "sort": "13",
+    "icon": "gathering",
+    "sort": 13,
     "fields": [
+        "name",
         "gathering-type",
         "access",
-        "name",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },

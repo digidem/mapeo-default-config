@@ -1,0 +1,26 @@
+{
+    "icon": "user-feedback",
+    "sort": 99,
+    "fields": [
+        "user-name",
+        "user-location",
+        "user-country",
+        "affiliate-groups",
+        "feedback-type",
+        "dd-application",
+        "dd-app-version",
+        "issue-type",
+        "issue-priority",
+        "issue-reproducibility",
+        "issue-context",
+        "expected-behavior",
+        "equipment-os"
+    ],
+    "geometry": [
+        "point"
+    ],
+    "tags": {
+    },
+    "terms":[],
+    "name": "User feedback"
+}

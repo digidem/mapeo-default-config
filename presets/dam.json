@@ -1,0 +1,23 @@
+{
+    "icon": "dam",
+    "sort": 55,
+    "fields": [
+        "name",
+        "activity-documented",
+        "activity-progress",
+        "authorities-needed",
+        "presumed-responsible",
+        "permission",
+        "issue-priority",
+        "note",
+        "observer-name-id",
+        "observer-affiliation"
+    ],
+    "geometry": [
+        "point", "area", "line"
+    ],
+    "tags": {
+    },
+    "terms":[],
+    "name": "Dam"
+}

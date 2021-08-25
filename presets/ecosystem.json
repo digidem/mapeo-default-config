@@ -1,15 +1,16 @@
 {
     "icon": "ecosystem",
-    "sort": "8",
+    "sort": 8,
     "fields": [
+        "name",
         "ecosystem-type",
         "conditions",
-        "name",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },

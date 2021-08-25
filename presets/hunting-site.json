@@ -1,9 +1,10 @@
 {
-    "icon": "hunting-site",
-    "sort": "11",
+    "icon": "hunting",
+    "sort": 11,
     "fields": [
-        "access",
         "name",
+        "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
@@ -13,5 +14,5 @@
     "tags": {
     },
     "terms":[],
-    "name": "Hunting site/path"
+    "name": "Hunting site"
 }

@@ -1,9 +1,10 @@
 {
     "icon": "mountain-hill",
-    "sort": "7",
+    "sort": 7,
     "fields": [
-        "conditions",
         "name",
+        "conditions",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
@@ -16,5 +17,5 @@
 
     },
     "terms":["mountains"],
-    "name": "Mountain/hill"
+    "name": "Mountain / hill"
 }

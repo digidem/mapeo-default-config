@@ -1,11 +1,12 @@
 {
-    "icon": "local-cultivation",
-    "sort": "14",
+    "icon": "field-test",
+    "sort": 15,
     "fields": [
-        "food-source",
-        "conditions",
-        "access",
         "name",
+        "sample-type",
+        "field-test-details",
+        "conditions",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
@@ -15,5 +16,5 @@
     "tags": {
     },
     "terms":[],
-    "name": "Local/community cultivation"
+    "name": "Field test result"
 }

@@ -1,6 +1,6 @@
 {
     "key": "hours-of-operation",
-    "type": "textarea",
+    "type": "text",
     "label": "Hours of operation",
     "placeholder": "What days/times is this available?",
     "options": []

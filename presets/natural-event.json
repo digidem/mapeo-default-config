@@ -1,20 +1,20 @@
 {
-    "icon": "animal",
-    "sort": "2",
+    "icon": "natural-event",
+    "sort": 1,
     "fields": [
-        "animal-type",
-        "ecological-status",
-        "natural-resource",
+        "name",
+        "natural-event-type",
         "conditions",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
 
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Natural event/phenomenon"
+    "name": "Natural event / phenomenon"
 }

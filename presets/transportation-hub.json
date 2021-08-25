@@ -1,16 +1,18 @@
 {
     "icon": "transportation-hub",
-    "sort": "35",
+    "sort": 35,
     "fields": [
+        "name",
         "vehicle-type-land",
         "vehicle-type-air",
         "vehicle-type-water",
         "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area", "line"
+        "point", "area"
     ],
     "tags": {
     },

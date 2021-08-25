@@ -1,14 +1,15 @@
 {
     "icon": "cave",
-    "sort": "6",
+    "sort": 6,
     "fields": [
-        "conditions",
         "name",
+        "conditions",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point"
+        "point", "area", "line"
     ],
     "tags": {
         "type" : "natural",

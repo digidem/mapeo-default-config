@@ -1,0 +1,21 @@
+{
+    "icon": "unwanted-outsider",
+    "sort": 59,
+    "fields": [
+        "activity-progress",
+        "authorities-needed",
+        "presumed-responsible",
+        "issue-priority",
+        "issue-context",
+        "note",
+        "observer-name-id",
+        "observer-affiliation"
+    ],
+    "geometry": [
+        "point", "area", "line"
+    ],
+    "tags": {
+    },
+    "terms":[],
+    "name": "Unwanted outsider"
+}

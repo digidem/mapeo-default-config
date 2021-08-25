@@ -3,5 +3,5 @@
     "type": "localized",
     "label": "Name",
     "universal": true,
-    "placeholder": "Common name of this place"
+    "placeholder": "What is this commonly known as?"
 }

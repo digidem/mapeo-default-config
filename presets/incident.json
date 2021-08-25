@@ -1,0 +1,21 @@
+{
+    "icon": "incident",
+    "sort": 58,
+    "fields": [
+        "incident-type",
+        "authorities-needed",
+        "presumed-responsible",
+        "issue-priority",
+        "issue-context",
+        "note",
+        "observer-name-id",
+        "observer-affiliation"
+    ],
+    "geometry": [
+        "point", "area"
+    ],
+    "tags": {
+    },
+    "terms":[],
+    "name": "Incident"
+}

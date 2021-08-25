@@ -1,6 +1,6 @@
 {
     "key": "shelter-type",
-    "type": "select_multiplee",
+    "type": "select_multiple",
     "label": "Shelter type",
     "placeholder": "What kind of shelter is it?",
     "options": [

@@ -1,14 +1,16 @@
 {
     "icon": "roadway",
-    "sort": "33",
+    "sort": 33,
     "fields": [
+        "name",
         "vehicle-type-land",
         "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "line"
     ],
     "tags": {
     },

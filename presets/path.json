@@ -1,17 +1,19 @@
 {
     "icon": "path",
-    "sort": "32",
+    "sort": 32,
     "fields": [
+        "name",
         "vehicle-type-land",
         "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Path/trail"
+    "name": "Path / trail"
 }

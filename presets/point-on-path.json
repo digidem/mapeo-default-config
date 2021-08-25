@@ -1,18 +1,16 @@
 {
-    "icon": "fishing",
-    "sort": 12,
+    "icon": "point-on-path",
+    "sort": 0,
     "fields": [
-        "name",
-        "access",
         "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area", "line"
+        "point"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Fishing site"
+    "name": "Point on path"
 }

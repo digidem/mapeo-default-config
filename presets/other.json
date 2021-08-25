@@ -1,18 +1,17 @@
 {
-    "icon": "body-of-water",
-    "sort": "9",
+    "icon": "other",
+    "sort": 90,
     "fields": [
-        "body-of-water-type",
-        "conditions",
         "name",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "line", "area"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Body of water"
+    "name": "Other"
 }

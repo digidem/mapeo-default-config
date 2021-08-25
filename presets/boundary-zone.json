@@ -1,19 +1,21 @@
 {
-    "icon": "boundary-zone",
-    "sort": "36",
+    "icon": "boundary",
+    "sort": 36,
     "fields": [
+        "name",
         "vehicle-type-land",
         "vehicle-type-air",
         "vehicle-type-water",
         "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Transportation hub"
+    "name": "Boundary / zone"
 }

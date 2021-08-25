@@ -1,14 +1,16 @@
 {
     "icon": "airstrip",
-    "sort": "31",
+    "sort": 31,
     "fields": [
+        "name",
         "vehicle-type-air",
         "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },

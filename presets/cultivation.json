@@ -1,18 +1,20 @@
 {
-    "icon": "fishing",
-    "sort": 12,
+    "icon": "cultivation",
+    "sort": 14,
     "fields": [
         "name",
+        "food-source",
+        "conditions",
         "access",
         "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area", "line"
+        "point", "area"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Fishing site"
+    "name": "Local / community cultivation"
 }

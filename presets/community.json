@@ -1,9 +1,11 @@
 {
     "icon": "community",
-    "sort": "22",
+    "sort": 22,
     "fields": [
+        "name",
         "shelter-type",
         "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],

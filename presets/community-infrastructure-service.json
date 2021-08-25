@@ -1,17 +1,19 @@
 {
-    "icon": "community-infrastructure-service",
-    "sort": "23",
+    "icon": "infrastructure",
+    "sort": 23,
     "fields": [
+        "name",
         "service-type",
         "access",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Community infrastructure/service"
+    "name": "Community infrastructure / service"
 }

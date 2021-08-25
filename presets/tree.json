@@ -1,10 +1,12 @@
 {
     "icon": "tree",
-    "sort": "3",
+    "sort": 3,
     "fields": [
+        "name",
         "ecological-status",
         "natural-resource",
         "conditions",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],

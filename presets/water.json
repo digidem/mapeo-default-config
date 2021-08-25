@@ -1,18 +1,19 @@
 {
-    "icon": "field-test-result",
-    "sort": "15",
+    "icon": "water",
+    "sort": 9,
     "fields": [
-        "sample-type",
-        "field-test-result",
+        "name",
+        "body-of-water-type",
         "conditions",
+        "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
-        "point", "area"
+        "point", "area", "line"
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Field test result"
+    "name": "Body of water"
 }

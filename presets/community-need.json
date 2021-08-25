@@ -1,22 +1,20 @@
 {
-    "icon": "animal",
-    "sort": 2,
+    "icon": "community-need",
+    "sort": 62,
     "fields": [
-        "name",
-        "animal-type",
-        "ecological-status",
-        "natural-resource",
-        "conditions",
+        "authorities-needed",
+        "need-type",
+        "issue-priority",
+        "issue-context",
         "note",
         "observer-name-id",
         "observer-affiliation"
     ],
     "geometry": [
         "point", "area"
-
     ],
     "tags": {
     },
     "terms":[],
-    "name": "Animal"
+    "name": "Community need"
 }

@@ -1,0 +1,22 @@
+{
+    "icon": "oil-activity",
+    "sort": 53,
+    "fields": [
+        "activity-documented",
+        "activity-progress",
+        "authorities-needed",
+        "presumed-responsible",
+        "permission",
+        "issue-priority",
+        "note",
+        "observer-name-id",
+        "observer-affiliation"
+    ],
+    "geometry": [
+        "point", "area", "line"
+    ],
+    "tags": {
+    },
+    "terms":[],
+    "name": "Oil activity"
+}
