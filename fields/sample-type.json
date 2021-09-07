@@ -1,7 +1,7 @@
 {
-    "key": "field-test-details",
+    "key": "sample-type",
     "type": "select_one",
-    "label": "Field test details",
+    "label": "Sample type",
     "placeholder": "Select the type of testing",
     "options": [
     	"Meteorological",

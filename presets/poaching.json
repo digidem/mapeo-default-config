@@ -6,10 +6,7 @@
         "activity-progress",
         "authorities-needed",
         "presumed-responsible",
-        "issue-priority",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "issue-priority"
     ],
     "geometry": [
         "point", "area", "line"

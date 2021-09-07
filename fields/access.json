@@ -2,6 +2,6 @@
     "key": "access",
     "type": "text",
     "label": "Access",
-    "placeholder": "Access details",
+    "placeholder": "What is needed to access this site, service or activity?",
     "options": []
 }

@@ -2,14 +2,8 @@
     "icon": "boundary",
     "sort": 36,
     "fields": [
-        "name",
-        "vehicle-type-land",
-        "vehicle-type-air",
-        "vehicle-type-water",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "place-name",
+        "access"
     ],
     "geometry": [
         "point", "area", "line"

@@ -2,12 +2,9 @@
     "icon": "shelter",
     "sort": 21,
     "fields": [
-        "name",
+        "place-name",
         "shelter-type",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "area"

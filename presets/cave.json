@@ -2,11 +2,8 @@
     "icon": "cave",
     "sort": 6,
     "fields": [
-        "name",
-        "conditions",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "place-name",
+        "conditions"
     ],
     "geometry": [
         "point", "area", "line"

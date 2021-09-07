@@ -2,17 +2,16 @@
     "icon": "airstrip",
     "sort": 31,
     "fields": [
-        "name",
+        "place-name",
         "vehicle-type-air",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "aeroway",
+        "aeroway" : "airstrip"
     },
     "terms":[],
     "name": "Airstrip"

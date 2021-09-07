@@ -7,10 +7,7 @@
         "authorities-needed",
         "presumed-responsible",
         "permission",
-        "issue-priority",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "issue-priority"
     ],
     "geometry": [
         "point", "area"

@@ -2,17 +2,17 @@
     "icon": "water",
     "sort": 9,
     "fields": [
-        "name",
+        "place-name",
         "body-of-water-type",
-        "conditions",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "conditions"
     ],
     "geometry": [
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "waterway",
+        "type" : "natural",
+        "natural" : "water"
     },
     "terms":[],
     "name": "Body of water"

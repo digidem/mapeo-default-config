@@ -3,5 +3,11 @@
     "type": "select_one",
     "label": "Natural event type",
     "placeholder": "Select one",
-    "options": ["Storm", "Flood", "Drought", "Other"]
+    "options": [
+    	"Storm", 
+    	"Flood", 
+    	"Fire",
+    	"Drought", 
+    	"Other"
+    ]
 }

@@ -2,12 +2,9 @@
     "icon": "language",
     "sort": 43,
     "fields": [
-        "name",
+        "cultural-name",
         "common-translations",
-        "cultural-details",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "cultural-details"
     ],
     "geometry": [
         "point", "area", "line"

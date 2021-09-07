@@ -9,6 +9,7 @@
     	"Local airwaves",
     	"Satellite", 
     	"Human transmission/distribution",
-    	"Site specific"
+    	"Site specific",
+        "Other"
     ]
 }

@@ -2,17 +2,16 @@
     "icon": "gathering",
     "sort": 13,
     "fields": [
-        "name",
+        "place-name",
         "gathering-type",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "activity",
+        "activity" : "gathering"
     },
     "terms":[],
     "name": "Gathering site"

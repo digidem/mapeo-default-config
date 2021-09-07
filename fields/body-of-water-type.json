@@ -1,5 +1,5 @@
 {
-    "key": "body-of-water-type",
+    "key": "waterway",
     "type": "select_multiple",
     "label": "Body of water type",
     "placeholder": "Select as many as apply",
@@ -12,7 +12,9 @@
         "Lake",
         "Pond",
         "Delta",
-        "Subsurface water table"
+        "Subsurface water table",
+        "Glacier",
+        "Other"
     ]
 
 }

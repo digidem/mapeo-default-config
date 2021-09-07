@@ -2,12 +2,9 @@
     "icon": "infrastructure",
     "sort": 23,
     "fields": [
-        "name",
+        "place-name",
         "service-type",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "area", "line"

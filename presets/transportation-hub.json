@@ -2,14 +2,11 @@
     "icon": "transportation-hub",
     "sort": 35,
     "fields": [
-        "name",
+        "place-name",
         "vehicle-type-land",
         "vehicle-type-air",
         "vehicle-type-water",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "area"

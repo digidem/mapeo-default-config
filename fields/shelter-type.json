@@ -6,6 +6,7 @@
     "options": [
     	"Temporary",
     	"Permanant",
-    	"Not in use"
+    	"Not in use",
+        "Other"
     ]
 }

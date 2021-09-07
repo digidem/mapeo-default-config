@@ -2,10 +2,7 @@
     "icon": "other",
     "sort": 90,
     "fields": [
-        "name",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "name"
     ],
     "geometry": [
         "point", "line", "area"

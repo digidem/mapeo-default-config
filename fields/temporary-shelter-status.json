@@ -9,6 +9,7 @@
     	"Seasonal",
     	"Short term", 
     	"Long term",
-    	"Closed"
+    	"Closed",
+        "Other"
     ]
 }

@@ -2,13 +2,10 @@
     "icon": "cultural-site",
     "sort": 41,
     "fields": [
-        "name",
+        "cultural-name",
         "cultural-category",
         "cultural-details",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "area", "line"

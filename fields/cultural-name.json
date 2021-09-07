@@ -1,7 +1,7 @@
 {
-    "key": "name",
+    "key": "cultural-name",
     "type": "localized",
-    "label": "Name",
+    "label": "Cultural name / term",
     "universal": true,
     "placeholder": "What is this called?"
 }

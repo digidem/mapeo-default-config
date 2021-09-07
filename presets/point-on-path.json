@@ -2,9 +2,6 @@
     "icon": "point-on-path",
     "sort": 0,
     "fields": [
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
     ],
     "geometry": [
         "point"

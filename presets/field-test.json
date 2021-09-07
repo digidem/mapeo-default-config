@@ -2,13 +2,9 @@
     "icon": "field-test",
     "sort": 15,
     "fields": [
-        "name",
         "sample-type",
         "field-test-details",
-        "conditions",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "conditions"
     ],
     "geometry": [
         "point", "area"

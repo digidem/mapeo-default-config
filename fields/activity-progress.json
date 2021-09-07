@@ -4,10 +4,11 @@
     "label": "Activity progress",
     "placeholder": "Select one",
     "options": [
-    	"Preparation/Installation",
+    	"Initial stages",
         "Active/In-progress",
         "Temporarily suspended",
-        "Repeat Activity",
-        "Inactive/Complete"
+        "Repeat activity",
+        "Inactive/Complete",
+        "Other"
     ]
 }

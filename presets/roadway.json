@@ -2,12 +2,9 @@
     "icon": "roadway",
     "sort": 33,
     "fields": [
-        "name",
+        "place-name",
         "vehicle-type-land",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "line"

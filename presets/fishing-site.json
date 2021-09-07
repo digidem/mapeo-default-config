@@ -2,16 +2,15 @@
     "icon": "fishing",
     "sort": 12,
     "fields": [
-        "name",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "place-name",
+        "access"
     ],
     "geometry": [
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "activity",
+        "activity" : "fishing"
     },
     "terms":[],
     "name": "Fishing site"

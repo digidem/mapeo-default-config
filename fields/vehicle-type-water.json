@@ -6,6 +6,7 @@
     "options": [
     	"Boat - inboard motor",
         "Boat - outboard motor",
-        "Small watercraft"
+        "Small watercraft",
+        "Other"
     ]
 }

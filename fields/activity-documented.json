@@ -6,13 +6,15 @@
     "options": [
     	"Surveying/sampling",
         "Contamination",
-        "Unmaintained infraestructure",
+        "Unmaintained infrastructure",
         "Spill",
         "Deforestation",
         "Extraction",
         "Excavation",
         "Invasion",
         "Remediation",
-        "Impacted waterway"
+        "Impacted waterway",
+        "Health crisis",
+        "Other"
     ]
 }

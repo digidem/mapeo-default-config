@@ -5,10 +5,7 @@
         "name",
         "ecological-status",
         "natural-resource",
-        "conditions",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "conditions"
     ],
     "geometry": [
         "point", "area"

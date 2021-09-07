@@ -6,16 +6,14 @@
         "animal-type",
         "ecological-status",
         "natural-resource",
-        "conditions",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "conditions"
     ],
     "geometry": [
         "point", "area"
 
     ],
     "tags": {
+        "type" : "animal"
     },
     "terms":[],
     "name": "Animal"

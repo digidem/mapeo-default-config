@@ -2,13 +2,10 @@
     "icon": "cultivation",
     "sort": 14,
     "fields": [
-        "name",
+        "place-name",
         "food-source",
         "conditions",
-        "access",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "access"
     ],
     "geometry": [
         "point", "area"

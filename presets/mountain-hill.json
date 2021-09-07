@@ -2,11 +2,8 @@
     "icon": "mountain-hill",
     "sort": 7,
     "fields": [
-        "name",
-        "conditions",
-        "note",
-        "observer-name-id",
-        "observer-affiliation"
+        "place-name",
+        "conditions"
     ],
     "geometry": [
         "point", "area"

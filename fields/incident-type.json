@@ -11,6 +11,7 @@
         "Injury",
         "Illness",
         "Human rights violation",
-        "Conflict"
+        "Conflict",
+        "Other"
     ]
 }

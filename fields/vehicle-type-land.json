@@ -11,6 +11,7 @@
         "Cargo van/truck",
         "All terrain vehicle",
         "Bus",
-        "Train"
+        "Train",
+        "Other"
     ]
 }

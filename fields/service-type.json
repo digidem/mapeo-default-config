@@ -7,7 +7,11 @@
     	"Water infrastructure",
         "Market/food services",
         "Shops/utility",
-        "Community services",
-        "Communication"
+        "Education",
+        "Health",
+        "Recreation",
+        "Communication",
+        "Social services",
+        "Other"
     ]
 }
