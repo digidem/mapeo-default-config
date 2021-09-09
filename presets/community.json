@@ -3,8 +3,7 @@
     "sort": 22,
     "fields": [
         "place-name",
-        "shelter-type",
-        "access"
+        "shelter-type"
     ],
     "geometry": [
         "point", "area"
