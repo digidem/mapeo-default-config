@@ -5,10 +5,10 @@
     "placeholder": "Select one",
     "options": [
     	"Initial stages",
-        "Active/In-progress",
+        "Active/in-progress",
         "Temporarily suspended",
         "Repeat activity",
-        "Inactive/Complete",
+        "Inactive/complete",
         "Other"
     ]
 }

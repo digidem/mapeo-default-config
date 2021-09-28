@@ -1,7 +1,0 @@
-{
-    "key": "hours-of-operation",
-    "type": "text",
-    "label": "Hours of operation",
-    "placeholder": "What days/times is this available?",
-    "options": []
-}

@@ -5,7 +5,7 @@
     "placeholder": "What happened?",
     "options": [
         "App crashed",
-        "Error Message",
+        "Error message",
         "Could not find device to sync with",
         "Sync started but did not finish",
         "I don't know if sync worked",
