@@ -146,5 +146,57 @@
   "presets.camp.name": {
     "description": "The name of preset 'camp'",
     "message": "စခန်း"
+  },
+  "presets.camp.terms": {
+    "description": "List of search terms for preset 'camp'",
+    "message": "စခန်းနေရာ, ခရီးထွက်ခြင်း, အမဲလိုက်ခြင်း"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "ဂူ/ ဥမင်"
+  },
+  "presets.clay.name": {
+    "description": "The name of preset 'clay'",
+    "message": "ရွံ့"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "ဒေသခံပြည်သူ"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "ကျေးရွာ"
+  },
+  "presets.fishing-site.name": {
+    "description": "The name of preset 'fishing-site'",
+    "message": "ငါးမျှားရန်နေရာ"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "ငါး"
+  },
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "စုဝေးရာ နေရာ"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "စုဆောင်းခြင်း"
+  },
+  "presets.hills.name": {
+    "description": "The name of preset 'hills'",
+    "message": "တောင်ကုန်းများ"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "တောင်များ"
+  },
+  "presets.house.name": {
+    "description": "The name of preset 'house'",
+    "message": "အိမ်"
+  },
+  "presets.house.terms": {
+    "description": "List of search terms for preset 'house'",
+    "message": "အိမ်"
   }
 }
