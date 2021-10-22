@@ -129,7 +129,7 @@
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
-    "message": "limite"
+    "message": "Limite"
   },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
