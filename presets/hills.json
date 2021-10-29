@@ -1,6 +1,6 @@
 {
     "icon": "mountain-hill",
-    "sort": 7,
+    "sort": 6,
     "fields": [
         "place-name",
         "conditions"

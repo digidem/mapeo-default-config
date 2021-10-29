@@ -11,7 +11,9 @@
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "cultural",
+        "cultural" : "cultural-site"
     },
-    "terms":[],
+    "terms":["story", "sacred", "historical", "history"],
     "name": "Cultural site"
 }

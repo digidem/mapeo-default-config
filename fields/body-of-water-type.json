@@ -1,6 +1,6 @@
 {
     "key": "waterway",
-    "type": "select_multiple",
+    "type": "select_one",
     "label": "Body of water type",
     "placeholder": "Select as many as apply",
     "options": [

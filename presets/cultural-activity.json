@@ -11,7 +11,8 @@
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "cultural"
     },
-    "terms":[],
+    "terms":["story", "sacred", "historical", "history"],
     "name": "Cultural activity"
 }

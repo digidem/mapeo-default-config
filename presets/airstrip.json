@@ -13,6 +13,6 @@
         "type" : "aeroway",
         "aeroway" : "airstrip"
     },
-    "terms":[],
+    "terms":["airfield", "airport", "landing"],
     "name": "Airstrip"
 }

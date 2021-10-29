@@ -1,7 +1,7 @@
 {
-  "name": "mapeo-default-settings",
-  "version": "4.0.0-beta-1",
-  "description": "Mapeo default config (categories, icons, questions)",
+  "name": "mapeo-default-configuration",
+  "version": "4.0.0-beta-2",
+  "description": "Mapeo default configuration (categories, icons, questions)",
   "dependencies": {},
   "devDependencies": {
     "mapeo-settings-builder": "^3.3.1",

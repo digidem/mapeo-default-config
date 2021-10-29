@@ -12,6 +12,6 @@
         "type" : "activity",
         "activity" : "fishing"
     },
-    "terms":[],
+    "terms":["fish"],
     "name": "Fishing site"
 }

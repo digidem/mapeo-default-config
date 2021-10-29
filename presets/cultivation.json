@@ -11,6 +11,8 @@
         "point", "area"
     ],
     "tags": {
+        "type" : "landuse",
+        "landuse" : "farmland"
     },
     "terms":[],
     "name": "Local / community cultivation"

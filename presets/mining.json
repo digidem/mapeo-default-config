@@ -13,7 +13,9 @@
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "impact",
+        "impact" : "threat"
     },
-    "terms":[],
+    "terms":["danger", "illegal", "monitoring"],
     "name": "Mining"
 }

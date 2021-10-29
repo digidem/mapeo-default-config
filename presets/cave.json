@@ -1,6 +1,6 @@
 {
     "icon": "cave",
-    "sort": 6,
+    "sort": 5,
     "fields": [
         "place-name",
         "conditions"

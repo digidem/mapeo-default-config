@@ -12,6 +12,8 @@
         "point", "area", "line"
     ],
     "tags": {
+        "type" : "impact",
+        "impact" : "threat"
     },
     "terms":[],
     "name": "Poaching"

@@ -6,10 +6,11 @@
         "access"
     ],
     "geometry": [
-        "point", "area", "line"
+        "point", "line"
     ],
     "tags": {
+        "type" : "boundary"
     },
-    "terms":[],
-    "name": "Boundary / zone"
+    "terms":["border", "frontier"],
+    "name": "Border / boundary"
 }

@@ -13,6 +13,6 @@
         "type" : "activity",
         "activity" : "gathering"
     },
-    "terms":[],
+    "terms":["collection"],
     "name": "Gathering site"
 }
