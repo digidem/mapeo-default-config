@@ -1,7 +1,0 @@
-{
-    "key": "dd-app-version",
-    "type": "text",
-    "label": "Dd app version",
-    "placeholder": "(ex. v.1.0.1)",
-    "options": []
-}

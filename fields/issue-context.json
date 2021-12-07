@@ -1,7 +1,0 @@
-{
-    "key": "issue-context",
-    "type": "text",
-    "label": "Issue context",
-    "placeholder": "What actions or conditions led to the issue?",
-    "options": []
-}

@@ -1,7 +1,0 @@
-{
-    "key": "equipment-os",
-    "type": "text",
-    "label": "Equipment & OS",
-    "placeholder": "What device and operating system and version are you using?",
-    "options": []
-}
