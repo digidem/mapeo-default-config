@@ -178,5 +178,101 @@
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
     "message": "Sitio de recolección"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "recolección"
+  },
+  "presets.hills.name": {
+    "description": "The name of preset 'hills'",
+    "message": "Colinas"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "montañas"
+  },
+  "presets.house.name": {
+    "description": "The name of preset 'house'",
+    "message": "Casa"
+  },
+  "presets.house.terms": {
+    "description": "List of search terms for preset 'house'",
+    "message": "casa, hogar"
+  },
+  "presets.hunting-site.name": {
+    "description": "The name of preset 'hunting-site'",
+    "message": "Sitio de caza"
+  },
+  "presets.lake.name": {
+    "description": "The name of preset 'lake'",
+    "message": "Lago"
+  },
+  "presets.line.name": {
+    "description": "The name of preset 'line'",
+    "message": "Nueva línea"
+  },
+  "presets.palm.name": {
+    "description": "The name of preset 'palm'",
+    "message": "Palma"
+  },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Camino"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Planta"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Nuevo punto"
+  },
+  "presets.river.name": {
+    "description": "The name of preset 'river'",
+    "message": "Río"
+  },
+  "presets.salt-lick.name": {
+    "description": "The name of preset 'salt-lick'",
+    "message": "Salegar"
+  },
+  "presets.special-site.name": {
+    "description": "The name of preset 'special-site'",
+    "message": "Sitio especial"
+  },
+  "presets.special-site.terms": {
+    "description": "List of search terms for preset 'special-site'",
+    "message": "historia, sagrada, histórico, cuento"
+  },
+  "presets.stream.name": {
+    "description": "The name of preset 'stream'",
+    "message": "Arroyo"
+  },
+  "presets.swidden.name": {
+    "description": "The name of preset 'swidden'",
+    "message": "Tierra agrícola"
+  },
+  "presets.swidden.terms": {
+    "description": "List of search terms for preset 'swidden'",
+    "message": "granja, jardín, parcela, terreno, arrozal, cultivo"
+  },
+  "presets.threat.name": {
+    "description": "The name of preset 'threat'",
+    "message": "Amenaza"
+  },
+  "presets.threat.terms": {
+    "description": "List of search terms for preset 'threat'",
+    "message": "peligro, ilegal, monitoreo"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Árbol"
+  },
+  "presets.waterfall.name": {
+    "description": "The name of preset 'waterfall'",
+    "message": "Cascada"
+  },
+  "presets.waterfall.terms": {
+    "description": "List of search terms for preset 'waterfall'",
+    "message": "cascada"
   }
 }
