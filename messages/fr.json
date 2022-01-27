@@ -250,5 +250,29 @@
   "presets.swidden.name": {
     "description": "The name of preset 'swidden'",
     "message": "Terres agricoles"
+  },
+  "presets.swidden.terms": {
+    "description": "List of search terms for preset 'swidden'",
+    "message": "ferme, jardin, parcelle, lotissement, rizière, cultivation"
+  },
+  "presets.threat.name": {
+    "description": "The name of preset 'threat'",
+    "message": "Menace"
+  },
+  "presets.threat.terms": {
+    "description": "List of search terms for preset 'threat'",
+    "message": "danger, illégal, monitorage"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Arbre"
+  },
+  "presets.waterfall.name": {
+    "description": "The name of preset 'waterfall'",
+    "message": "Cascade"
+  },
+  "presets.waterfall.terms": {
+    "description": "List of search terms for preset 'waterfall'",
+    "message": "cascade"
   }
 }
