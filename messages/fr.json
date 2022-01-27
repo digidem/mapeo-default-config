@@ -230,5 +230,25 @@
   "presets.river.name": {
     "description": "The name of preset 'river'",
     "message": "Rivière"
+  },
+  "presets.salt-lick.name": {
+    "description": "The name of preset 'salt-lick'",
+    "message": "Pierre à sel"
+  },
+  "presets.special-site.name": {
+    "description": "The name of preset 'special-site'",
+    "message": "Site spécial"
+  },
+  "presets.special-site.terms": {
+    "description": "List of search terms for preset 'special-site'",
+    "message": "conte, sacré, historique, histoire"
+  },
+  "presets.stream.name": {
+    "description": "The name of preset 'stream'",
+    "message": "Ruisseau"
+  },
+  "presets.swidden.name": {
+    "description": "The name of preset 'swidden'",
+    "message": "Terres agricoles"
   }
 }
