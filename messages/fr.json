@@ -38,5 +38,25 @@
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "École/hôpital/etc"
+  },
+  "fields.items-gathered.label": {
+    "description": "Label for field 'items-gathered'",
+    "message": "Qu'est-ce qui est collecté ici?"
+  },
+  "fields.items-gathered.placeholder": {
+    "description": "An example to guide the user for field 'items-gathered'",
+    "message": "par exemple, bois de chauffage / médicaments, etc."
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nom"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Nom commun de ce lieu"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Note"
   }
 }
