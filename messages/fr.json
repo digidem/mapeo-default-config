@@ -5,7 +5,7 @@
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "Quel genre d'animaux?"
+    "message": "Quel genre d'animal?"
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
@@ -98,5 +98,13 @@
   "fields.tree-species.label": {
     "description": "Label for field 'tree-species'",
     "message": "Espèces d'arbres"
+  },
+  "fields.tree-species.placeholder": {
+    "description": "An example to guide the user for field 'tree-species'",
+    "message": "Quel genre d'arbre?"
+  },
+  "fields.type.label": {
+    "description": "Label for field 'type'",
+    "message": "Quel type de chemin?"
   }
 }
