@@ -142,5 +142,65 @@
   "presets.building.terms": {
     "description": "List of search terms for preset 'building'",
     "message": "cabinet médical, école"
+  },
+  "presets.camp.name": {
+    "description": "The name of preset 'camp'",
+    "message": "Camp"
+  },
+  "presets.camp.terms": {
+    "description": "List of search terms for preset 'camp'",
+    "message": "campement, camping, chasse"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Caverne"
+  },
+  "presets.clay.name": {
+    "description": "The name of preset 'clay'",
+    "message": "Argile"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Communauté"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "village"
+  },
+  "presets.fishing-site.name": {
+    "description": "The name of preset 'fishing-site'",
+    "message": "Site de pêche"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "poisson"
+  },
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "Lieu de collecte"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "collection"
+  },
+  "presets.hills.name": {
+    "description": "The name of preset 'hills'",
+    "message": "Collines"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "montagnes"
+  },
+  "presets.house.name": {
+    "description": "The name of preset 'house'",
+    "message": "Maison"
+  },
+  "presets.house.terms": {
+    "description": "List of search terms for preset 'house'",
+    "message": "maison, domicile"
+  },
+  "presets.hunting-site.name": {
+    "description": "The name of preset 'hunting-site'",
+    "message": "Site de chasse"
   }
 }
