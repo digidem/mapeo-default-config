@@ -73,6 +73,30 @@
   },
   "fields.palm-species.label": {
     "description": "Label for field 'palm-species'",
-    "message": "Espèces de palmiers"
+    "message": "Espèces de palmier"
+  },
+  "fields.palm-species.placeholder": {
+    "description": "An example to guide the user for field 'palm-species'",
+    "message": "Quel genre de palmier?"
+  },
+  "fields.plant-species.label": {
+    "description": "Label for field 'plant-species'",
+    "message": "Espèces de plante"
+  },
+  "fields.plant-species.placeholder": {
+    "description": "An example to guide the user for field 'plant-species'",
+    "message": "Quel genre de plante?"
+  },
+  "fields.source.label": {
+    "description": "Label for field 'source'",
+    "message": "Source"
+  },
+  "fields.source.placeholder": {
+    "description": "An example to guide the user for field 'source'",
+    "message": "Source des données"
+  },
+  "fields.tree-species.label": {
+    "description": "Label for field 'tree-species'",
+    "message": "Espèces d'arbres"
   }
 }
