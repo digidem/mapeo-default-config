@@ -1,1 +1,18 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Type d'animaux"
+  },
+  "fields.animal-type.placeholder": {
+    "description": "An example to guide the user for field 'animal-type'",
+    "message": "Quel genre d'animaux?"
+  },
+  "fields.building-type.label": {
+    "description": "Label for field 'building-type'",
+    "message": "Type de bâtiment"
+  },
+  "fields.building-type.options.\"Church\"": {
+    "description": "Select option for field 'building-type' for value '\"Church\"'",
+    "message": "Église"
+  }
+}
