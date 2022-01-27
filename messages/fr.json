@@ -58,5 +58,21 @@
   "fields.note.label": {
     "description": "Label for field 'note'",
     "message": "Note"
+  },
+  "fields.note.placeholder": {
+    "description": "An example to guide the user for field 'note'",
+    "message": "Des histories ou notes sur ce lieu"
+  },
+  "fields.owner.label": {
+    "description": "Label for field 'owner'",
+    "message": "Possesseur"
+  },
+  "fields.owner.placeholder": {
+    "description": "An example to guide the user for field 'owner'",
+    "message": "Possesseur ou utilisateur du lieu"
+  },
+  "fields.palm-species.label": {
+    "description": "Label for field 'palm-species'",
+    "message": "Espèces de palmiers"
   }
 }
