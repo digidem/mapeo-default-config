@@ -202,5 +202,33 @@
   "presets.hunting-site.name": {
     "description": "The name of preset 'hunting-site'",
     "message": "Site de chasse"
+  },
+  "presets.lake.name": {
+    "description": "The name of preset 'lake'",
+    "message": "Lac"
+  },
+  "presets.line.name": {
+    "description": "The name of preset 'line'",
+    "message": "Nouvelle ligne"
+  },
+  "presets.palm.name": {
+    "description": "The name of preset 'palm'",
+    "message": "Palmier"
+  },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Chemin"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Plante"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Nouveau point"
+  },
+  "presets.river.name": {
+    "description": "The name of preset 'river'",
+    "message": "Rivière"
   }
 }
