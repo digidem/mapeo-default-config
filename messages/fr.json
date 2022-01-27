@@ -106,5 +106,33 @@
   "fields.type.label": {
     "description": "Label for field 'type'",
     "message": "Quel type de chemin?"
+  },
+  "fields.type.placeholder": {
+    "description": "An example to guide the user for field 'type'",
+    "message": "À quoi sert ce chemin?"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Piste d'atterrissage"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "aérodrome, aéroport, piste d'atterrissage"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Animal"
+  },
+  "presets.area.name": {
+    "description": "The name of preset 'area'",
+    "message": "Nouvelle zone"
+  },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "Limite"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "limite, frontière"
   }
 }
