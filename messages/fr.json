@@ -134,5 +134,13 @@
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "limite, frontière"
+  },
+  "presets.building.name": {
+    "description": "The name of preset 'building'",
+    "message": "Batîment"
+  },
+  "presets.building.terms": {
+    "description": "List of search terms for preset 'building'",
+    "message": "cabinet médical, école"
   }
 }
