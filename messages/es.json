@@ -149,7 +149,7 @@
   },
   "presets.camp.terms": {
     "description": "List of search terms for preset 'camp'",
-    "message": "cámping, campamento, cacería"
+    "message": "campamento, cacería, acampada"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
@@ -157,7 +157,7 @@
   },
   "presets.clay.name": {
     "description": "The name of preset 'clay'",
-    "message": "Barro"
+    "message": "Arcilla"
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
