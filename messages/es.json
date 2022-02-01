@@ -17,7 +17,7 @@
   },
   "fields.building-type.options.\"Homestead\"": {
     "description": "Select option for field 'building-type' for value '\"Homestead\"'",
-    "message": "Granja"
+    "message": "Caserío"
   },
   "fields.building-type.options.\"Hospital\"": {
     "description": "Select option for field 'building-type' for value '\"Hospital\"'",
