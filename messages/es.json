@@ -137,7 +137,7 @@
   },
   "presets.building.name": {
     "description": "The name of preset 'building'",
-    "message": "Edificio"
+    "message": "Construcción"
   },
   "presets.building.terms": {
     "description": "List of search terms for preset 'building'",
@@ -245,7 +245,7 @@
   },
   "presets.stream.name": {
     "description": "The name of preset 'stream'",
-    "message": "Arroyo"
+    "message": "Quebrada"
   },
   "presets.swidden.name": {
     "description": "The name of preset 'swidden'",
