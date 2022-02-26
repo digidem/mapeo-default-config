@@ -1,5 +1,6 @@
 {
     "icon": "special-site",
+    "color": "#EDCB03",
     "fields": [
         "name"
     ],

@@ -1,5 +1,6 @@
 {
     "icon": "hunting",
+    "color": "#13D5CF",
     "fields": [
         "animal-type"
     ],

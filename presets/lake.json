@@ -1,5 +1,6 @@
 {
     "icon": "lake",
+    "color": "#1163DE",
     "fields": [
         "name"
     ],

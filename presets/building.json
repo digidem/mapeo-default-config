@@ -1,5 +1,6 @@
 {
     "icon": "building",
+    "color": "#B209B2",
     "fields": [
         "building-type"
     ],

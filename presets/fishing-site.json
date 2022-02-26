@@ -1,5 +1,6 @@
 {
     "icon": "fishing",
+    "color": "#13D5CF",
     "fields": [
         "name"
     ],

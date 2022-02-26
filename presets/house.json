@@ -1,5 +1,6 @@
 {
     "icon": "house",
+    "color": "#B209B2",
     "fields": [
         "owner"
     ],"geometry": [

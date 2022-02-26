@@ -1,5 +1,6 @@
 {
     "icon": "path",
+    "color": "#B209B2",
     "fields": [
         "type"
     ],

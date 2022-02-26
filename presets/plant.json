@@ -1,5 +1,6 @@
 {
     "icon": "plant",
+    "color": "#2D9905",
     "fields": [
         "plant-species"],
     "geometry": [

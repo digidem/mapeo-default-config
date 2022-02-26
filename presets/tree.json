@@ -1,5 +1,6 @@
 {
     "icon": "tree",
+    "color": "#2D9905",
     "fields": [
         "tree-species"],
     "geometry": [

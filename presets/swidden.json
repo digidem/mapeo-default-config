@@ -1,5 +1,6 @@
 {
     "icon": "swidden",
+    "color": "#13D5CF",
     "fields": [
         "owner"
     ],

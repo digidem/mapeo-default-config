@@ -1,5 +1,6 @@
 {
     "icon": "animal",
+    "color": "#9E2C54",
     "fields": [
         "animal-type"
     ],"geometry": [

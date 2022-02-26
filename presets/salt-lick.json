@@ -1,5 +1,6 @@
 {
     "icon": "salt-lick",
+    "color": "#073B4C",
     "fields": [
         "animal-type"],
     "geometry": [

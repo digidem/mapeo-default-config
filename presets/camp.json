@@ -1,5 +1,6 @@
 {
     "icon": "camp",
+    "color": "#B209B2",
     "fields": [
         "owner"
     ],
