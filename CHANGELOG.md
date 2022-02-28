@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.6.0](https://github.com/digidem/mapeo-default-config/compare/v3.5.0...v3.6.0) (2022-02-28)
+
+
+### Features
+
+* Add colors to existing presets ([e26fff9](https://github.com/digidem/mapeo-default-config/commit/e26fff95cf9996d30ec82af9794f86d8360beac0))
+* Add French and Spanish translations ([39563f3](https://github.com/digidem/mapeo-default-config/commit/39563f3e92fece404dedff8f3bf04dd3807542d9))
+
 ## [3.5.0](https://github.com/digidem/mapeo-default-config/compare/v3.4.1...v3.5.0) (2021-08-04)
 
 
