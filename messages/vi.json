@@ -11,30 +11,6 @@
     "description": "Label for field 'building-type'",
     "message": "Loại tòa nhà"
   },
-  "fields.building-type.options.\"Church\"": {
-    "description": "Select option for field 'building-type' for value '\"Church\"'",
-    "message": "Nhà thờ"
-  },
-  "fields.building-type.options.\"Homestead\"": {
-    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
-    "message": "Trang trại"
-  },
-  "fields.building-type.options.\"Hospital\"": {
-    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
-    "message": "Bệnh viện"
-  },
-  "fields.building-type.options.\"Other\"": {
-    "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "Khác"
-  },
-  "fields.building-type.options.\"School\"": {
-    "description": "Select option for field 'building-type' for value '\"School\"'",
-    "message": "Trường học"
-  },
-  "fields.building-type.options.\"Shop\"": {
-    "description": "Select option for field 'building-type' for value '\"Shop\"'",
-    "message": "Cửa hàng"
-  },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "Trường học/bệnh viện/vv"
@@ -127,10 +103,6 @@
     "description": "The name of preset 'area'",
     "message": "Khu vực mới"
   },
-  "presets.boundary-line.name": {
-    "description": "The name of preset 'boundary-line'",
-    "message": "ranh giới"
-  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "biên giới, biên thùy"
@@ -222,10 +194,6 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Cây"
-  },
-  "presets.point.name": {
-    "description": "The name of preset 'point'",
-    "message": "Điểm mới"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
