@@ -11,30 +11,6 @@
     "description": "Label for field 'building-type'",
     "message": "Sort' oso"
   },
-  "fields.building-type.options.\"Church\"": {
-    "description": "Select option for field 'building-type' for value '\"Church\"'",
-    "message": "Kerki"
-  },
-  "fields.building-type.options.\"Homestead\"": {
-    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
-    "message": "Gron"
-  },
-  "fields.building-type.options.\"Hospital\"": {
-    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
-    "message": "Hati oso"
-  },
-  "fields.building-type.options.\"Other\"": {
-    "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "Tra sani"
-  },
-  "fields.building-type.options.\"School\"": {
-    "description": "Select option for field 'building-type' for value '\"School\"'",
-    "message": "Skoro"
-  },
-  "fields.building-type.options.\"Shop\"": {
-    "description": "Select option for field 'building-type' for value '\"Shop\"'",
-    "message": "Wenkri"
-  },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "Skoro/ati oso/enz"
@@ -127,10 +103,6 @@
     "description": "The name of preset 'area'",
     "message": "Nyun pisi"
   },
-  "presets.boundary-line.name": {
-    "description": "The name of preset 'boundary-line'",
-    "message": "grens"
-  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "grens,tapusei"
@@ -222,10 +194,6 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Prani"
-  },
-  "presets.point.name": {
-    "description": "The name of preset 'point'",
-    "message": "Nyun mofo"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
