@@ -11,30 +11,6 @@
     "description": "Label for field 'building-type'",
     "message": "Tipo de edificio"
   },
-  "fields.building-type.options.\"Church\"": {
-    "description": "Select option for field 'building-type' for value '\"Church\"'",
-    "message": "Iglesia"
-  },
-  "fields.building-type.options.\"Homestead\"": {
-    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
-    "message": "Caserío"
-  },
-  "fields.building-type.options.\"Hospital\"": {
-    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
-    "message": "Hospital"
-  },
-  "fields.building-type.options.\"Other\"": {
-    "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "Otro"
-  },
-  "fields.building-type.options.\"School\"": {
-    "description": "Select option for field 'building-type' for value '\"School\"'",
-    "message": "Escuela"
-  },
-  "fields.building-type.options.\"Shop\"": {
-    "description": "Select option for field 'building-type' for value '\"Shop\"'",
-    "message": "Tienda"
-  },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "Escuela/hospital/etc"
@@ -127,10 +103,6 @@
     "description": "The name of preset 'area'",
     "message": "Nueva área"
   },
-  "presets.boundary-line.name": {
-    "description": "The name of preset 'boundary-line'",
-    "message": "Límite"
-  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "frontera, límite"
@@ -222,10 +194,6 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Planta"
-  },
-  "presets.point.name": {
-    "description": "The name of preset 'point'",
-    "message": "Nuevo punto"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
