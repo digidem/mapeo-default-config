@@ -11,30 +11,6 @@
     "description": "Label for field 'building-type'",
     "message": "ប្រភេទសំណង់"
   },
-  "fields.building-type.options.\"Church\"": {
-    "description": "Select option for field 'building-type' for value '\"Church\"'",
-    "message": "ព្រះវិហារ"
-  },
-  "fields.building-type.options.\"Homestead\"": {
-    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
-    "message": "ផ្ទះអ្នកស្រែ"
-  },
-  "fields.building-type.options.\"Hospital\"": {
-    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
-    "message": "មន្ទីរពេទ្យ"
-  },
-  "fields.building-type.options.\"Other\"": {
-    "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "ផ្សេងទៀត"
-  },
-  "fields.building-type.options.\"School\"": {
-    "description": "Select option for field 'building-type' for value '\"School\"'",
-    "message": "សាលារៀន"
-  },
-  "fields.building-type.options.\"Shop\"": {
-    "description": "Select option for field 'building-type' for value '\"Shop\"'",
-    "message": "ហាង"
-  },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "សាលារៀន / មន្ទីរពេទ្យ / ផ្សេងៗ"
@@ -127,10 +103,6 @@
     "description": "The name of preset 'area'",
     "message": "តំបន់ថ្មី"
   },
-  "presets.boundary-line.name": {
-    "description": "The name of preset 'boundary-line'",
-    "message": "ព្រំប្រទល់"
-  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "ព្រំដែន"
@@ -222,10 +194,6 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "រុក្ខជាតិ"
-  },
-  "presets.point.name": {
-    "description": "The name of preset 'point'",
-    "message": "ទស្សនៈថ្មី"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
