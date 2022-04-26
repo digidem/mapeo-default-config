@@ -5,8 +5,7 @@
     "fields": [
         "authorities-needed",
         "need-type",
-        "issue-priority",
-        "issue-context"
+        "issue-priority"
     ],
     "geometry": [
         "point", "area"

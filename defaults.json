@@ -31,7 +31,6 @@
         "shelter-building",
         "transportation-hub",
         "tree",
-        "unwanted-outsider",
         "water"
     ],
     "line": [
@@ -57,7 +56,6 @@
         "path",
         "poaching",
         "roadway",
-        "unwanted-outsider",
         "water"
     ],
     "point": [
@@ -95,7 +93,6 @@
         "shelter-building",
         "transportation-hub",
         "tree",
-        "unwanted-outsider",
         "water"
     ],
     "vertex": [
