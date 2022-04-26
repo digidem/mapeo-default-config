@@ -1,5 +1,6 @@
 {
     "icon": "cultivation",
+    "color": "#00CCCC",
     "sort": 14,
     "fields": [
         "place-name",

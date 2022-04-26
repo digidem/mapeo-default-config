@@ -1,5 +1,6 @@
 {
     "icon": "gathering",
+    "color": "#00CCCC",
     "sort": 13,
     "fields": [
         "place-name",

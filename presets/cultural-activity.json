@@ -1,5 +1,6 @@
 {
     "icon": "cultural-activity",
+    "color": "#FFCC00",
     "sort": 42,
     "fields": [
         "cultural-name",

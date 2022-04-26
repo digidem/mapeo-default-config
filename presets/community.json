@@ -1,5 +1,6 @@
 {
     "icon": "community",
+    "color": "#CC00CC",
     "sort": 22,
     "fields": [
         "place-name",

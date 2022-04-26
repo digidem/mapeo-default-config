@@ -1,5 +1,6 @@
 {
     "icon": "shelter",
+    "color": "#CC00CC",
     "sort": 21,
     "fields": [
         "place-name",

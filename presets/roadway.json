@@ -1,5 +1,6 @@
 {
     "icon": "roadway",
+    "color": "#CC00CC",
     "sort": 33,
     "fields": [
         "place-name",

@@ -1,5 +1,6 @@
 {
     "icon": "cave",
+    "color": "#009900",
     "sort": 5,
     "fields": [
         "place-name",

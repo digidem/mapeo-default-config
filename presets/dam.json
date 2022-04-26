@@ -1,5 +1,6 @@
 {
     "icon": "dam",
+    "color": "#FF3300",
     "sort": 55,
     "fields": [
         "name",

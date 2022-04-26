@@ -1,5 +1,6 @@
 {
     "icon": "infrastructure",
+    "color": "#CC00CC",
     "sort": 23,
     "fields": [
         "place-name",

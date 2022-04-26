@@ -1,5 +1,6 @@
 {
     "icon": "hunting",
+    "color": "#00CCCC",
     "sort": 11,
     "fields": [
         "place-name",

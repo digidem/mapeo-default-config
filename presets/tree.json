@@ -1,5 +1,6 @@
 {
     "icon": "tree",
+    "color": "#009900",
     "sort": 3,
     "fields": [
         "name",

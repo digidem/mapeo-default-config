@@ -1,5 +1,6 @@
 {
     "icon": "animal",
+    "color": "#009900",
     "sort": 2,
     "fields": [
         "name",

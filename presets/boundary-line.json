@@ -1,5 +1,6 @@
 {
     "icon": "boundary",
+    "color": "#CC00CC",
     "sort": 36,
     "fields": [
         "place-name",

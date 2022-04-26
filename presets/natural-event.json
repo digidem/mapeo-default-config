@@ -1,5 +1,6 @@
 {
     "icon": "natural-event",
+    "color": "#009900",
     "sort": 1,
     "fields": [
         "name",

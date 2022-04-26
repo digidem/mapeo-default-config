@@ -1,5 +1,6 @@
 {
     "icon": "path",
+    "color": "#CC00CC",
     "sort": 32,
     "fields": [
         "place-name",

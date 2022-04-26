@@ -1,5 +1,6 @@
 {
     "icon": "language",
+    "color": "#FFCC00",
     "sort": 43,
     "fields": [
         "cultural-name",

@@ -1,5 +1,6 @@
 {
     "icon": "water",
+    "color": "#0033FF",
     "sort": 9,
     "fields": [
         "place-name",

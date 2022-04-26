@@ -1,5 +1,6 @@
 {
     "icon": "airstrip",
+    "color": "#CC00CC",
     "sort": 31,
     "fields": [
         "place-name",

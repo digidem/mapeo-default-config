@@ -1,5 +1,6 @@
 {
     "icon": "plant",
+    "color": "#009900",
     "sort": 4,
     "fields": [
         "name",

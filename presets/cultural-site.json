@@ -1,5 +1,6 @@
 {
     "icon": "cultural-site",
+    "color": "#FFCC00",
     "sort": 41,
     "fields": [
         "cultural-name",

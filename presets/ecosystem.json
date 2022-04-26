@@ -1,5 +1,6 @@
 {
     "icon": "ecosystem",
+    "color": "#009900",
     "sort": 7,
     "fields": [
         "place-name",

@@ -1,5 +1,6 @@
 {
     "icon": "fishing",
+    "color": "#00CCCC",
     "sort": 12,
     "fields": [
         "place-name",

@@ -1,5 +1,6 @@
 {
     "icon": "field-test",
+    "color": "#00CCCC",
     "sort": 15,
     "fields": [
         "sample-type",
