@@ -1,6 +1,6 @@
 {
     "icon": "poaching",
-    "color": "FF3300",
+    "color": "#FF3300",
     "sort": 57,
     "fields": [
         "activity-documented",

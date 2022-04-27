@@ -1,6 +1,6 @@
 {
     "icon": "other-threat",
-    "color": "FF3300",
+    "color": "#FF3300",
     "sort": 61,
     "fields": [
         "activity-documented",

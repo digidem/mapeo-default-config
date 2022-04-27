@@ -1,6 +1,6 @@
 {
     "icon": "oil-activity",
-    "color": "FF3300",
+    "color": "#FF3300",
     "sort": 53,
     "fields": [
         "activity-documented",
