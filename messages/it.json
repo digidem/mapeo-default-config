@@ -206,5 +206,61 @@
   "presets.line.name": {
     "description": "The name of preset 'line'",
     "message": "Nuova linea"
+  },
+  "presets.palm.name": {
+    "description": "The name of preset 'palm'",
+    "message": "Palma"
+  },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Percorso"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Pianta"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Nuovo punto"
+  },
+  "presets.river.name": {
+    "description": "The name of preset 'river'",
+    "message": "Fiume"
+  },
+  "presets.special-site.name": {
+    "description": "The name of preset 'special-site'",
+    "message": "Sito speciale"
+  },
+  "presets.special-site.terms": {
+    "description": "List of search terms for preset 'special-site'",
+    "message": "racconto,sacro,storico,storia"
+  },
+  "presets.stream.name": {
+    "description": "The name of preset 'stream'",
+    "message": "Ruscello"
+  },
+  "presets.swidden.name": {
+    "description": "The name of preset 'swidden'",
+    "message": "Terra agricola"
+  },
+  "presets.swidden.terms": {
+    "description": "List of search terms for preset 'swidden'",
+    "message": "fattoria, giardino, appezzamento, lotto, risaia, coltivazione"
+  },
+  "presets.threat.name": {
+    "description": "The name of preset 'threat'",
+    "message": "Minaccia"
+  },
+  "presets.threat.terms": {
+    "description": "List of search terms for preset 'threat'",
+    "message": "pericolo,illegale,monitoraggio"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Albero"
+  },
+  "presets.waterfall.name": {
+    "description": "The name of preset 'waterfall'",
+    "message": "Cascata"
   }
 }
