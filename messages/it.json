@@ -38,5 +38,161 @@
   "fields.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
     "message": "Cosa si raccoglie qui?"
+  },
+  "fields.items-gathered.placeholder": {
+    "description": "An example to guide the user for field 'items-gathered'",
+    "message": "Ad esempio, legna da ardere/medicinali, ecc."
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nome"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Nome comune di questo luogo"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Nota"
+  },
+  "fields.note.placeholder": {
+    "description": "An example to guide the user for field 'note'",
+    "message": "Storie o note su questo luogo"
+  },
+  "fields.owner.label": {
+    "description": "Label for field 'owner'",
+    "message": "Proprietario"
+  },
+  "fields.owner.placeholder": {
+    "description": "An example to guide the user for field 'owner'",
+    "message": "Proprietario o utilizzatore del luogo"
+  },
+  "fields.palm-species.label": {
+    "description": "Label for field 'palm-species'",
+    "message": "Specie di palme"
+  },
+  "fields.palm-species.placeholder": {
+    "description": "An example to guide the user for field 'palm-species'",
+    "message": "Che tipo di palme?"
+  },
+  "fields.plant-species.label": {
+    "description": "Label for field 'plant-species'",
+    "message": "Specie di piante"
+  },
+  "fields.plant-species.placeholder": {
+    "description": "An example to guide the user for field 'plant-species'",
+    "message": "Che tipo di pianta?"
+  },
+  "fields.source.label": {
+    "description": "Label for field 'source'",
+    "message": "Fonte"
+  },
+  "fields.source.placeholder": {
+    "description": "An example to guide the user for field 'source'",
+    "message": "Fonte dei dati"
+  },
+  "fields.tree-species.label": {
+    "description": "Label for field 'tree-species'",
+    "message": "Specie di albero"
+  },
+  "fields.tree-species.placeholder": {
+    "description": "An example to guide the user for field 'tree-species'",
+    "message": "Che tipo di albero?"
+  },
+  "fields.type.label": {
+    "description": "Label for field 'type'",
+    "message": "Che tipo di percorso?"
+  },
+  "fields.type.placeholder": {
+    "description": "An example to guide the user for field 'type'",
+    "message": "Per cosa viene usato il percorso?"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Pista di atterraggio"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "Campo di aviazione, aeroporto, pista di atterraggio"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Animale"
+  },
+  "presets.area.name": {
+    "description": "The name of preset 'area'",
+    "message": "Nuova area"
+  },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "Limite"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "confine, frontiera"
+  },
+  "presets.building.name": {
+    "description": "The name of preset 'building'",
+    "message": "Edificio"
+  },
+  "presets.building.terms": {
+    "description": "List of search terms for preset 'building'",
+    "message": "ambulatorio medico, scuola"
+  },
+  "presets.camp.name": {
+    "description": "The name of preset 'camp'",
+    "message": "Accampamento"
+  },
+  "presets.camp.terms": {
+    "description": "List of search terms for preset 'camp'",
+    "message": "accampamento, caccia"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Caverna"
+  },
+  "presets.clay.name": {
+    "description": "The name of preset 'clay'",
+    "message": "Argilla"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Comunità"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "villaggio"
+  },
+  "presets.fishing-site.name": {
+    "description": "The name of preset 'fishing-site'",
+    "message": "Sito Di Pesca"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "pesce"
+  },
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "Sito di raccolta"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "raccolta"
+  },
+  "presets.hills.name": {
+    "description": "The name of preset 'hills'",
+    "message": "Colline"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "montagne"
+  },
+  "presets.house.name": {
+    "description": "The name of preset 'house'",
+    "message": "Casa"
+  },
+  "presets.house.terms": {
+    "description": "List of search terms for preset 'house'",
+    "message": "casa, abitazione"
   }
 }
