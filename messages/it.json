@@ -194,5 +194,17 @@
   "presets.house.terms": {
     "description": "List of search terms for preset 'house'",
     "message": "casa, abitazione"
+  },
+  "presets.hunting-site.name": {
+    "description": "The name of preset 'hunting-site'",
+    "message": "Sito di caccia"
+  },
+  "presets.lake.name": {
+    "description": "The name of preset 'lake'",
+    "message": "Lago"
+  },
+  "presets.line.name": {
+    "description": "The name of preset 'line'",
+    "message": "Nuova linea"
   }
 }
