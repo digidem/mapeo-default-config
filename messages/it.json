@@ -1,1 +1,42 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Tipo di animale"
+  },
+  "fields.animal-type.placeholder": {
+    "description": "An example to guide the user for field 'animal-type'",
+    "message": "Che tipo di animale?"
+  },
+  "fields.building-type.label": {
+    "description": "Label for field 'building-type'",
+    "message": "Tipo di edificio"
+  },
+  "fields.building-type.options.Church": {
+    "description": "Label for option 'Church' for field 'building-type'",
+    "message": "Chiesa"
+  },
+  "fields.building-type.options.Hospital": {
+    "description": "Label for option 'Hospital' for field 'building-type'",
+    "message": "Ospedale"
+  },
+  "fields.building-type.options.Other": {
+    "description": "Label for option 'Other' for field 'building-type'",
+    "message": "Altro"
+  },
+  "fields.building-type.options.School": {
+    "description": "Label for option 'School' for field 'building-type'",
+    "message": "Scuola"
+  },
+  "fields.building-type.options.Shop": {
+    "description": "Label for option 'Shop' for field 'building-type'",
+    "message": "Negozio"
+  },
+  "fields.building-type.placeholder": {
+    "description": "An example to guide the user for field 'building-type'",
+    "message": "Scuola/ospedale/ecc."
+  },
+  "fields.items-gathered.label": {
+    "description": "Label for field 'items-gathered'",
+    "message": "Cosa si raccoglie qui?"
+  }
+}
