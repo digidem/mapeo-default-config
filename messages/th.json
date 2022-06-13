@@ -103,6 +103,10 @@
     "description": "The name of preset 'area'",
     "message": "พื้นที่ใหม่"
   },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "ขอบเขต"
+  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "เขตแดน แนวพรมแดน"
@@ -194,6 +198,10 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "พืช"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "ตำแหน่งใหม่"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
