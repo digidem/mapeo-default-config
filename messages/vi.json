@@ -103,6 +103,10 @@
     "description": "The name of preset 'area'",
     "message": "Khu vực mới"
   },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "ranh giới"
+  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "biên giới, biên thùy"
@@ -194,6 +198,10 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Cây"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Điểm mới"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
