@@ -103,6 +103,10 @@
     "description": "The name of preset 'area'",
     "message": "Nyun pisi"
   },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "grens"
+  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "grens,tapusei"
@@ -194,6 +198,10 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Prani"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Nyun mofo"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
