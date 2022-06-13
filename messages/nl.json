@@ -103,6 +103,10 @@
     "description": "The name of preset 'area'",
     "message": "Nieuw gebied"
   },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "gebiedsgrens"
+  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "grens,grensscheiding"
@@ -194,6 +198,10 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Plant"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Nieuw punt"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
