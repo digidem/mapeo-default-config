@@ -103,6 +103,10 @@
     "description": "The name of preset 'area'",
     "message": "နေရာအသစ်"
   },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "နယ်နိမိတ်"
+  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "နယ်စပ်, နယ်ခြား"
