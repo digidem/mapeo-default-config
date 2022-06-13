@@ -103,6 +103,10 @@
     "description": "The name of preset 'area'",
     "message": "Nueva área"
   },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "Límite"
+  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "frontera, límite"
@@ -194,6 +198,10 @@
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Planta"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Nuevo punto"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
