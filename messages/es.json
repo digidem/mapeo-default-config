@@ -11,6 +11,30 @@
     "description": "Label for field 'building-type'",
     "message": "Tipo de edificio"
   },
+  "fields.building-type.options.Church": {
+    "description": "Label for option 'Church' for field 'building-type'",
+    "message": "Iglesia"
+  },
+  "fields.building-type.options.Homestead": {
+    "description": "Label for option 'Homestead' for field 'building-type'",
+    "message": "Caserío"
+  },
+  "fields.building-type.options.Hospital": {
+    "description": "Label for option 'Hospital' for field 'building-type'",
+    "message": "Hospital"
+  },
+  "fields.building-type.options.Other": {
+    "description": "Label for option 'Other' for field 'building-type'",
+    "message": "Otro"
+  },
+  "fields.building-type.options.School": {
+    "description": "Label for option 'School' for field 'building-type'",
+    "message": "Escuela"
+  },
+  "fields.building-type.options.Shop": {
+    "description": "Label for option 'Shop' for field 'building-type'",
+    "message": "Tienda"
+  },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "Escuela/hospital/etc"
