@@ -5,11 +5,11 @@
   },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
-    "message": "Animal type"
+    "message": "Tipo de animal"
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "What kind of animal?"
+    "message": "¿Qué tipo de animal?"
   },
   "fields.building-type.helperText": {
     "description": "Descriptive text for field 'building-type'",
@@ -17,11 +17,11 @@
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
-    "message": "Building type"
+    "message": "Tipo de edificio"
   },
   "fields.building-type.options.\"Church\"": {
     "description": "Select option for field 'building-type' for value '\"Church\"'",
-    "message": "Church"
+    "message": "Iglesia"
   },
   "fields.building-type.options.\"Homestead\"": {
     "description": "Select option for field 'building-type' for value '\"Homestead\"'",
@@ -33,19 +33,19 @@
   },
   "fields.building-type.options.\"Other\"": {
     "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "Other"
+    "message": "Otro"
   },
   "fields.building-type.options.\"School\"": {
     "description": "Select option for field 'building-type' for value '\"School\"'",
-    "message": "School"
+    "message": "Escuela"
   },
   "fields.building-type.options.\"Shop\"": {
     "description": "Select option for field 'building-type' for value '\"Shop\"'",
-    "message": "Shop"
+    "message": "Tienda"
   },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
-    "message": "School/hospital/etc"
+    "message": "Escuela/hospital/etc"
   },
   "fields.items-gathered.helperText": {
     "description": "Descriptive text for field 'items-gathered'",
@@ -53,7 +53,7 @@
   },
   "fields.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
-    "message": "What is gathered here?"
+    "message": "¿Qué se recoge aquí?"
   },
   "fields.items-gathered.placeholder": {
     "description": "An example to guide the user for field 'items-gathered'",
