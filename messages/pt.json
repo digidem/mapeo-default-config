@@ -1,4 +1,8 @@
 {
+  "fields.animal-type.helperText": {
+    "description": "Descriptive text for field 'animal-type'",
+    "message": ""
+  },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
     "message": "Tipo de animal"
@@ -6,6 +10,10 @@
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
     "message": "Que tipo de animal?"
+  },
+  "fields.building-type.helperText": {
+    "description": "Descriptive text for field 'building-type'",
+    "message": ""
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
@@ -39,6 +47,10 @@
     "description": "An example to guide the user for field 'building-type'",
     "message": "Escola/hospital/etc"
   },
+  "fields.items-gathered.helperText": {
+    "description": "Descriptive text for field 'items-gathered'",
+    "message": ""
+  },
   "fields.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
     "message": "O que está reunido aqui?"
@@ -46,6 +58,10 @@
   "fields.items-gathered.placeholder": {
     "description": "An example to guide the user for field 'items-gathered'",
     "message": "e.g. lenha / remédio, etc."
+  },
+  "fields.name.helperText": {
+    "description": "Descriptive text for field 'name'",
+    "message": ""
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
@@ -55,6 +71,10 @@
     "description": "An example to guide the user for field 'name'",
     "message": "Nome comum deste lugar"
   },
+  "fields.note.helperText": {
+    "description": "Descriptive text for field 'note'",
+    "message": ""
+  },
   "fields.note.label": {
     "description": "Label for field 'note'",
     "message": "Anotação"
@@ -62,6 +82,10 @@
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
     "message": "Histórias ou anotações sobre este lugar"
+  },
+  "fields.owner.helperText": {
+    "description": "Descriptive text for field 'owner'",
+    "message": ""
   },
   "fields.owner.label": {
     "description": "Label for field 'owner'",
@@ -71,6 +95,10 @@
     "description": "An example to guide the user for field 'owner'",
     "message": "Proprietário ou usuário do local"
   },
+  "fields.palm-species.helperText": {
+    "description": "Descriptive text for field 'palm-species'",
+    "message": ""
+  },
   "fields.palm-species.label": {
     "description": "Label for field 'palm-species'",
     "message": "Tipo de palmeira"
@@ -78,6 +106,10 @@
   "fields.palm-species.placeholder": {
     "description": "An example to guide the user for field 'palm-species'",
     "message": "Que tipo de palmeira?"
+  },
+  "fields.plant-species.helperText": {
+    "description": "Descriptive text for field 'plant-species'",
+    "message": ""
   },
   "fields.plant-species.label": {
     "description": "Label for field 'plant-species'",
@@ -87,6 +119,10 @@
     "description": "An example to guide the user for field 'plant-species'",
     "message": "Que tipo de planta?"
   },
+  "fields.source.helperText": {
+    "description": "Descriptive text for field 'source'",
+    "message": ""
+  },
   "fields.source.label": {
     "description": "Label for field 'source'",
     "message": "Fonte"
@@ -95,6 +131,10 @@
     "description": "An example to guide the user for field 'source'",
     "message": "Fonte de dados"
   },
+  "fields.tree-species.helperText": {
+    "description": "Descriptive text for field 'tree-species'",
+    "message": ""
+  },
   "fields.tree-species.label": {
     "description": "Label for field 'tree-species'",
     "message": "Espécie de árvore"
@@ -102,6 +142,10 @@
   "fields.tree-species.placeholder": {
     "description": "An example to guide the user for field 'tree-species'",
     "message": "Que tipo de árvore?"
+  },
+  "fields.type.helperText": {
+    "description": "Descriptive text for field 'type'",
+    "message": ""
   },
   "fields.type.label": {
     "description": "Label for field 'type'",
@@ -123,9 +167,17 @@
     "description": "The name of preset 'animal'",
     "message": "Animal"
   },
+  "presets.animal.terms": {
+    "description": "List of search terms for preset 'animal'",
+    "message": ""
+  },
   "presets.area.name": {
     "description": "The name of preset 'area'",
     "message": "Nova área"
+  },
+  "presets.area.terms": {
+    "description": "List of search terms for preset 'area'",
+    "message": ""
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
@@ -155,9 +207,17 @@
     "description": "The name of preset 'cave'",
     "message": "Caverna"
   },
+  "presets.cave.terms": {
+    "description": "List of search terms for preset 'cave'",
+    "message": ""
+  },
   "presets.clay.name": {
     "description": "The name of preset 'clay'",
     "message": "Argila"
+  },
+  "presets.clay.terms": {
+    "description": "List of search terms for preset 'clay'",
+    "message": ""
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
@@ -203,37 +263,73 @@
     "description": "The name of preset 'hunting-site'",
     "message": "Local de caça"
   },
+  "presets.hunting-site.terms": {
+    "description": "List of search terms for preset 'hunting-site'",
+    "message": ""
+  },
   "presets.lake.name": {
     "description": "The name of preset 'lake'",
     "message": "Lago"
+  },
+  "presets.lake.terms": {
+    "description": "List of search terms for preset 'lake'",
+    "message": ""
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
     "message": "Nova linha"
   },
+  "presets.line.terms": {
+    "description": "List of search terms for preset 'line'",
+    "message": ""
+  },
   "presets.palm.name": {
     "description": "The name of preset 'palm'",
     "message": "Palmeira"
+  },
+  "presets.palm.terms": {
+    "description": "List of search terms for preset 'palm'",
+    "message": ""
   },
   "presets.path.name": {
     "description": "The name of preset 'path'",
     "message": "Caminho"
   },
+  "presets.path.terms": {
+    "description": "List of search terms for preset 'path'",
+    "message": ""
+  },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Planta"
+  },
+  "presets.plant.terms": {
+    "description": "List of search terms for preset 'plant'",
+    "message": ""
   },
   "presets.point.name": {
     "description": "The name of preset 'point'",
     "message": "Novo ponto"
   },
+  "presets.point.terms": {
+    "description": "List of search terms for preset 'point'",
+    "message": ""
+  },
   "presets.river.name": {
     "description": "The name of preset 'river'",
     "message": "Rio"
   },
+  "presets.river.terms": {
+    "description": "List of search terms for preset 'river'",
+    "message": ""
+  },
   "presets.salt-lick.name": {
     "description": "The name of preset 'salt-lick'",
     "message": "Saleiro"
+  },
+  "presets.salt-lick.terms": {
+    "description": "List of search terms for preset 'salt-lick'",
+    "message": ""
   },
   "presets.special-site.name": {
     "description": "The name of preset 'special-site'",
@@ -246,6 +342,10 @@
   "presets.stream.name": {
     "description": "The name of preset 'stream'",
     "message": "Riacho"
+  },
+  "presets.stream.terms": {
+    "description": "List of search terms for preset 'stream'",
+    "message": ""
   },
   "presets.swidden.name": {
     "description": "The name of preset 'swidden'",
@@ -266,6 +366,10 @@
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
     "message": "Árvore"
+  },
+  "presets.tree.terms": {
+    "description": "List of search terms for preset 'tree'",
+    "message": ""
   },
   "presets.waterfall.name": {
     "description": "The name of preset 'waterfall'",
