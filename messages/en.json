@@ -1,4 +1,40 @@
 {
+  "fields.access.helperText": {
+    "description": "Descriptive text for field 'access'",
+    "message": ""
+  },
+  "fields.access.label": {
+    "description": "Label for field 'access'",
+    "message": "Access"
+  },
+  "fields.access.placeholder": {
+    "description": "An example to guide the user for field 'access'",
+    "message": "What is needed to access this site, service or activity?"
+  },
+  "fields.activity-documented.helperText": {
+    "description": "Descriptive text for field 'activity-documented'",
+    "message": ""
+  },
+  "fields.activity-documented.label": {
+    "description": "Label for field 'activity-documented'",
+    "message": "Activity documented"
+  },
+  "fields.activity-documented.placeholder": {
+    "description": "An example to guide the user for field 'activity-documented'",
+    "message": "Select all that apply"
+  },
+  "fields.activity-progress.helperText": {
+    "description": "Descriptive text for field 'activity-progress'",
+    "message": ""
+  },
+  "fields.activity-progress.label": {
+    "description": "Label for field 'activity-progress'",
+    "message": "Activity progress"
+  },
+  "fields.activity-progress.placeholder": {
+    "description": "An example to guide the user for field 'activity-progress'",
+    "message": "Select one"
+  },
   "fields.animal-type.helperText": {
     "description": "Descriptive text for field 'animal-type'",
     "message": ""
@@ -9,55 +45,199 @@
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "What kind of animal?"
+    "message": "Select one"
   },
-  "fields.building-type.helperText": {
-    "description": "Descriptive text for field 'building-type'",
+  "fields.authorities-needed.helperText": {
+    "description": "Descriptive text for field 'authorities-needed'",
     "message": ""
   },
-  "fields.building-type.label": {
-    "description": "Label for field 'building-type'",
-    "message": "Building type"
+  "fields.authorities-needed.label": {
+    "description": "Label for field 'authorities-needed'",
+    "message": "Authorities needed or involved"
   },
-  "fields.building-type.options.\"Church\"": {
-    "description": "Select option for field 'building-type' for value '\"Church\"'",
-    "message": "Church"
+  "fields.authorities-needed.placeholder": {
+    "description": "An example to guide the user for field 'authorities-needed'",
+    "message": "Select all that apply"
   },
-  "fields.building-type.options.\"Homestead\"": {
-    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
-    "message": "Homestead"
-  },
-  "fields.building-type.options.\"Hospital\"": {
-    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
-    "message": "Hospital"
-  },
-  "fields.building-type.options.\"Other\"": {
-    "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "Other"
-  },
-  "fields.building-type.options.\"School\"": {
-    "description": "Select option for field 'building-type' for value '\"School\"'",
-    "message": "School"
-  },
-  "fields.building-type.options.\"Shop\"": {
-    "description": "Select option for field 'building-type' for value '\"Shop\"'",
-    "message": "Shop"
-  },
-  "fields.building-type.placeholder": {
-    "description": "An example to guide the user for field 'building-type'",
-    "message": "School/hospital/etc"
-  },
-  "fields.items-gathered.helperText": {
-    "description": "Descriptive text for field 'items-gathered'",
+  "fields.body-of-water-type.helperText": {
+    "description": "Descriptive text for field 'body-of-water-type'",
     "message": ""
   },
-  "fields.items-gathered.label": {
-    "description": "Label for field 'items-gathered'",
-    "message": "What is gathered here?"
+  "fields.body-of-water-type.label": {
+    "description": "Label for field 'body-of-water-type'",
+    "message": "Body of water type"
   },
-  "fields.items-gathered.placeholder": {
-    "description": "An example to guide the user for field 'items-gathered'",
-    "message": "e.g. firewood / medicine etc."
+  "fields.body-of-water-type.placeholder": {
+    "description": "An example to guide the user for field 'body-of-water-type'",
+    "message": "Select as many as apply"
+  },
+  "fields.common-translations.helperText": {
+    "description": "Descriptive text for field 'common-translations'",
+    "message": ""
+  },
+  "fields.common-translations.label": {
+    "description": "Label for field 'common-translations'",
+    "message": "Common translations"
+  },
+  "fields.common-translations.placeholder": {
+    "description": "An example to guide the user for field 'common-translations'",
+    "message": "What are common translations for this word/place?"
+  },
+  "fields.conditions.helperText": {
+    "description": "Descriptive text for field 'conditions'",
+    "message": ""
+  },
+  "fields.conditions.label": {
+    "description": "Label for field 'conditions'",
+    "message": "Conditions"
+  },
+  "fields.conditions.placeholder": {
+    "description": "An example to guide the user for field 'conditions'",
+    "message": "Select one"
+  },
+  "fields.cultural-category.helperText": {
+    "description": "Descriptive text for field 'cultural-category'",
+    "message": ""
+  },
+  "fields.cultural-category.label": {
+    "description": "Label for field 'cultural-category'",
+    "message": "Cultural category"
+  },
+  "fields.cultural-category.placeholder": {
+    "description": "An example to guide the user for field 'cultural-category'",
+    "message": "Select all that apply"
+  },
+  "fields.cultural-details.helperText": {
+    "description": "Descriptive text for field 'cultural-details'",
+    "message": ""
+  },
+  "fields.cultural-details.label": {
+    "description": "Label for field 'cultural-details'",
+    "message": "Cultural details"
+  },
+  "fields.cultural-details.placeholder": {
+    "description": "An example to guide the user for field 'cultural-details'",
+    "message": "Add details/stories relevant to local culture"
+  },
+  "fields.cultural-mediums.helperText": {
+    "description": "Descriptive text for field 'cultural-mediums'",
+    "message": ""
+  },
+  "fields.cultural-mediums.label": {
+    "description": "Label for field 'cultural-mediums'",
+    "message": "Cultural mediums"
+  },
+  "fields.cultural-mediums.placeholder": {
+    "description": "An example to guide the user for field 'cultural-mediums'",
+    "message": "Select all that apply"
+  },
+  "fields.cultural-name.helperText": {
+    "description": "Descriptive text for field 'cultural-name'",
+    "message": ""
+  },
+  "fields.cultural-name.label": {
+    "description": "Label for field 'cultural-name'",
+    "message": "Cultural name / term"
+  },
+  "fields.cultural-name.placeholder": {
+    "description": "An example to guide the user for field 'cultural-name'",
+    "message": "What is this called?"
+  },
+  "fields.cultural-participation.helperText": {
+    "description": "Descriptive text for field 'cultural-participation'",
+    "message": ""
+  },
+  "fields.cultural-participation.label": {
+    "description": "Label for field 'cultural-participation'",
+    "message": "Cultural participation"
+  },
+  "fields.cultural-participation.placeholder": {
+    "description": "An example to guide the user for field 'cultural-participation'",
+    "message": "Select all that apply"
+  },
+  "fields.ecological-status.helperText": {
+    "description": "Descriptive text for field 'ecological-status'",
+    "message": ""
+  },
+  "fields.ecological-status.label": {
+    "description": "Label for field 'ecological-status'",
+    "message": "Ecological status"
+  },
+  "fields.ecological-status.placeholder": {
+    "description": "An example to guide the user for field 'ecological-status'",
+    "message": "Select one"
+  },
+  "fields.ecosystem-type.helperText": {
+    "description": "Descriptive text for field 'ecosystem-type'",
+    "message": ""
+  },
+  "fields.ecosystem-type.label": {
+    "description": "Label for field 'ecosystem-type'",
+    "message": "Ecosystem type"
+  },
+  "fields.ecosystem-type.placeholder": {
+    "description": "An example to guide the user for field 'ecosystem-type'",
+    "message": "Select one"
+  },
+  "fields.field-test-details.helperText": {
+    "description": "Descriptive text for field 'field-test-details'",
+    "message": ""
+  },
+  "fields.field-test-details.label": {
+    "description": "Label for field 'field-test-details'",
+    "message": "Field test details"
+  },
+  "fields.field-test-details.placeholder": {
+    "description": "An example to guide the user for field 'field-test-details'",
+    "message": "Describe the test used, the sample and observations "
+  },
+  "fields.food-source.helperText": {
+    "description": "Descriptive text for field 'food-source'",
+    "message": ""
+  },
+  "fields.food-source.label": {
+    "description": "Label for field 'food-source'",
+    "message": "Food source"
+  },
+  "fields.food-source.placeholder": {
+    "description": "An example to guide the user for field 'food-source'",
+    "message": "Select all that apply"
+  },
+  "fields.gathering-type.helperText": {
+    "description": "Descriptive text for field 'gathering-type'",
+    "message": ""
+  },
+  "fields.gathering-type.label": {
+    "description": "Label for field 'gathering-type'",
+    "message": "Gathering type"
+  },
+  "fields.gathering-type.placeholder": {
+    "description": "An example to guide the user for field 'gathering-type'",
+    "message": "Resources gathered here"
+  },
+  "fields.incident-type.helperText": {
+    "description": "Descriptive text for field 'incident-type'",
+    "message": ""
+  },
+  "fields.incident-type.label": {
+    "description": "Label for field 'incident-type'",
+    "message": "Incident type"
+  },
+  "fields.incident-type.placeholder": {
+    "description": "An example to guide the user for field 'incident-type'",
+    "message": "Select all that apply"
+  },
+  "fields.issue-priority.helperText": {
+    "description": "Descriptive text for field 'issue-priority'",
+    "message": ""
+  },
+  "fields.issue-priority.label": {
+    "description": "Label for field 'issue-priority'",
+    "message": "Issue priority"
+  },
+  "fields.issue-priority.placeholder": {
+    "description": "An example to guide the user for field 'issue-priority'",
+    "message": "How much is this impacting you?"
   },
   "fields.name.helperText": {
     "description": "Descriptive text for field 'name'",
@@ -69,7 +249,43 @@
   },
   "fields.name.placeholder": {
     "description": "An example to guide the user for field 'name'",
-    "message": "Common name of this place"
+    "message": "What is this called?"
+  },
+  "fields.natural-event-type.helperText": {
+    "description": "Descriptive text for field 'natural-event-type'",
+    "message": ""
+  },
+  "fields.natural-event-type.label": {
+    "description": "Label for field 'natural-event-type'",
+    "message": "Natural event type"
+  },
+  "fields.natural-event-type.placeholder": {
+    "description": "An example to guide the user for field 'natural-event-type'",
+    "message": "Select one"
+  },
+  "fields.natural-resource.helperText": {
+    "description": "Descriptive text for field 'natural-resource'",
+    "message": ""
+  },
+  "fields.natural-resource.label": {
+    "description": "Label for field 'natural-resource'",
+    "message": "Natural Resource"
+  },
+  "fields.natural-resource.placeholder": {
+    "description": "An example to guide the user for field 'natural-resource'",
+    "message": "This is a source of"
+  },
+  "fields.need-type.helperText": {
+    "description": "Descriptive text for field 'need-type'",
+    "message": ""
+  },
+  "fields.need-type.label": {
+    "description": "Label for field 'need-type'",
+    "message": "Need type"
+  },
+  "fields.need-type.placeholder": {
+    "description": "An example to guide the user for field 'need-type'",
+    "message": "Select all that apply"
   },
   "fields.note.helperText": {
     "description": "Descriptive text for field 'note'",
@@ -81,79 +297,123 @@
   },
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
-    "message": "Stories or notes about this place"
+    "message": "General notes"
   },
-  "fields.owner.helperText": {
-    "description": "Descriptive text for field 'owner'",
+  "fields.permission.helperText": {
+    "description": "Descriptive text for field 'permission'",
     "message": ""
   },
-  "fields.owner.label": {
-    "description": "Label for field 'owner'",
-    "message": "Owner"
+  "fields.permission.label": {
+    "description": "Label for field 'permission'",
+    "message": "Permission"
   },
-  "fields.owner.placeholder": {
-    "description": "An example to guide the user for field 'owner'",
-    "message": "Owner or user of the place"
+  "fields.permission.placeholder": {
+    "description": "An example to guide the user for field 'permission'",
+    "message": "Select one"
   },
-  "fields.palm-species.helperText": {
-    "description": "Descriptive text for field 'palm-species'",
+  "fields.place-name.helperText": {
+    "description": "Descriptive text for field 'place-name'",
     "message": ""
   },
-  "fields.palm-species.label": {
-    "description": "Label for field 'palm-species'",
-    "message": "Palm species"
+  "fields.place-name.label": {
+    "description": "Label for field 'place-name'",
+    "message": "Place name"
   },
-  "fields.palm-species.placeholder": {
-    "description": "An example to guide the user for field 'palm-species'",
-    "message": "What kind of palm?"
+  "fields.place-name.placeholder": {
+    "description": "An example to guide the user for field 'place-name'",
+    "message": "What is the name of this place?"
   },
-  "fields.plant-species.helperText": {
-    "description": "Descriptive text for field 'plant-species'",
+  "fields.presumed-responsible.helperText": {
+    "description": "Descriptive text for field 'presumed-responsible'",
     "message": ""
   },
-  "fields.plant-species.label": {
-    "description": "Label for field 'plant-species'",
-    "message": "Plant species"
+  "fields.presumed-responsible.label": {
+    "description": "Label for field 'presumed-responsible'",
+    "message": "Presumed responsbile"
   },
-  "fields.plant-species.placeholder": {
-    "description": "An example to guide the user for field 'plant-species'",
-    "message": "What kind of plant?"
+  "fields.presumed-responsible.placeholder": {
+    "description": "An example to guide the user for field 'presumed-responsible'",
+    "message": "Who or what may be responsible for this?"
   },
-  "fields.source.helperText": {
-    "description": "Descriptive text for field 'source'",
+  "fields.sample-type.helperText": {
+    "description": "Descriptive text for field 'sample-type'",
     "message": ""
   },
-  "fields.source.label": {
-    "description": "Label for field 'source'",
-    "message": "Source"
+  "fields.sample-type.label": {
+    "description": "Label for field 'sample-type'",
+    "message": "Sample type"
   },
-  "fields.source.placeholder": {
-    "description": "An example to guide the user for field 'source'",
-    "message": "Source of the data"
+  "fields.sample-type.placeholder": {
+    "description": "An example to guide the user for field 'sample-type'",
+    "message": "Select the type of testing"
   },
-  "fields.tree-species.helperText": {
-    "description": "Descriptive text for field 'tree-species'",
+  "fields.service-type.helperText": {
+    "description": "Descriptive text for field 'service-type'",
     "message": ""
   },
-  "fields.tree-species.label": {
-    "description": "Label for field 'tree-species'",
-    "message": "Tree species"
+  "fields.service-type.label": {
+    "description": "Label for field 'service-type'",
+    "message": "Service type"
   },
-  "fields.tree-species.placeholder": {
-    "description": "An example to guide the user for field 'tree-species'",
-    "message": "What kind of tree?"
+  "fields.service-type.placeholder": {
+    "description": "An example to guide the user for field 'service-type'",
+    "message": "What type of site is this?"
   },
-  "fields.type.helperText": {
-    "description": "Descriptive text for field 'type'",
+  "fields.shelter-type.helperText": {
+    "description": "Descriptive text for field 'shelter-type'",
     "message": ""
   },
-  "fields.type.label": {
-    "description": "Label for field 'type'",
-    "message": "What kind of path?"
+  "fields.shelter-type.label": {
+    "description": "Label for field 'shelter-type'",
+    "message": "Shelter type"
   },
-  "fields.type.placeholder": {
-    "description": "An example to guide the user for field 'type'",
-    "message": "What is this path used for?"
+  "fields.shelter-type.placeholder": {
+    "description": "An example to guide the user for field 'shelter-type'",
+    "message": "What kind of shelter is it?"
+  },
+  "fields.vehicle-type-air.helperText": {
+    "description": "Descriptive text for field 'vehicle-type-air'",
+    "message": ""
+  },
+  "fields.vehicle-type-air.label": {
+    "description": "Label for field 'vehicle-type-air'",
+    "message": "Vehicle type - air"
+  },
+  "fields.vehicle-type-air.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-air'",
+    "message": "Select all that apply"
+  },
+  "fields.vehicle-type-land.helperText": {
+    "description": "Descriptive text for field 'vehicle-type-land'",
+    "message": ""
+  },
+  "fields.vehicle-type-land.label": {
+    "description": "Label for field 'vehicle-type-land'",
+    "message": "Vehicle type - land"
+  },
+  "fields.vehicle-type-land.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-land'",
+    "message": "Select all that apply"
+  },
+  "fields.vehicle-type-water.helperText": {
+    "description": "Descriptive text for field 'vehicle-type-water'",
+    "message": ""
+  },
+  "fields.vehicle-type-water.label": {
+    "description": "Label for field 'vehicle-type-water'",
+    "message": "Vehicle type - water"
+  },
+  "fields.vehicle-type-water.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-water'",
+    "message": "Select all that apply"
+  },
+  "presets.agroindustry.name": {
+    "description": "The name of preset 'agroindustry'",
+    "message": "Agroindustry"
+  },
+  "presets.agroindustry.terms": {
+    "description": "List of search terms for preset 'agroindustry'",
+    "message": ""
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
@@ -171,37 +431,13 @@
     "description": "List of search terms for preset 'animal'",
     "message": ""
   },
-  "presets.area.name": {
-    "description": "The name of preset 'area'",
-    "message": "New area"
-  },
-  "presets.area.terms": {
-    "description": "List of search terms for preset 'area'",
-    "message": ""
-  },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
-    "message": "boundary"
+    "message": "Border / boundary"
   },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "border,frontier"
-  },
-  "presets.building.name": {
-    "description": "The name of preset 'building'",
-    "message": "Building"
-  },
-  "presets.building.terms": {
-    "description": "List of search terms for preset 'building'",
-    "message": "medical,school"
-  },
-  "presets.camp.name": {
-    "description": "The name of preset 'camp'",
-    "message": "Camp"
-  },
-  "presets.camp.terms": {
-    "description": "List of search terms for preset 'camp'",
-    "message": "campsite,camping,hunting"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
@@ -211,12 +447,20 @@
     "description": "List of search terms for preset 'cave'",
     "message": ""
   },
-  "presets.clay.name": {
-    "description": "The name of preset 'clay'",
-    "message": "Clay"
+  "presets.community-infrastructure-service.name": {
+    "description": "The name of preset 'community-infrastructure-service'",
+    "message": "Community infrastructure / service"
   },
-  "presets.clay.terms": {
-    "description": "List of search terms for preset 'clay'",
+  "presets.community-infrastructure-service.terms": {
+    "description": "List of search terms for preset 'community-infrastructure-service'",
+    "message": ""
+  },
+  "presets.community-need.name": {
+    "description": "The name of preset 'community-need'",
+    "message": "Community need"
+  },
+  "presets.community-need.terms": {
+    "description": "List of search terms for preset 'community-need'",
     "message": ""
   },
   "presets.community.name": {
@@ -227,17 +471,73 @@
     "description": "List of search terms for preset 'community'",
     "message": "village"
   },
+  "presets.cultivation.name": {
+    "description": "The name of preset 'cultivation'",
+    "message": "Local / community cultivation"
+  },
+  "presets.cultivation.terms": {
+    "description": "List of search terms for preset 'cultivation'",
+    "message": ""
+  },
+  "presets.cultural-activity.name": {
+    "description": "The name of preset 'cultural-activity'",
+    "message": "Cultural activity"
+  },
+  "presets.cultural-activity.terms": {
+    "description": "List of search terms for preset 'cultural-activity'",
+    "message": "story,sacred,historical,history"
+  },
+  "presets.cultural-site.name": {
+    "description": "The name of preset 'cultural-site'",
+    "message": "Cultural site"
+  },
+  "presets.cultural-site.terms": {
+    "description": "List of search terms for preset 'cultural-site'",
+    "message": "story,sacred,historical,history"
+  },
+  "presets.dam.name": {
+    "description": "The name of preset 'dam'",
+    "message": "Dam"
+  },
+  "presets.dam.terms": {
+    "description": "List of search terms for preset 'dam'",
+    "message": ""
+  },
+  "presets.ecosystem.name": {
+    "description": "The name of preset 'ecosystem'",
+    "message": "Ecosystem"
+  },
+  "presets.ecosystem.terms": {
+    "description": "List of search terms for preset 'ecosystem'",
+    "message": ""
+  },
+  "presets.field-test.name": {
+    "description": "The name of preset 'field-test'",
+    "message": "Field test result"
+  },
+  "presets.field-test.terms": {
+    "description": "List of search terms for preset 'field-test'",
+    "message": ""
+  },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
-    "message": "Fishing Site"
+    "message": "Fishing site"
   },
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
     "message": "fish"
   },
+  "presets.fungi.name": {
+    "description": "The name of preset 'fungi'",
+    "message": "Fungi"
+  },
+  "presets.fungi.terms": {
+    "description": "List of search terms for preset 'fungi'",
+    "message": ""
+  },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "Gathering Site"
+    "message": "Gathering site"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
@@ -245,55 +545,87 @@
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
-    "message": "Hills"
+    "message": "Mountain / hill"
   },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
     "message": "mountains"
   },
-  "presets.house.name": {
-    "description": "The name of preset 'house'",
-    "message": "House"
-  },
-  "presets.house.terms": {
-    "description": "List of search terms for preset 'house'",
-    "message": "house,home"
-  },
   "presets.hunting-site.name": {
     "description": "The name of preset 'hunting-site'",
-    "message": "Hunting Site"
+    "message": "Hunting site"
   },
   "presets.hunting-site.terms": {
     "description": "List of search terms for preset 'hunting-site'",
     "message": ""
   },
-  "presets.lake.name": {
-    "description": "The name of preset 'lake'",
-    "message": "Lake"
+  "presets.language.name": {
+    "description": "The name of preset 'language'",
+    "message": "Language on the land"
   },
-  "presets.lake.terms": {
-    "description": "List of search terms for preset 'lake'",
+  "presets.language.terms": {
+    "description": "List of search terms for preset 'language'",
     "message": ""
   },
-  "presets.line.name": {
-    "description": "The name of preset 'line'",
-    "message": "New line"
+  "presets.logging.name": {
+    "description": "The name of preset 'logging'",
+    "message": "Logging"
   },
-  "presets.line.terms": {
-    "description": "List of search terms for preset 'line'",
+  "presets.logging.terms": {
+    "description": "List of search terms for preset 'logging'",
+    "message": "danger,illegal,monitoring"
+  },
+  "presets.mining.name": {
+    "description": "The name of preset 'mining'",
+    "message": "Mining"
+  },
+  "presets.mining.terms": {
+    "description": "List of search terms for preset 'mining'",
+    "message": "danger,illegal,monitoring"
+  },
+  "presets.natural-event.name": {
+    "description": "The name of preset 'natural-event'",
+    "message": "Natural event / phenomenon"
+  },
+  "presets.natural-event.terms": {
+    "description": "List of search terms for preset 'natural-event'",
     "message": ""
   },
-  "presets.palm.name": {
-    "description": "The name of preset 'palm'",
-    "message": "Palm"
+  "presets.natural-gas-activity.name": {
+    "description": "The name of preset 'natural-gas-activity'",
+    "message": "Natural gas activity"
   },
-  "presets.palm.terms": {
-    "description": "List of search terms for preset 'palm'",
+  "presets.natural-gas-activity.terms": {
+    "description": "List of search terms for preset 'natural-gas-activity'",
+    "message": ""
+  },
+  "presets.oil-activity.name": {
+    "description": "The name of preset 'oil-activity'",
+    "message": "Oil activity"
+  },
+  "presets.oil-activity.terms": {
+    "description": "List of search terms for preset 'oil-activity'",
+    "message": ""
+  },
+  "presets.other-threat.name": {
+    "description": "The name of preset 'other-threat'",
+    "message": "Other threat"
+  },
+  "presets.other-threat.terms": {
+    "description": "List of search terms for preset 'other-threat'",
+    "message": ""
+  },
+  "presets.other.name": {
+    "description": "The name of preset 'other'",
+    "message": "Other"
+  },
+  "presets.other.terms": {
+    "description": "List of search terms for preset 'other'",
     "message": ""
   },
   "presets.path.name": {
     "description": "The name of preset 'path'",
-    "message": "Path"
+    "message": "Path / trail"
   },
   "presets.path.terms": {
     "description": "List of search terms for preset 'path'",
@@ -307,61 +639,37 @@
     "description": "List of search terms for preset 'plant'",
     "message": ""
   },
-  "presets.point.name": {
-    "description": "The name of preset 'point'",
-    "message": "Nuevo punto"
+  "presets.poaching.name": {
+    "description": "The name of preset 'poaching'",
+    "message": "Poaching"
   },
-  "presets.point.terms": {
-    "description": "List of search terms for preset 'point'",
+  "presets.poaching.terms": {
+    "description": "List of search terms for preset 'poaching'",
     "message": ""
   },
-  "presets.river.name": {
-    "description": "The name of preset 'river'",
-    "message": "River"
+  "presets.roadway.name": {
+    "description": "The name of preset 'roadway'",
+    "message": "Roadway"
   },
-  "presets.river.terms": {
-    "description": "List of search terms for preset 'river'",
+  "presets.roadway.terms": {
+    "description": "List of search terms for preset 'roadway'",
     "message": ""
   },
-  "presets.salt-lick.name": {
-    "description": "The name of preset 'salt-lick'",
-    "message": "Salt lick"
+  "presets.shelter-building.name": {
+    "description": "The name of preset 'shelter-building'",
+    "message": "Shelter / building"
   },
-  "presets.salt-lick.terms": {
-    "description": "List of search terms for preset 'salt-lick'",
+  "presets.shelter-building.terms": {
+    "description": "List of search terms for preset 'shelter-building'",
     "message": ""
   },
-  "presets.special-site.name": {
-    "description": "The name of preset 'special-site'",
-    "message": "Special site"
+  "presets.transportation-hub.name": {
+    "description": "The name of preset 'transportation-hub'",
+    "message": "Transportation hub"
   },
-  "presets.special-site.terms": {
-    "description": "List of search terms for preset 'special-site'",
-    "message": "story,sacred,historical,history"
-  },
-  "presets.stream.name": {
-    "description": "The name of preset 'stream'",
-    "message": "Stream"
-  },
-  "presets.stream.terms": {
-    "description": "List of search terms for preset 'stream'",
+  "presets.transportation-hub.terms": {
+    "description": "List of search terms for preset 'transportation-hub'",
     "message": ""
-  },
-  "presets.swidden.name": {
-    "description": "The name of preset 'swidden'",
-    "message": "Farmland"
-  },
-  "presets.swidden.terms": {
-    "description": "List of search terms for preset 'swidden'",
-    "message": "farm,garden,plot,allotment,paddy,cultivation"
-  },
-  "presets.threat.name": {
-    "description": "The name of preset 'threat'",
-    "message": "Threat"
-  },
-  "presets.threat.terms": {
-    "description": "List of search terms for preset 'threat'",
-    "message": "danger,illegal,monitoring"
   },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
@@ -371,12 +679,12 @@
     "description": "List of search terms for preset 'tree'",
     "message": ""
   },
-  "presets.waterfall.name": {
-    "description": "The name of preset 'waterfall'",
-    "message": "Waterfall"
+  "presets.water.name": {
+    "description": "The name of preset 'water'",
+    "message": "Body of water"
   },
-  "presets.waterfall.terms": {
-    "description": "List of search terms for preset 'waterfall'",
-    "message": "cascade"
+  "presets.water.terms": {
+    "description": "List of search terms for preset 'water'",
+    "message": ""
   }
 }
