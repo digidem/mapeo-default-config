@@ -1,7 +1,0 @@
-{
-    "key": "user-location",
-    "type": "text",
-    "label": "User location, region",
-    "placeholder": "Your usual villiage/town/city and provice/district/state",
-    "options": []
-}
