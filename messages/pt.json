@@ -45,7 +45,7 @@
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "Select one"
+    "message": "Que tipo de animal?"
   },
   "fields.authorities-needed.helperText": {
     "description": "Descriptive text for field 'authorities-needed'",
@@ -249,7 +249,7 @@
   },
   "fields.name.placeholder": {
     "description": "An example to guide the user for field 'name'",
-    "message": "What is this called?"
+    "message": "Nome comum deste lugar"
   },
   "fields.natural-event-type.helperText": {
     "description": "Descriptive text for field 'natural-event-type'",
@@ -297,7 +297,7 @@
   },
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
-    "message": "General notes"
+    "message": "Histórias ou anotações sobre este lugar"
   },
   "fields.permission.helperText": {
     "description": "Descriptive text for field 'permission'",
@@ -433,7 +433,7 @@
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
-    "message": "Border / boundary"
+    "message": "limite"
   },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
@@ -521,7 +521,7 @@
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
-    "message": "Fishing site"
+    "message": "Local de pesca"
   },
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
@@ -537,7 +537,7 @@
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "Gathering site"
+    "message": "Local de coleta"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
@@ -545,7 +545,7 @@
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
-    "message": "Mountain / hill"
+    "message": "Morros"
   },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
@@ -553,7 +553,7 @@
   },
   "presets.hunting-site.name": {
     "description": "The name of preset 'hunting-site'",
-    "message": "Hunting site"
+    "message": "Local de caça"
   },
   "presets.hunting-site.terms": {
     "description": "List of search terms for preset 'hunting-site'",
@@ -625,7 +625,7 @@
   },
   "presets.path.name": {
     "description": "The name of preset 'path'",
-    "message": "Path / trail"
+    "message": "Caminho"
   },
   "presets.path.terms": {
     "description": "List of search terms for preset 'path'",
