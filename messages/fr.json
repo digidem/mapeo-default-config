@@ -3,6 +3,34 @@
     "description": "Label for field 'animal-type'",
     "message": "Type d'animaux"
   },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "Lac"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "Rivière"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "Ruisseau"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "Cascade"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "Communauté"
+  },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "Terres agricoles"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "Argile"
+  },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "Nom"
