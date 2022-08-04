@@ -3,6 +3,38 @@
     "description": "Label for field 'animal-type'",
     "message": "ประเภทสัตว์"
   },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "ทะเลสาบ"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "แม่น้ำ"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "ลำธาร"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "น้ำตก"
+  },
+  "fields.cultural-category.options.Gathering site": {
+    "description": "Label for option 'Gathering site' for field 'cultural-category'",
+    "message": "โรงเก็บสินค้า"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "ชุมชน"
+  },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "ที่นา"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "ดินเหนียว"
+  },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "ชื่อ"
