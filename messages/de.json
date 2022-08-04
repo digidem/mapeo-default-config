@@ -3,6 +3,38 @@
     "description": "Label for field 'animal-type'",
     "message": "Tierart"
   },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "See"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "Fluss"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "Ströhmung"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "Wasserfall"
+  },
+  "fields.cultural-category.options.Gathering site": {
+    "description": "Label for option 'Gathering site' for field 'cultural-category'",
+    "message": "Sammelplatz"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "Gemeinschaft"
+  },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "Farmgebiet"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "Lehm"
+  },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "Name"
