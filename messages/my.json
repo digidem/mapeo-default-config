@@ -3,6 +3,14 @@
     "description": "Label for field 'animal-type'",
     "message": "တိရစ္ဆာန်အမျိုးအစား"
   },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "ဒေသခံပြည်သူ"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "ရွံ့"
+  },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "အမည်"
