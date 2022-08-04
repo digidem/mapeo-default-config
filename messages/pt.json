@@ -19,6 +19,54 @@
     "description": "Label for field 'activity-documented'",
     "message": "Activity documented"
   },
+  "fields.activity-documented.options.Contamination": {
+    "description": "Label for option 'Contamination' for field 'activity-documented'",
+    "message": "Contamination"
+  },
+  "fields.activity-documented.options.Deforestation": {
+    "description": "Label for option 'Deforestation' for field 'activity-documented'",
+    "message": "Deforestation"
+  },
+  "fields.activity-documented.options.Excavation": {
+    "description": "Label for option 'Excavation' for field 'activity-documented'",
+    "message": "Excavation"
+  },
+  "fields.activity-documented.options.Extraction": {
+    "description": "Label for option 'Extraction' for field 'activity-documented'",
+    "message": "Extraction"
+  },
+  "fields.activity-documented.options.Health crisis": {
+    "description": "Label for option 'Health crisis' for field 'activity-documented'",
+    "message": "Health crisis"
+  },
+  "fields.activity-documented.options.Impacted waterway": {
+    "description": "Label for option 'Impacted waterway' for field 'activity-documented'",
+    "message": "Impacted waterway"
+  },
+  "fields.activity-documented.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'activity-documented'",
+    "message": "Invasion"
+  },
+  "fields.activity-documented.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-documented'",
+    "message": "Other"
+  },
+  "fields.activity-documented.options.Remediation": {
+    "description": "Label for option 'Remediation' for field 'activity-documented'",
+    "message": "Remediation"
+  },
+  "fields.activity-documented.options.Spill": {
+    "description": "Label for option 'Spill' for field 'activity-documented'",
+    "message": "Spill"
+  },
+  "fields.activity-documented.options.Surveying/sampling": {
+    "description": "Label for option 'Surveying/sampling' for field 'activity-documented'",
+    "message": "Surveying/sampling"
+  },
+  "fields.activity-documented.options.Unmaintained infrastructure": {
+    "description": "Label for option 'Unmaintained infrastructure' for field 'activity-documented'",
+    "message": "Unmaintained infrastructure"
+  },
   "fields.activity-documented.placeholder": {
     "description": "An example to guide the user for field 'activity-documented'",
     "message": "Select all that apply"
@@ -30,6 +78,30 @@
   "fields.activity-progress.label": {
     "description": "Label for field 'activity-progress'",
     "message": "Activity progress"
+  },
+  "fields.activity-progress.options.Active/in-progress": {
+    "description": "Label for option 'Active/in-progress' for field 'activity-progress'",
+    "message": "Active/in-progress"
+  },
+  "fields.activity-progress.options.Inactive/complete": {
+    "description": "Label for option 'Inactive/complete' for field 'activity-progress'",
+    "message": "Inactive/complete"
+  },
+  "fields.activity-progress.options.Initial stages": {
+    "description": "Label for option 'Initial stages' for field 'activity-progress'",
+    "message": "Initial stages"
+  },
+  "fields.activity-progress.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-progress'",
+    "message": "Other"
+  },
+  "fields.activity-progress.options.Repeat activity": {
+    "description": "Label for option 'Repeat activity' for field 'activity-progress'",
+    "message": "Repeat activity"
+  },
+  "fields.activity-progress.options.Temporarily suspended": {
+    "description": "Label for option 'Temporarily suspended' for field 'activity-progress'",
+    "message": "Temporarily suspended"
   },
   "fields.activity-progress.placeholder": {
     "description": "An example to guide the user for field 'activity-progress'",
@@ -43,6 +115,26 @@
     "description": "Label for field 'animal-type'",
     "message": "Tipo de animal"
   },
+  "fields.animal-type.options.Bird": {
+    "description": "Label for option 'Bird' for field 'animal-type'",
+    "message": "Bird"
+  },
+  "fields.animal-type.options.Fish": {
+    "description": "Label for option 'Fish' for field 'animal-type'",
+    "message": "Fish"
+  },
+  "fields.animal-type.options.Mammal": {
+    "description": "Label for option 'Mammal' for field 'animal-type'",
+    "message": "Mammal"
+  },
+  "fields.animal-type.options.Other": {
+    "description": "Label for option 'Other' for field 'animal-type'",
+    "message": "Other"
+  },
+  "fields.animal-type.options.Reptile/amphibian": {
+    "description": "Label for option 'Reptile/amphibian' for field 'animal-type'",
+    "message": "Reptile/amphibian"
+  },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
     "message": "Que tipo de animal?"
@@ -55,6 +147,42 @@
     "description": "Label for field 'authorities-needed'",
     "message": "Authorities needed or involved"
   },
+  "fields.authorities-needed.options.Health authorities": {
+    "description": "Label for option 'Health authorities' for field 'authorities-needed'",
+    "message": "Health authorities"
+  },
+  "fields.authorities-needed.options.Local leadership": {
+    "description": "Label for option 'Local leadership' for field 'authorities-needed'",
+    "message": "Local leadership"
+  },
+  "fields.authorities-needed.options.Munilcipal police": {
+    "description": "Label for option 'Munilcipal police' for field 'authorities-needed'",
+    "message": "Munilcipal police"
+  },
+  "fields.authorities-needed.options.National law enforcment": {
+    "description": "Label for option 'National law enforcment' for field 'authorities-needed'",
+    "message": "National law enforcment"
+  },
+  "fields.authorities-needed.options.None": {
+    "description": "Label for option 'None' for field 'authorities-needed'",
+    "message": "None"
+  },
+  "fields.authorities-needed.options.Other": {
+    "description": "Label for option 'Other' for field 'authorities-needed'",
+    "message": "Other"
+  },
+  "fields.authorities-needed.options.Park rangers": {
+    "description": "Label for option 'Park rangers' for field 'authorities-needed'",
+    "message": "Park rangers"
+  },
+  "fields.authorities-needed.options.Private security": {
+    "description": "Label for option 'Private security' for field 'authorities-needed'",
+    "message": "Private security"
+  },
+  "fields.authorities-needed.options.Regional law enforcement": {
+    "description": "Label for option 'Regional law enforcement' for field 'authorities-needed'",
+    "message": "Regional law enforcement"
+  },
   "fields.authorities-needed.placeholder": {
     "description": "An example to guide the user for field 'authorities-needed'",
     "message": "Select all that apply"
@@ -66,6 +194,50 @@
   "fields.body-of-water-type.label": {
     "description": "Label for field 'body-of-water-type'",
     "message": "Body of water type"
+  },
+  "fields.body-of-water-type.options.Delta": {
+    "description": "Label for option 'Delta' for field 'body-of-water-type'",
+    "message": "Delta"
+  },
+  "fields.body-of-water-type.options.Glacier": {
+    "description": "Label for option 'Glacier' for field 'body-of-water-type'",
+    "message": "Glacier"
+  },
+  "fields.body-of-water-type.options.Headwaters": {
+    "description": "Label for option 'Headwaters' for field 'body-of-water-type'",
+    "message": "Headwaters"
+  },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "Lake"
+  },
+  "fields.body-of-water-type.options.Other": {
+    "description": "Label for option 'Other' for field 'body-of-water-type'",
+    "message": "Other"
+  },
+  "fields.body-of-water-type.options.Pond": {
+    "description": "Label for option 'Pond' for field 'body-of-water-type'",
+    "message": "Pond"
+  },
+  "fields.body-of-water-type.options.Rapids": {
+    "description": "Label for option 'Rapids' for field 'body-of-water-type'",
+    "message": "Rapids"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "River"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "Stream"
+  },
+  "fields.body-of-water-type.options.Subsurface water table": {
+    "description": "Label for option 'Subsurface water table' for field 'body-of-water-type'",
+    "message": "Subsurface water table"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "Waterfall"
   },
   "fields.body-of-water-type.placeholder": {
     "description": "An example to guide the user for field 'body-of-water-type'",
@@ -91,6 +263,14 @@
     "description": "Label for field 'conditions'",
     "message": "Conditions"
   },
+  "fields.conditions.options.Expected": {
+    "description": "Label for option 'Expected' for field 'conditions'",
+    "message": "Expected"
+  },
+  "fields.conditions.options.Unusual": {
+    "description": "Label for option 'Unusual' for field 'conditions'",
+    "message": "Unusual"
+  },
   "fields.conditions.placeholder": {
     "description": "An example to guide the user for field 'conditions'",
     "message": "Select one"
@@ -102,6 +282,34 @@
   "fields.cultural-category.label": {
     "description": "Label for field 'cultural-category'",
     "message": "Cultural category"
+  },
+  "fields.cultural-category.options.Archeological": {
+    "description": "Label for option 'Archeological' for field 'cultural-category'",
+    "message": "Archeological"
+  },
+  "fields.cultural-category.options.Gathering site": {
+    "description": "Label for option 'Gathering site' for field 'cultural-category'",
+    "message": "Gathering site"
+  },
+  "fields.cultural-category.options.Historical": {
+    "description": "Label for option 'Historical' for field 'cultural-category'",
+    "message": "Historical"
+  },
+  "fields.cultural-category.options.Mythological": {
+    "description": "Label for option 'Mythological' for field 'cultural-category'",
+    "message": "Mythological"
+  },
+  "fields.cultural-category.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-category'",
+    "message": "Other"
+  },
+  "fields.cultural-category.options.Sacred": {
+    "description": "Label for option 'Sacred' for field 'cultural-category'",
+    "message": "Sacred"
+  },
+  "fields.cultural-category.options.Story": {
+    "description": "Label for option 'Story' for field 'cultural-category'",
+    "message": "Story"
   },
   "fields.cultural-category.placeholder": {
     "description": "An example to guide the user for field 'cultural-category'",
@@ -127,6 +335,78 @@
     "description": "Label for field 'cultural-mediums'",
     "message": "Cultural mediums"
   },
+  "fields.cultural-mediums.options.Ceremony": {
+    "description": "Label for option 'Ceremony' for field 'cultural-mediums'",
+    "message": "Ceremony"
+  },
+  "fields.cultural-mediums.options.Clothing/adornment": {
+    "description": "Label for option 'Clothing/adornment' for field 'cultural-mediums'",
+    "message": "Clothing/adornment"
+  },
+  "fields.cultural-mediums.options.Dance/play": {
+    "description": "Label for option 'Dance/play' for field 'cultural-mediums'",
+    "message": "Dance/play"
+  },
+  "fields.cultural-mediums.options.Decoration": {
+    "description": "Label for option 'Decoration' for field 'cultural-mediums'",
+    "message": "Decoration"
+  },
+  "fields.cultural-mediums.options.Design/architecture": {
+    "description": "Label for option 'Design/architecture' for field 'cultural-mediums'",
+    "message": "Design/architecture"
+  },
+  "fields.cultural-mediums.options.Digital media": {
+    "description": "Label for option 'Digital media' for field 'cultural-mediums'",
+    "message": "Digital media"
+  },
+  "fields.cultural-mediums.options.Event": {
+    "description": "Label for option 'Event' for field 'cultural-mediums'",
+    "message": "Event"
+  },
+  "fields.cultural-mediums.options.Food/cuisine": {
+    "description": "Label for option 'Food/cuisine' for field 'cultural-mediums'",
+    "message": "Food/cuisine"
+  },
+  "fields.cultural-mediums.options.Game/sport": {
+    "description": "Label for option 'Game/sport' for field 'cultural-mediums'",
+    "message": "Game/sport"
+  },
+  "fields.cultural-mediums.options.Literary/poetry": {
+    "description": "Label for option 'Literary/poetry' for field 'cultural-mediums'",
+    "message": "Literary/poetry"
+  },
+  "fields.cultural-mediums.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-mediums'",
+    "message": "Other"
+  },
+  "fields.cultural-mediums.options.Performance/presentation": {
+    "description": "Label for option 'Performance/presentation' for field 'cultural-mediums'",
+    "message": "Performance/presentation"
+  },
+  "fields.cultural-mediums.options.Place/site": {
+    "description": "Label for option 'Place/site' for field 'cultural-mediums'",
+    "message": "Place/site"
+  },
+  "fields.cultural-mediums.options.Rituals/customs": {
+    "description": "Label for option 'Rituals/customs' for field 'cultural-mediums'",
+    "message": "Rituals/customs"
+  },
+  "fields.cultural-mediums.options.Song/music": {
+    "description": "Label for option 'Song/music' for field 'cultural-mediums'",
+    "message": "Song/music"
+  },
+  "fields.cultural-mediums.options.Storytelling/oral history": {
+    "description": "Label for option 'Storytelling/oral history' for field 'cultural-mediums'",
+    "message": "Storytelling/oral history"
+  },
+  "fields.cultural-mediums.options.Tools/technology": {
+    "description": "Label for option 'Tools/technology' for field 'cultural-mediums'",
+    "message": "Tools/technology"
+  },
+  "fields.cultural-mediums.options.Visual art/exhibit/display": {
+    "description": "Label for option 'Visual art/exhibit/display' for field 'cultural-mediums'",
+    "message": "Visual art/exhibit/display"
+  },
   "fields.cultural-mediums.placeholder": {
     "description": "An example to guide the user for field 'cultural-mediums'",
     "message": "Select all that apply"
@@ -151,6 +431,42 @@
     "description": "Label for field 'cultural-participation'",
     "message": "Cultural participation"
   },
+  "fields.cultural-participation.options.Audience/spectator": {
+    "description": "Label for option 'Audience/spectator' for field 'cultural-participation'",
+    "message": "Audience/spectator"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "Community"
+  },
+  "fields.cultural-participation.options.Family": {
+    "description": "Label for option 'Family' for field 'cultural-participation'",
+    "message": "Family"
+  },
+  "fields.cultural-participation.options.Group members": {
+    "description": "Label for option 'Group members' for field 'cultural-participation'",
+    "message": "Group members"
+  },
+  "fields.cultural-participation.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-participation'",
+    "message": "Other"
+  },
+  "fields.cultural-participation.options.Participatory": {
+    "description": "Label for option 'Participatory' for field 'cultural-participation'",
+    "message": "Participatory"
+  },
+  "fields.cultural-participation.options.Private": {
+    "description": "Label for option 'Private' for field 'cultural-participation'",
+    "message": "Private"
+  },
+  "fields.cultural-participation.options.Public": {
+    "description": "Label for option 'Public' for field 'cultural-participation'",
+    "message": "Public"
+  },
+  "fields.cultural-participation.options.Visitors": {
+    "description": "Label for option 'Visitors' for field 'cultural-participation'",
+    "message": "Visitors"
+  },
   "fields.cultural-participation.placeholder": {
     "description": "An example to guide the user for field 'cultural-participation'",
     "message": "Select all that apply"
@@ -163,6 +479,22 @@
     "description": "Label for field 'ecological-status'",
     "message": "Ecological status"
   },
+  "fields.ecological-status.options.Controlled species": {
+    "description": "Label for option 'Controlled species' for field 'ecological-status'",
+    "message": "Controlled species"
+  },
+  "fields.ecological-status.options.Invasive species": {
+    "description": "Label for option 'Invasive species' for field 'ecological-status'",
+    "message": "Invasive species"
+  },
+  "fields.ecological-status.options.Native species": {
+    "description": "Label for option 'Native species' for field 'ecological-status'",
+    "message": "Native species"
+  },
+  "fields.ecological-status.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'ecological-status'",
+    "message": "Not sure"
+  },
   "fields.ecological-status.placeholder": {
     "description": "An example to guide the user for field 'ecological-status'",
     "message": "Select one"
@@ -174,6 +506,42 @@
   "fields.ecosystem-type.label": {
     "description": "Label for field 'ecosystem-type'",
     "message": "Ecosystem type"
+  },
+  "fields.ecosystem-type.options.Desert": {
+    "description": "Label for option 'Desert' for field 'ecosystem-type'",
+    "message": "Desert"
+  },
+  "fields.ecosystem-type.options.Forest/woodland": {
+    "description": "Label for option 'Forest/woodland' for field 'ecosystem-type'",
+    "message": "Forest/woodland"
+  },
+  "fields.ecosystem-type.options.Grasslands": {
+    "description": "Label for option 'Grasslands' for field 'ecosystem-type'",
+    "message": "Grasslands"
+  },
+  "fields.ecosystem-type.options.Mangrove": {
+    "description": "Label for option 'Mangrove' for field 'ecosystem-type'",
+    "message": "Mangrove"
+  },
+  "fields.ecosystem-type.options.Other": {
+    "description": "Label for option 'Other' for field 'ecosystem-type'",
+    "message": "Other"
+  },
+  "fields.ecosystem-type.options.Permafrost": {
+    "description": "Label for option 'Permafrost' for field 'ecosystem-type'",
+    "message": "Permafrost"
+  },
+  "fields.ecosystem-type.options.Ravine": {
+    "description": "Label for option 'Ravine' for field 'ecosystem-type'",
+    "message": "Ravine"
+  },
+  "fields.ecosystem-type.options.Tundra": {
+    "description": "Label for option 'Tundra' for field 'ecosystem-type'",
+    "message": "Tundra"
+  },
+  "fields.ecosystem-type.options.Wetland": {
+    "description": "Label for option 'Wetland' for field 'ecosystem-type'",
+    "message": "Wetland"
   },
   "fields.ecosystem-type.placeholder": {
     "description": "An example to guide the user for field 'ecosystem-type'",
@@ -199,6 +567,50 @@
     "description": "Label for field 'food-source'",
     "message": "Food source"
   },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "Farmland"
+  },
+  "fields.food-source.options.Fishing area": {
+    "description": "Label for option 'Fishing area' for field 'food-source'",
+    "message": "Fishing area"
+  },
+  "fields.food-source.options.Food forest": {
+    "description": "Label for option 'Food forest' for field 'food-source'",
+    "message": "Food forest"
+  },
+  "fields.food-source.options.Foraging": {
+    "description": "Label for option 'Foraging' for field 'food-source'",
+    "message": "Foraging"
+  },
+  "fields.food-source.options.Garden": {
+    "description": "Label for option 'Garden' for field 'food-source'",
+    "message": "Garden"
+  },
+  "fields.food-source.options.Hunting": {
+    "description": "Label for option 'Hunting' for field 'food-source'",
+    "message": "Hunting"
+  },
+  "fields.food-source.options.Other": {
+    "description": "Label for option 'Other' for field 'food-source'",
+    "message": "Other"
+  },
+  "fields.food-source.options.Pasture": {
+    "description": "Label for option 'Pasture' for field 'food-source'",
+    "message": "Pasture"
+  },
+  "fields.food-source.options.Permaculture": {
+    "description": "Label for option 'Permaculture' for field 'food-source'",
+    "message": "Permaculture"
+  },
+  "fields.food-source.options.Trap": {
+    "description": "Label for option 'Trap' for field 'food-source'",
+    "message": "Trap"
+  },
+  "fields.food-source.options.Trapline": {
+    "description": "Label for option 'Trapline' for field 'food-source'",
+    "message": "Trapline"
+  },
   "fields.food-source.placeholder": {
     "description": "An example to guide the user for field 'food-source'",
     "message": "Select all that apply"
@@ -210,6 +622,38 @@
   "fields.gathering-type.label": {
     "description": "Label for field 'gathering-type'",
     "message": "Gathering type"
+  },
+  "fields.gathering-type.options.Berries": {
+    "description": "Label for option 'Berries' for field 'gathering-type'",
+    "message": "Berries"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "Clay"
+  },
+  "fields.gathering-type.options.Fibers": {
+    "description": "Label for option 'Fibers' for field 'gathering-type'",
+    "message": "Fibers"
+  },
+  "fields.gathering-type.options.Honey": {
+    "description": "Label for option 'Honey' for field 'gathering-type'",
+    "message": "Honey"
+  },
+  "fields.gathering-type.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'gathering-type'",
+    "message": "Medicine"
+  },
+  "fields.gathering-type.options.Mushrooms": {
+    "description": "Label for option 'Mushrooms' for field 'gathering-type'",
+    "message": "Mushrooms"
+  },
+  "fields.gathering-type.options.Other": {
+    "description": "Label for option 'Other' for field 'gathering-type'",
+    "message": "Other"
+  },
+  "fields.gathering-type.options.Tree fruit": {
+    "description": "Label for option 'Tree fruit' for field 'gathering-type'",
+    "message": "Tree fruit"
   },
   "fields.gathering-type.placeholder": {
     "description": "An example to guide the user for field 'gathering-type'",
@@ -223,6 +667,42 @@
     "description": "Label for field 'incident-type'",
     "message": "Incident type"
   },
+  "fields.incident-type.options.Conflict": {
+    "description": "Label for option 'Conflict' for field 'incident-type'",
+    "message": "Conflict"
+  },
+  "fields.incident-type.options.Human rights violation": {
+    "description": "Label for option 'Human rights violation' for field 'incident-type'",
+    "message": "Human rights violation"
+  },
+  "fields.incident-type.options.Illness": {
+    "description": "Label for option 'Illness' for field 'incident-type'",
+    "message": "Illness"
+  },
+  "fields.incident-type.options.Injury": {
+    "description": "Label for option 'Injury' for field 'incident-type'",
+    "message": "Injury"
+  },
+  "fields.incident-type.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'incident-type'",
+    "message": "Invasion"
+  },
+  "fields.incident-type.options.Material damage": {
+    "description": "Label for option 'Material damage' for field 'incident-type'",
+    "message": "Material damage"
+  },
+  "fields.incident-type.options.Other": {
+    "description": "Label for option 'Other' for field 'incident-type'",
+    "message": "Other"
+  },
+  "fields.incident-type.options.Theft": {
+    "description": "Label for option 'Theft' for field 'incident-type'",
+    "message": "Theft"
+  },
+  "fields.incident-type.options.Violence": {
+    "description": "Label for option 'Violence' for field 'incident-type'",
+    "message": "Violence"
+  },
   "fields.incident-type.placeholder": {
     "description": "An example to guide the user for field 'incident-type'",
     "message": "Select all that apply"
@@ -234,6 +714,18 @@
   "fields.issue-priority.label": {
     "description": "Label for field 'issue-priority'",
     "message": "Issue priority"
+  },
+  "fields.issue-priority.options.Important issue": {
+    "description": "Label for option 'Important issue' for field 'issue-priority'",
+    "message": "Important issue"
+  },
+  "fields.issue-priority.options.Inconvenience": {
+    "description": "Label for option 'Inconvenience' for field 'issue-priority'",
+    "message": "Inconvenience"
+  },
+  "fields.issue-priority.options.Urgent issue": {
+    "description": "Label for option 'Urgent issue' for field 'issue-priority'",
+    "message": "Urgent issue"
   },
   "fields.issue-priority.placeholder": {
     "description": "An example to guide the user for field 'issue-priority'",
@@ -259,6 +751,26 @@
     "description": "Label for field 'natural-event-type'",
     "message": "Natural event type"
   },
+  "fields.natural-event-type.options.Drought": {
+    "description": "Label for option 'Drought' for field 'natural-event-type'",
+    "message": "Drought"
+  },
+  "fields.natural-event-type.options.Fire": {
+    "description": "Label for option 'Fire' for field 'natural-event-type'",
+    "message": "Fire"
+  },
+  "fields.natural-event-type.options.Flood": {
+    "description": "Label for option 'Flood' for field 'natural-event-type'",
+    "message": "Flood"
+  },
+  "fields.natural-event-type.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-event-type'",
+    "message": "Other"
+  },
+  "fields.natural-event-type.options.Storm": {
+    "description": "Label for option 'Storm' for field 'natural-event-type'",
+    "message": "Storm"
+  },
   "fields.natural-event-type.placeholder": {
     "description": "An example to guide the user for field 'natural-event-type'",
     "message": "Select one"
@@ -271,6 +783,50 @@
     "description": "Label for field 'natural-resource'",
     "message": "Natural Resource"
   },
+  "fields.natural-resource.options.Artisanry": {
+    "description": "Label for option 'Artisanry' for field 'natural-resource'",
+    "message": "Artisanry"
+  },
+  "fields.natural-resource.options.Clothing": {
+    "description": "Label for option 'Clothing' for field 'natural-resource'",
+    "message": "Clothing"
+  },
+  "fields.natural-resource.options.Communication": {
+    "description": "Label for option 'Communication' for field 'natural-resource'",
+    "message": "Communication"
+  },
+  "fields.natural-resource.options.Food": {
+    "description": "Label for option 'Food' for field 'natural-resource'",
+    "message": "Food"
+  },
+  "fields.natural-resource.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'natural-resource'",
+    "message": "Medicine"
+  },
+  "fields.natural-resource.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-resource'",
+    "message": "Other"
+  },
+  "fields.natural-resource.options.Revenue": {
+    "description": "Label for option 'Revenue' for field 'natural-resource'",
+    "message": "Revenue"
+  },
+  "fields.natural-resource.options.Shelter": {
+    "description": "Label for option 'Shelter' for field 'natural-resource'",
+    "message": "Shelter"
+  },
+  "fields.natural-resource.options.Tools": {
+    "description": "Label for option 'Tools' for field 'natural-resource'",
+    "message": "Tools"
+  },
+  "fields.natural-resource.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'natural-resource'",
+    "message": "Transportation"
+  },
+  "fields.natural-resource.options.Water": {
+    "description": "Label for option 'Water' for field 'natural-resource'",
+    "message": "Water"
+  },
   "fields.natural-resource.placeholder": {
     "description": "An example to guide the user for field 'natural-resource'",
     "message": "This is a source of"
@@ -282,6 +838,42 @@
   "fields.need-type.label": {
     "description": "Label for field 'need-type'",
     "message": "Need type"
+  },
+  "fields.need-type.options.Crisis response services": {
+    "description": "Label for option 'Crisis response services' for field 'need-type'",
+    "message": "Crisis response services"
+  },
+  "fields.need-type.options.Food": {
+    "description": "Label for option 'Food' for field 'need-type'",
+    "message": "Food"
+  },
+  "fields.need-type.options.Health services": {
+    "description": "Label for option 'Health services' for field 'need-type'",
+    "message": "Health services"
+  },
+  "fields.need-type.options.Law enforcement": {
+    "description": "Label for option 'Law enforcement' for field 'need-type'",
+    "message": "Law enforcement"
+  },
+  "fields.need-type.options.Other": {
+    "description": "Label for option 'Other' for field 'need-type'",
+    "message": "Other"
+  },
+  "fields.need-type.options.Potable water": {
+    "description": "Label for option 'Potable water' for field 'need-type'",
+    "message": "Potable water"
+  },
+  "fields.need-type.options.Shelter/housing": {
+    "description": "Label for option 'Shelter/housing' for field 'need-type'",
+    "message": "Shelter/housing"
+  },
+  "fields.need-type.options.Supplies/materials": {
+    "description": "Label for option 'Supplies/materials' for field 'need-type'",
+    "message": "Supplies/materials"
+  },
+  "fields.need-type.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'need-type'",
+    "message": "Transportation"
   },
   "fields.need-type.placeholder": {
     "description": "An example to guide the user for field 'need-type'",
@@ -306,6 +898,22 @@
   "fields.permission.label": {
     "description": "Label for field 'permission'",
     "message": "Permission"
+  },
+  "fields.permission.options.Insufficient consultation": {
+    "description": "Label for option 'Insufficient consultation' for field 'permission'",
+    "message": "Insufficient consultation"
+  },
+  "fields.permission.options.Not permitted": {
+    "description": "Label for option 'Not permitted' for field 'permission'",
+    "message": "Not permitted"
+  },
+  "fields.permission.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'permission'",
+    "message": "Not sure"
+  },
+  "fields.permission.options.Permitted": {
+    "description": "Label for option 'Permitted' for field 'permission'",
+    "message": "Permitted"
   },
   "fields.permission.placeholder": {
     "description": "An example to guide the user for field 'permission'",
@@ -343,6 +951,34 @@
     "description": "Label for field 'sample-type'",
     "message": "Sample type"
   },
+  "fields.sample-type.options.Air": {
+    "description": "Label for option 'Air' for field 'sample-type'",
+    "message": "Air"
+  },
+  "fields.sample-type.options.Forestry/vegetation": {
+    "description": "Label for option 'Forestry/vegetation' for field 'sample-type'",
+    "message": "Forestry/vegetation"
+  },
+  "fields.sample-type.options.Meteorological": {
+    "description": "Label for option 'Meteorological' for field 'sample-type'",
+    "message": "Meteorological"
+  },
+  "fields.sample-type.options.Mineral": {
+    "description": "Label for option 'Mineral' for field 'sample-type'",
+    "message": "Mineral"
+  },
+  "fields.sample-type.options.Other": {
+    "description": "Label for option 'Other' for field 'sample-type'",
+    "message": "Other"
+  },
+  "fields.sample-type.options.Soil": {
+    "description": "Label for option 'Soil' for field 'sample-type'",
+    "message": "Soil"
+  },
+  "fields.sample-type.options.Water": {
+    "description": "Label for option 'Water' for field 'sample-type'",
+    "message": "Water"
+  },
   "fields.sample-type.placeholder": {
     "description": "An example to guide the user for field 'sample-type'",
     "message": "Select the type of testing"
@@ -354,6 +990,46 @@
   "fields.service-type.label": {
     "description": "Label for field 'service-type'",
     "message": "Service type"
+  },
+  "fields.service-type.options.Communication": {
+    "description": "Label for option 'Communication' for field 'service-type'",
+    "message": "Communication"
+  },
+  "fields.service-type.options.Education": {
+    "description": "Label for option 'Education' for field 'service-type'",
+    "message": "Education"
+  },
+  "fields.service-type.options.Health": {
+    "description": "Label for option 'Health' for field 'service-type'",
+    "message": "Health"
+  },
+  "fields.service-type.options.Market/food services": {
+    "description": "Label for option 'Market/food services' for field 'service-type'",
+    "message": "Market/food services"
+  },
+  "fields.service-type.options.Other": {
+    "description": "Label for option 'Other' for field 'service-type'",
+    "message": "Other"
+  },
+  "fields.service-type.options.Recreation": {
+    "description": "Label for option 'Recreation' for field 'service-type'",
+    "message": "Recreation"
+  },
+  "fields.service-type.options.Shops/utility": {
+    "description": "Label for option 'Shops/utility' for field 'service-type'",
+    "message": "Shops/utility"
+  },
+  "fields.service-type.options.Social services": {
+    "description": "Label for option 'Social services' for field 'service-type'",
+    "message": "Social services"
+  },
+  "fields.service-type.options.Spiritual/religious": {
+    "description": "Label for option 'Spiritual/religious' for field 'service-type'",
+    "message": "Spiritual/religious"
+  },
+  "fields.service-type.options.Water infrastructure": {
+    "description": "Label for option 'Water infrastructure' for field 'service-type'",
+    "message": "Water infrastructure"
   },
   "fields.service-type.placeholder": {
     "description": "An example to guide the user for field 'service-type'",
@@ -367,6 +1043,22 @@
     "description": "Label for field 'shelter-type'",
     "message": "Shelter type"
   },
+  "fields.shelter-type.options.Not in use": {
+    "description": "Label for option 'Not in use' for field 'shelter-type'",
+    "message": "Not in use"
+  },
+  "fields.shelter-type.options.Other": {
+    "description": "Label for option 'Other' for field 'shelter-type'",
+    "message": "Other"
+  },
+  "fields.shelter-type.options.Permanent": {
+    "description": "Label for option 'Permanent' for field 'shelter-type'",
+    "message": "Permanent"
+  },
+  "fields.shelter-type.options.Temporary": {
+    "description": "Label for option 'Temporary' for field 'shelter-type'",
+    "message": "Temporary"
+  },
   "fields.shelter-type.placeholder": {
     "description": "An example to guide the user for field 'shelter-type'",
     "message": "What kind of shelter is it?"
@@ -378,6 +1070,22 @@
   "fields.vehicle-type-air.label": {
     "description": "Label for field 'vehicle-type-air'",
     "message": "Vehicle type - air"
+  },
+  "fields.vehicle-type-air.options.Aircraft": {
+    "description": "Label for option 'Aircraft' for field 'vehicle-type-air'",
+    "message": "Aircraft"
+  },
+  "fields.vehicle-type-air.options.Helicopter": {
+    "description": "Label for option 'Helicopter' for field 'vehicle-type-air'",
+    "message": "Helicopter"
+  },
+  "fields.vehicle-type-air.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-air'",
+    "message": "Other"
+  },
+  "fields.vehicle-type-air.options.Small aircraft": {
+    "description": "Label for option 'Small aircraft' for field 'vehicle-type-air'",
+    "message": "Small aircraft"
   },
   "fields.vehicle-type-air.placeholder": {
     "description": "An example to guide the user for field 'vehicle-type-air'",
@@ -391,6 +1099,42 @@
     "description": "Label for field 'vehicle-type-land'",
     "message": "Vehicle type - land"
   },
+  "fields.vehicle-type-land.options.All terrain vehicle": {
+    "description": "Label for option 'All terrain vehicle' for field 'vehicle-type-land'",
+    "message": "All terrain vehicle"
+  },
+  "fields.vehicle-type-land.options.Bicycle": {
+    "description": "Label for option 'Bicycle' for field 'vehicle-type-land'",
+    "message": "Bicycle"
+  },
+  "fields.vehicle-type-land.options.Bus": {
+    "description": "Label for option 'Bus' for field 'vehicle-type-land'",
+    "message": "Bus"
+  },
+  "fields.vehicle-type-land.options.Cargo van/truck": {
+    "description": "Label for option 'Cargo van/truck' for field 'vehicle-type-land'",
+    "message": "Cargo van/truck"
+  },
+  "fields.vehicle-type-land.options.Foot": {
+    "description": "Label for option 'Foot' for field 'vehicle-type-land'",
+    "message": "Foot"
+  },
+  "fields.vehicle-type-land.options.Motorcycle": {
+    "description": "Label for option 'Motorcycle' for field 'vehicle-type-land'",
+    "message": "Motorcycle"
+  },
+  "fields.vehicle-type-land.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-land'",
+    "message": "Other"
+  },
+  "fields.vehicle-type-land.options.Passenger van/car": {
+    "description": "Label for option 'Passenger van/car' for field 'vehicle-type-land'",
+    "message": "Passenger van/car"
+  },
+  "fields.vehicle-type-land.options.Train": {
+    "description": "Label for option 'Train' for field 'vehicle-type-land'",
+    "message": "Train"
+  },
   "fields.vehicle-type-land.placeholder": {
     "description": "An example to guide the user for field 'vehicle-type-land'",
     "message": "Select all that apply"
@@ -402,6 +1146,22 @@
   "fields.vehicle-type-water.label": {
     "description": "Label for field 'vehicle-type-water'",
     "message": "Vehicle type - water"
+  },
+  "fields.vehicle-type-water.options.Boat - inboard motor": {
+    "description": "Label for option 'Boat - inboard motor' for field 'vehicle-type-water'",
+    "message": "Boat - inboard motor"
+  },
+  "fields.vehicle-type-water.options.Boat - outboard motor": {
+    "description": "Label for option 'Boat - outboard motor' for field 'vehicle-type-water'",
+    "message": "Boat - outboard motor"
+  },
+  "fields.vehicle-type-water.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-water'",
+    "message": "Other"
+  },
+  "fields.vehicle-type-water.options.Small watercraft": {
+    "description": "Label for option 'Small watercraft' for field 'vehicle-type-water'",
+    "message": "Small watercraft"
   },
   "fields.vehicle-type-water.placeholder": {
     "description": "An example to guide the user for field 'vehicle-type-water'",
