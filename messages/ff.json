@@ -113,7 +113,7 @@
   },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
-    "message": "Tipo de animal"
+    "message": "Animal type"
   },
   "fields.animal-type.options.Bird": {
     "description": "Label for option 'Bird' for field 'animal-type'",
