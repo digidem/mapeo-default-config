@@ -1,1 +1,82 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Tipo di animale"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nome"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Nota"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Pista di atterraggio"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "Campo di aviazione, aeroporto, pista di atterraggio"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Animale"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "confine, frontiera"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Caverna"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Comunità"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "villaggio"
+  },
+  "presets.cultural-activity.terms": {
+    "description": "List of search terms for preset 'cultural-activity'",
+    "message": "racconto,sacro,storico,storia"
+  },
+  "presets.cultural-site.terms": {
+    "description": "List of search terms for preset 'cultural-site'",
+    "message": "racconto,sacro,storico,storia"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "pesce"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "raccolta"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "montagne"
+  },
+  "presets.logging.terms": {
+    "description": "List of search terms for preset 'logging'",
+    "message": "pericolo,illegale,monitoraggio"
+  },
+  "presets.mining.terms": {
+    "description": "List of search terms for preset 'mining'",
+    "message": "pericolo,illegale,monitoraggio"
+  },
+  "presets.other.name": {
+    "description": "The name of preset 'other'",
+    "message": "Altro"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Pianta"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Albero"
+  }
+}
