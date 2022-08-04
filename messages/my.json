@@ -1,1 +1,54 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "တိရစ္ဆာန်အမျိုးအစား"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "အမည်"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "မှတ်ချက်"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "လေယာဉ်ဆင်းကွင်း"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "လေယာဉ်ကွင်း/ လေဆိပ်/ မြေပြင်သို့ဆင်းသက်ခြင်း"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "တိရစ္ဆာန်"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "နယ်စပ်, နယ်ခြား"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "ဂူ/ ဥမင်"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "ဒေသခံပြည်သူ"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "ကျေးရွာ"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "ငါး"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "စုဆောင်းခြင်း"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "တောင်များ"
+  }
+}
