@@ -1,6 +1,6 @@
 {
     "key": "name",
-    "type": "localized",
+    "type": "text",
     "label": "Name",
     "universal": true,
     "placeholder": "What is this called?"
