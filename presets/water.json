@@ -1,10 +1,10 @@
 {
-    "icon": "water",
+    "icon": "water-way",
     "color": "#0033FF",
     "sort": 9,
     "fields": [
         "place-name",
-        "body-of-water-type",
+        "water-type",
         "conditions"
     ],
     "geometry": [

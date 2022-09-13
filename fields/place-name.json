@@ -1,6 +1,6 @@
 {
     "key": "place-name",
-    "type": "text",
+    "type": "localized",
     "label": "Place name",
     "universal": true,
     "placeholder": "What is the name of this place?"

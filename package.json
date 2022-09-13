@@ -1,6 +1,6 @@
 {
   "name": "mapeo-default-configuration",
-  "version": "4.0.0-beta-2",
+  "version": "4.0.0-beta-5",
   "description": "Mapeo default configuration (categories, icons, questions)",
   "dependencies": {},
   "devDependencies": {
@@ -14,7 +14,7 @@
     "prepublishOnly": "rimraf dist && mkdirp dist && npm run -s build && tar -C dist -xf build/${npm_package_name}-v${npm_package_version}.mapeosettings",
     "test": "mapeo-settings lint"
   },
-  "author": "Gregor MacLennan",
+  "author": "Dd",
   "license": "CC-BY-NC-4.0",
   "files": [
     "dist"
