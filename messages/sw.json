@@ -1,1 +1,6 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Aina ya mnyama"
+  }
+}
