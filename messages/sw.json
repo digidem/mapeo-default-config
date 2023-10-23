@@ -73,7 +73,7 @@
   },
   "fields.palm-species.label": {
     "description": "Label for field 'palm-species'",
-    "message": "Aina za mitende"
+    "message": "Spishi za mitende"
   },
   "fields.palm-species.placeholder": {
     "description": "An example to guide the user for field 'palm-species'",
@@ -81,7 +81,7 @@
   },
   "fields.plant-species.label": {
     "description": "Label for field 'plant-species'",
-    "message": "Aina za mimea"
+    "message": "Spishi za mimea"
   },
   "fields.plant-species.placeholder": {
     "description": "An example to guide the user for field 'plant-species'",
@@ -97,7 +97,7 @@
   },
   "fields.tree-species.label": {
     "description": "Label for field 'tree-species'",
-    "message": "Aina za miti"
+    "message": "Spishi za miti"
   },
   "fields.tree-species.placeholder": {
     "description": "An example to guide the user for field 'tree-species'",
@@ -177,7 +177,7 @@
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "Mahali pa Kukusanyikia"
+    "message": "Mahali pa Kutafuta chakula"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
@@ -201,7 +201,7 @@
   },
   "presets.hunting-site.name": {
     "description": "The name of preset 'hunting-site'",
-    "message": "Mahali pa Uwindaji"
+    "message": "Eneo la Uwindaji"
   },
   "presets.lake.name": {
     "description": "The name of preset 'lake'",
