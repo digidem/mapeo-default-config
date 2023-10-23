@@ -1,6 +1,338 @@
 {
+  "fields.access.label": {
+    "description": "Label for field 'access'",
+    "message": "Ufikiaji"
+  },
+  "fields.access.placeholder": {
+    "description": "An example to guide the user for field 'access'",
+    "message": "Ni nini kinachohitajika ili kufikia eneo, huduma au shughuli hii?"
+  },
+  "fields.activity-documented.label": {
+    "description": "Label for field 'activity-documented'",
+    "message": "Shughuli imerekodiwa"
+  },
+  "fields.activity-documented.options.Contamination": {
+    "description": "Label for option 'Contamination' for field 'activity-documented'",
+    "message": "Uchafuzi"
+  },
+  "fields.activity-documented.options.Deforestation": {
+    "description": "Label for option 'Deforestation' for field 'activity-documented'",
+    "message": "Ukataji miti"
+  },
+  "fields.activity-documented.options.Excavation": {
+    "description": "Label for option 'Excavation' for field 'activity-documented'",
+    "message": "Uchimbuaji"
+  },
+  "fields.activity-documented.options.Extraction": {
+    "description": "Label for option 'Extraction' for field 'activity-documented'",
+    "message": "Uziduaji"
+  },
+  "fields.activity-documented.options.Health crisis": {
+    "description": "Label for option 'Health crisis' for field 'activity-documented'",
+    "message": "Janga la kiafya"
+  },
+  "fields.activity-documented.options.Impacted waterway": {
+    "description": "Label for option 'Impacted waterway' for field 'activity-documented'",
+    "message": "Njia ya maji iliyoathiriwa"
+  },
+  "fields.activity-documented.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'activity-documented'",
+    "message": "Uvamizi"
+  },
+  "fields.activity-documented.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-documented'",
+    "message": "Nyingine"
+  },
+  "fields.activity-documented.options.Remediation": {
+    "description": "Label for option 'Remediation' for field 'activity-documented'",
+    "message": "Urekebishaji"
+  },
+  "fields.activity-documented.options.Spill": {
+    "description": "Label for option 'Spill' for field 'activity-documented'",
+    "message": "Umwagikaji"
+  },
+  "fields.activity-documented.options.Surveying/sampling": {
+    "description": "Label for option 'Surveying/sampling' for field 'activity-documented'",
+    "message": "Upimaji wa ardhi/kuchukua sampuli"
+  },
+  "fields.activity-documented.options.Unmaintained infrastructure": {
+    "description": "Label for option 'Unmaintained infrastructure' for field 'activity-documented'",
+    "message": "Miundombinu isiyotunzwa"
+  },
+  "fields.activity-progress.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-progress'",
+    "message": "Nyingine"
+  },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
     "message": "Aina ya mnyama"
+  },
+  "fields.animal-type.options.Other": {
+    "description": "Label for option 'Other' for field 'animal-type'",
+    "message": "Nyingine"
+  },
+  "fields.authorities-needed.options.Other": {
+    "description": "Label for option 'Other' for field 'authorities-needed'",
+    "message": "Nyingine"
+  },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "Ziwa"
+  },
+  "fields.body-of-water-type.options.Other": {
+    "description": "Label for option 'Other' for field 'body-of-water-type'",
+    "message": "Nyingine"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "Mto"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "Kijito"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "Poromoko la maji"
+  },
+  "fields.cultural-category.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-category'",
+    "message": "Nyingine"
+  },
+  "fields.cultural-mediums.options.Food/cuisine": {
+    "description": "Label for option 'Food/cuisine' for field 'cultural-mediums'",
+    "message": "Chakula/vyakula"
+  },
+  "fields.cultural-mediums.options.Game/sport": {
+    "description": "Label for option 'Game/sport' for field 'cultural-mediums'",
+    "message": "Mchezo/michezo"
+  },
+  "fields.cultural-mediums.options.Literary/poetry": {
+    "description": "Label for option 'Literary/poetry' for field 'cultural-mediums'",
+    "message": "Fasihi/shairi"
+  },
+  "fields.cultural-mediums.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-mediums'",
+    "message": "Nyingine"
+  },
+  "fields.cultural-mediums.options.Performance/presentation": {
+    "description": "Label for option 'Performance/presentation' for field 'cultural-mediums'",
+    "message": "Utendaji/uwasilishaji"
+  },
+  "fields.cultural-mediums.options.Place/site": {
+    "description": "Label for option 'Place/site' for field 'cultural-mediums'",
+    "message": "Mahali/eneo"
+  },
+  "fields.cultural-mediums.options.Rituals/customs": {
+    "description": "Label for option 'Rituals/customs' for field 'cultural-mediums'",
+    "message": "Tambiko/desturi"
+  },
+  "fields.cultural-mediums.options.Song/music": {
+    "description": "Label for option 'Song/music' for field 'cultural-mediums'",
+    "message": "Wimbo/muziki"
+  },
+  "fields.cultural-mediums.options.Storytelling/oral history": {
+    "description": "Label for option 'Storytelling/oral history' for field 'cultural-mediums'",
+    "message": "Kusimulia hadithi/simulizi ya historia"
+  },
+  "fields.cultural-mediums.options.Tools/technology": {
+    "description": "Label for option 'Tools/technology' for field 'cultural-mediums'",
+    "message": "Zana/teknolojia"
+  },
+  "fields.cultural-mediums.options.Visual art/exhibit/display": {
+    "description": "Label for option 'Visual art/exhibit/display' for field 'cultural-mediums'",
+    "message": "Sanaa ya maonyesho/maonyesho/onyesha"
+  },
+  "fields.cultural-name.label": {
+    "description": "Label for field 'cultural-name'",
+    "message": "Jina / neno la kitamaduni"
+  },
+  "fields.cultural-name.placeholder": {
+    "description": "An example to guide the user for field 'cultural-name'",
+    "message": "Hii inaitwaje?"
+  },
+  "fields.cultural-participation.label": {
+    "description": "Label for field 'cultural-participation'",
+    "message": "Ushiriki wa kitamaduni"
+  },
+  "fields.cultural-participation.options.Audience/spectator": {
+    "description": "Label for option 'Audience/spectator' for field 'cultural-participation'",
+    "message": "Hadhira/mtazamaji"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "Jumuia"
+  },
+  "fields.cultural-participation.options.Family": {
+    "description": "Label for option 'Family' for field 'cultural-participation'",
+    "message": "Familia"
+  },
+  "fields.cultural-participation.options.Group members": {
+    "description": "Label for option 'Group members' for field 'cultural-participation'",
+    "message": "Wanakikundi"
+  },
+  "fields.cultural-participation.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-participation'",
+    "message": "Nyingine"
+  },
+  "fields.cultural-participation.options.Participatory": {
+    "description": "Label for option 'Participatory' for field 'cultural-participation'",
+    "message": "Kushiriki"
+  },
+  "fields.cultural-participation.options.Private": {
+    "description": "Label for option 'Private' for field 'cultural-participation'",
+    "message": "Binafsi"
+  },
+  "fields.cultural-participation.options.Public": {
+    "description": "Label for option 'Public' for field 'cultural-participation'",
+    "message": "Umma"
+  },
+  "fields.cultural-participation.options.Visitors": {
+    "description": "Label for option 'Visitors' for field 'cultural-participation'",
+    "message": "Wageni"
+  },
+  "fields.ecosystem-type.options.Other": {
+    "description": "Label for option 'Other' for field 'ecosystem-type'",
+    "message": "Nyingine"
+  },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "Shamba"
+  },
+  "fields.food-source.options.Other": {
+    "description": "Label for option 'Other' for field 'food-source'",
+    "message": "Nyingine"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "Udongo"
+  },
+  "fields.gathering-type.options.Other": {
+    "description": "Label for option 'Other' for field 'gathering-type'",
+    "message": "Nyingine"
+  },
+  "fields.incident-type.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'incident-type'",
+    "message": "Uvamizi"
+  },
+  "fields.incident-type.options.Other": {
+    "description": "Label for option 'Other' for field 'incident-type'",
+    "message": "Nyingine"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Jina"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Hii inaitwaje?"
+  },
+  "fields.natural-event-type.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-event-type'",
+    "message": "Nyingine"
+  },
+  "fields.natural-resource.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-resource'",
+    "message": "Nyingine"
+  },
+  "fields.need-type.options.Other": {
+    "description": "Label for option 'Other' for field 'need-type'",
+    "message": "Nyingine"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Dokezo"
+  },
+  "fields.sample-type.options.Other": {
+    "description": "Label for option 'Other' for field 'sample-type'",
+    "message": "Nyingine"
+  },
+  "fields.service-type.options.Other": {
+    "description": "Label for option 'Other' for field 'service-type'",
+    "message": "Nyingine"
+  },
+  "fields.shelter-type.options.Other": {
+    "description": "Label for option 'Other' for field 'shelter-type'",
+    "message": "Nyingine"
+  },
+  "fields.vehicle-type-air.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-air'",
+    "message": "Nyingine"
+  },
+  "fields.vehicle-type-land.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-land'",
+    "message": "Nyingine"
+  },
+  "fields.vehicle-type-water.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-water'",
+    "message": "Nyingine"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Barabara ya ndege"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "kiwanja cha ndege,uwanja wa ndege,kutua"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Mnyama"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "mpaka/himaya"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Pango"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Jumuia"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "kijiji"
+  },
+  "presets.cultural-activity.terms": {
+    "description": "List of search terms for preset 'cultural-activity'",
+    "message": "hadithi,takatifu,kihistoria,historia"
+  },
+  "presets.cultural-site.terms": {
+    "description": "List of search terms for preset 'cultural-site'",
+    "message": "hadithi,takatifu,kihistoria,historia"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "samaki"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "mkusanyiko"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "milima"
+  },
+  "presets.logging.terms": {
+    "description": "List of search terms for preset 'logging'",
+    "message": "hatari,haramu,ufuatiliaji"
+  },
+  "presets.mining.terms": {
+    "description": "List of search terms for preset 'mining'",
+    "message": "hatari,haramu,ufuatiliaji"
+  },
+  "presets.other.name": {
+    "description": "The name of preset 'other'",
+    "message": "Nyingine"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Mmea"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Mti"
   }
 }
