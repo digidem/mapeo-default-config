@@ -741,7 +741,7 @@
   },
   "fields.need-type.label": {
     "description": "Label for field 'need-type'",
-    "message": "Aina ya haja"
+    "message": "Aina ya mahitaji"
   },
   "fields.need-type.options.Crisis response services": {
     "description": "Label for option 'Crisis response services' for field 'need-type'",
@@ -915,33 +915,125 @@
     "description": "An example to guide the user for field 'service-type'",
     "message": "Je, hili ni eneo la aina gani?"
   },
+  "fields.shelter-type.label": {
+    "description": "Label for field 'shelter-type'",
+    "message": "Aina ya makazi"
+  },
+  "fields.shelter-type.options.Not in use": {
+    "description": "Label for option 'Not in use' for field 'shelter-type'",
+    "message": "Haitumiki"
+  },
   "fields.shelter-type.options.Other": {
     "description": "Label for option 'Other' for field 'shelter-type'",
     "message": "Nyingine"
+  },
+  "fields.shelter-type.options.Permanent": {
+    "description": "Label for option 'Permanent' for field 'shelter-type'",
+    "message": "Kudumu"
+  },
+  "fields.shelter-type.options.Temporary": {
+    "description": "Label for option 'Temporary' for field 'shelter-type'",
+    "message": "Muda"
+  },
+  "fields.shelter-type.placeholder": {
+    "description": "An example to guide the user for field 'shelter-type'",
+    "message": "Je, haya ni makazi ya aina gani?"
+  },
+  "fields.vehicle-type-air.label": {
+    "description": "Label for field 'vehicle-type-air'",
+    "message": "Aina ya gari - hewa"
+  },
+  "fields.vehicle-type-air.options.Aircraft": {
+    "description": "Label for option 'Aircraft' for field 'vehicle-type-air'",
+    "message": "Ndege"
+  },
+  "fields.vehicle-type-air.options.Helicopter": {
+    "description": "Label for option 'Helicopter' for field 'vehicle-type-air'",
+    "message": "Helikopta"
   },
   "fields.vehicle-type-air.options.Other": {
     "description": "Label for option 'Other' for field 'vehicle-type-air'",
     "message": "Nyingine"
   },
+  "fields.vehicle-type-air.options.Small aircraft": {
+    "description": "Label for option 'Small aircraft' for field 'vehicle-type-air'",
+    "message": "Ndege ndogo"
+  },
   "fields.vehicle-type-air.placeholder": {
     "description": "An example to guide the user for field 'vehicle-type-air'",
     "message": "Chagua zote zinazotumika"
+  },
+  "fields.vehicle-type-land.label": {
+    "description": "Label for field 'vehicle-type-land'",
+    "message": "Aina ya gari - ardhi"
+  },
+  "fields.vehicle-type-land.options.All terrain vehicle": {
+    "description": "Label for option 'All terrain vehicle' for field 'vehicle-type-land'",
+    "message": "Gari linalotumika kwenye barabara zote"
+  },
+  "fields.vehicle-type-land.options.Bicycle": {
+    "description": "Label for option 'Bicycle' for field 'vehicle-type-land'",
+    "message": "Baiskeli"
+  },
+  "fields.vehicle-type-land.options.Bus": {
+    "description": "Label for option 'Bus' for field 'vehicle-type-land'",
+    "message": "Basi"
+  },
+  "fields.vehicle-type-land.options.Cargo van/truck": {
+    "description": "Label for option 'Cargo van/truck' for field 'vehicle-type-land'",
+    "message": "Gari la mizigo/lori"
+  },
+  "fields.vehicle-type-land.options.Foot": {
+    "description": "Label for option 'Foot' for field 'vehicle-type-land'",
+    "message": "Kwa miguu"
+  },
+  "fields.vehicle-type-land.options.Motorcycle": {
+    "description": "Label for option 'Motorcycle' for field 'vehicle-type-land'",
+    "message": "Pikipiki"
   },
   "fields.vehicle-type-land.options.Other": {
     "description": "Label for option 'Other' for field 'vehicle-type-land'",
     "message": "Nyingine"
   },
+  "fields.vehicle-type-land.options.Passenger van/car": {
+    "description": "Label for option 'Passenger van/car' for field 'vehicle-type-land'",
+    "message": "Gari/gari la abiria"
+  },
+  "fields.vehicle-type-land.options.Train": {
+    "description": "Label for option 'Train' for field 'vehicle-type-land'",
+    "message": "Treni"
+  },
   "fields.vehicle-type-land.placeholder": {
     "description": "An example to guide the user for field 'vehicle-type-land'",
     "message": "Chagua zote zinazotumika"
+  },
+  "fields.vehicle-type-water.label": {
+    "description": "Label for field 'vehicle-type-water'",
+    "message": "Aina ya gari - maji"
+  },
+  "fields.vehicle-type-water.options.Boat - inboard motor": {
+    "description": "Label for option 'Boat - inboard motor' for field 'vehicle-type-water'",
+    "message": "Mashua - injini ya ndani"
+  },
+  "fields.vehicle-type-water.options.Boat - outboard motor": {
+    "description": "Label for option 'Boat - outboard motor' for field 'vehicle-type-water'",
+    "message": "Mashua - injini ya nje"
   },
   "fields.vehicle-type-water.options.Other": {
     "description": "Label for option 'Other' for field 'vehicle-type-water'",
     "message": "Nyingine"
   },
+  "fields.vehicle-type-water.options.Small watercraft": {
+    "description": "Label for option 'Small watercraft' for field 'vehicle-type-water'",
+    "message": "Boti ndogo"
+  },
   "fields.vehicle-type-water.placeholder": {
     "description": "An example to guide the user for field 'vehicle-type-water'",
     "message": "Chagua zote zinazotumika"
+  },
+  "presets.agroindustry.name": {
+    "description": "The name of preset 'agroindustry'",
+    "message": "Tasnia ya kilimo"
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
@@ -955,6 +1047,10 @@
     "description": "The name of preset 'animal'",
     "message": "Mnyama"
   },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "Mpaka / mpaka"
+  },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "mpaka/himaya"
@@ -962,6 +1058,14 @@
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
     "message": "Pango"
+  },
+  "presets.community-infrastructure-service.name": {
+    "description": "The name of preset 'community-infrastructure-service'",
+    "message": "Miundombinu / huduma ya jumuia"
+  },
+  "presets.community-need.name": {
+    "description": "The name of preset 'community-need'",
+    "message": "Mahitaji ya jumuia"
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
@@ -971,13 +1075,37 @@
     "description": "List of search terms for preset 'community'",
     "message": "kijiji"
   },
+  "presets.cultivation.name": {
+    "description": "The name of preset 'cultivation'",
+    "message": "Ukulima wa ndani / jumuiya"
+  },
+  "presets.cultural-activity.name": {
+    "description": "The name of preset 'cultural-activity'",
+    "message": "Shughuli ya kitamaduni"
+  },
   "presets.cultural-activity.terms": {
     "description": "List of search terms for preset 'cultural-activity'",
     "message": "hadithi,takatifu,kihistoria,historia"
   },
+  "presets.cultural-site.name": {
+    "description": "The name of preset 'cultural-site'",
+    "message": "Eneo la kitamaduni"
+  },
   "presets.cultural-site.terms": {
     "description": "List of search terms for preset 'cultural-site'",
     "message": "hadithi,takatifu,kihistoria,historia"
+  },
+  "presets.dam.name": {
+    "description": "The name of preset 'dam'",
+    "message": "Bwawa"
+  },
+  "presets.ecosystem.name": {
+    "description": "The name of preset 'ecosystem'",
+    "message": "Mfumo wa ikolojia"
+  },
+  "presets.field-test.name": {
+    "description": "The name of preset 'field-test'",
+    "message": "Matokeo ya kipimo cha shamba"
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
