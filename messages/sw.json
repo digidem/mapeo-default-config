@@ -59,21 +59,129 @@
     "description": "Label for option 'Unmaintained infrastructure' for field 'activity-documented'",
     "message": "Miundombinu isiyotunzwa"
   },
+  "fields.activity-documented.placeholder": {
+    "description": "An example to guide the user for field 'activity-documented'",
+    "message": "Chagua zote zinazotumika"
+  },
+  "fields.activity-progress.label": {
+    "description": "Label for field 'activity-progress'",
+    "message": "Maendeleo ya shughuli"
+  },
+  "fields.activity-progress.options.Active/in-progress": {
+    "description": "Label for option 'Active/in-progress' for field 'activity-progress'",
+    "message": "Inayotumika/inayoendelea"
+  },
+  "fields.activity-progress.options.Inactive/complete": {
+    "description": "Label for option 'Inactive/complete' for field 'activity-progress'",
+    "message": "Haitumiki/imekamilika"
+  },
+  "fields.activity-progress.options.Initial stages": {
+    "description": "Label for option 'Initial stages' for field 'activity-progress'",
+    "message": "Hatua za mwanzo"
+  },
   "fields.activity-progress.options.Other": {
     "description": "Label for option 'Other' for field 'activity-progress'",
     "message": "Nyingine"
+  },
+  "fields.activity-progress.options.Repeat activity": {
+    "description": "Label for option 'Repeat activity' for field 'activity-progress'",
+    "message": "Rudia shughuli"
+  },
+  "fields.activity-progress.options.Temporarily suspended": {
+    "description": "Label for option 'Temporarily suspended' for field 'activity-progress'",
+    "message": "Imesimamishwa kwa muda"
+  },
+  "fields.activity-progress.placeholder": {
+    "description": "An example to guide the user for field 'activity-progress'",
+    "message": "Chagua moja"
   },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
     "message": "Aina ya mnyama"
   },
+  "fields.animal-type.options.Bird": {
+    "description": "Label for option 'Bird' for field 'animal-type'",
+    "message": "Ndege"
+  },
+  "fields.animal-type.options.Fish": {
+    "description": "Label for option 'Fish' for field 'animal-type'",
+    "message": "Samaki"
+  },
+  "fields.animal-type.options.Mammal": {
+    "description": "Label for option 'Mammal' for field 'animal-type'",
+    "message": "Mamalia"
+  },
   "fields.animal-type.options.Other": {
     "description": "Label for option 'Other' for field 'animal-type'",
     "message": "Nyingine"
   },
+  "fields.animal-type.options.Reptile/amphibian": {
+    "description": "Label for option 'Reptile/amphibian' for field 'animal-type'",
+    "message": "Mtambaazi/amfibia"
+  },
+  "fields.animal-type.placeholder": {
+    "description": "An example to guide the user for field 'animal-type'",
+    "message": "Chagua moja"
+  },
+  "fields.authorities-needed.label": {
+    "description": "Label for field 'authorities-needed'",
+    "message": "Mamlaka zinazohitajika au zinazohusika"
+  },
+  "fields.authorities-needed.options.Health authorities": {
+    "description": "Label for option 'Health authorities' for field 'authorities-needed'",
+    "message": "Mamlaka za afya"
+  },
+  "fields.authorities-needed.options.Local leadership": {
+    "description": "Label for option 'Local leadership' for field 'authorities-needed'",
+    "message": "Uongozi wa ndani"
+  },
+  "fields.authorities-needed.options.Munilcipal police": {
+    "description": "Label for option 'Munilcipal police' for field 'authorities-needed'",
+    "message": "Polisi wa Manispaa"
+  },
+  "fields.authorities-needed.options.National law enforcment": {
+    "description": "Label for option 'National law enforcment' for field 'authorities-needed'",
+    "message": "Utekelezaji wa sheria za kitaifa"
+  },
+  "fields.authorities-needed.options.None": {
+    "description": "Label for option 'None' for field 'authorities-needed'",
+    "message": "Hakuna"
+  },
   "fields.authorities-needed.options.Other": {
     "description": "Label for option 'Other' for field 'authorities-needed'",
     "message": "Nyingine"
+  },
+  "fields.authorities-needed.options.Park rangers": {
+    "description": "Label for option 'Park rangers' for field 'authorities-needed'",
+    "message": "Walinzi wa mbuga"
+  },
+  "fields.authorities-needed.options.Private security": {
+    "description": "Label for option 'Private security' for field 'authorities-needed'",
+    "message": "Usalama wa kibinafsi"
+  },
+  "fields.authorities-needed.options.Regional law enforcement": {
+    "description": "Label for option 'Regional law enforcement' for field 'authorities-needed'",
+    "message": "Utekelezaji wa sheria wa kikanda"
+  },
+  "fields.authorities-needed.placeholder": {
+    "description": "An example to guide the user for field 'authorities-needed'",
+    "message": "Chagua zote zinazotumika"
+  },
+  "fields.body-of-water-type.label": {
+    "description": "Label for field 'body-of-water-type'",
+    "message": "Aina ya maji"
+  },
+  "fields.body-of-water-type.options.Delta": {
+    "description": "Label for option 'Delta' for field 'body-of-water-type'",
+    "message": "Delta"
+  },
+  "fields.body-of-water-type.options.Glacier": {
+    "description": "Label for option 'Glacier' for field 'body-of-water-type'",
+    "message": "Mto wa barafu"
+  },
+  "fields.body-of-water-type.options.Headwaters": {
+    "description": "Label for option 'Headwaters' for field 'body-of-water-type'",
+    "message": "Chanzo cha maji"
   },
   "fields.body-of-water-type.options.Lake": {
     "description": "Label for option 'Lake' for field 'body-of-water-type'",
@@ -83,6 +191,14 @@
     "description": "Label for option 'Other' for field 'body-of-water-type'",
     "message": "Nyingine"
   },
+  "fields.body-of-water-type.options.Pond": {
+    "description": "Label for option 'Pond' for field 'body-of-water-type'",
+    "message": "Dimbwi"
+  },
+  "fields.body-of-water-type.options.Rapids": {
+    "description": "Label for option 'Rapids' for field 'body-of-water-type'",
+    "message": "Mikondo ya nguvu"
+  },
   "fields.body-of-water-type.options.River": {
     "description": "Label for option 'River' for field 'body-of-water-type'",
     "message": "Mto"
@@ -91,13 +207,117 @@
     "description": "Label for option 'Stream' for field 'body-of-water-type'",
     "message": "Kijito"
   },
+  "fields.body-of-water-type.options.Subsurface water table": {
+    "description": "Label for option 'Subsurface water table' for field 'body-of-water-type'",
+    "message": "Maji ya chini ya ardhi"
+  },
   "fields.body-of-water-type.options.Waterfall": {
     "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
     "message": "Poromoko la maji"
   },
+  "fields.body-of-water-type.placeholder": {
+    "description": "An example to guide the user for field 'body-of-water-type'",
+    "message": "Chagua nyingi kadri zinavyotumika"
+  },
+  "fields.common-translations.label": {
+    "description": "Label for field 'common-translations'",
+    "message": "Tafsiri za kawaida"
+  },
+  "fields.common-translations.placeholder": {
+    "description": "An example to guide the user for field 'common-translations'",
+    "message": "Je, ni tafsiri zipi za kawaida za neno/mahali hapa?"
+  },
+  "fields.conditions.label": {
+    "description": "Label for field 'conditions'",
+    "message": "Hali"
+  },
+  "fields.conditions.options.Expected": {
+    "description": "Label for option 'Expected' for field 'conditions'",
+    "message": "Inatarajiwa"
+  },
+  "fields.conditions.options.Unusual": {
+    "description": "Label for option 'Unusual' for field 'conditions'",
+    "message": "Si kawaida"
+  },
+  "fields.conditions.placeholder": {
+    "description": "An example to guide the user for field 'conditions'",
+    "message": "Chagua moja"
+  },
+  "fields.cultural-category.label": {
+    "description": "Label for field 'cultural-category'",
+    "message": "Kategoria ya kitamaduni"
+  },
+  "fields.cultural-category.options.Archeological": {
+    "description": "Label for option 'Archeological' for field 'cultural-category'",
+    "message": "Akiolojia"
+  },
+  "fields.cultural-category.options.Gathering site": {
+    "description": "Label for option 'Gathering site' for field 'cultural-category'",
+    "message": "Mahali pa kutafuta chakula"
+  },
+  "fields.cultural-category.options.Historical": {
+    "description": "Label for option 'Historical' for field 'cultural-category'",
+    "message": "Kihistoria"
+  },
+  "fields.cultural-category.options.Mythological": {
+    "description": "Label for option 'Mythological' for field 'cultural-category'",
+    "message": "Mithiolojia"
+  },
   "fields.cultural-category.options.Other": {
     "description": "Label for option 'Other' for field 'cultural-category'",
     "message": "Nyingine"
+  },
+  "fields.cultural-category.options.Sacred": {
+    "description": "Label for option 'Sacred' for field 'cultural-category'",
+    "message": "Takatifu"
+  },
+  "fields.cultural-category.options.Story": {
+    "description": "Label for option 'Story' for field 'cultural-category'",
+    "message": "Hadithi"
+  },
+  "fields.cultural-category.placeholder": {
+    "description": "An example to guide the user for field 'cultural-category'",
+    "message": "Chagua zote zinazotumika"
+  },
+  "fields.cultural-details.label": {
+    "description": "Label for field 'cultural-details'",
+    "message": "Maelezo ya kitamaduni"
+  },
+  "fields.cultural-details.placeholder": {
+    "description": "An example to guide the user for field 'cultural-details'",
+    "message": "Ongeza maelezo/hadithi zinazohusiana na utamaduni wa mahali ulipo"
+  },
+  "fields.cultural-mediums.label": {
+    "description": "Label for field 'cultural-mediums'",
+    "message": "Njia za kitamaduni"
+  },
+  "fields.cultural-mediums.options.Ceremony": {
+    "description": "Label for option 'Ceremony' for field 'cultural-mediums'",
+    "message": "Sherehe"
+  },
+  "fields.cultural-mediums.options.Clothing/adornment": {
+    "description": "Label for option 'Clothing/adornment' for field 'cultural-mediums'",
+    "message": "Mavazi/mapambo"
+  },
+  "fields.cultural-mediums.options.Dance/play": {
+    "description": "Label for option 'Dance/play' for field 'cultural-mediums'",
+    "message": "Dansi/mchezo"
+  },
+  "fields.cultural-mediums.options.Decoration": {
+    "description": "Label for option 'Decoration' for field 'cultural-mediums'",
+    "message": "Mapambo"
+  },
+  "fields.cultural-mediums.options.Design/architecture": {
+    "description": "Label for option 'Design/architecture' for field 'cultural-mediums'",
+    "message": "Ubunifu/usanifu majengo"
+  },
+  "fields.cultural-mediums.options.Digital media": {
+    "description": "Label for option 'Digital media' for field 'cultural-mediums'",
+    "message": "Vyombo vya habari vya kidijitali"
+  },
+  "fields.cultural-mediums.options.Event": {
+    "description": "Label for option 'Event' for field 'cultural-mediums'",
+    "message": "Tukio"
   },
   "fields.cultural-mediums.options.Food/cuisine": {
     "description": "Label for option 'Food/cuisine' for field 'cultural-mediums'",
@@ -142,6 +362,10 @@
   "fields.cultural-mediums.options.Visual art/exhibit/display": {
     "description": "Label for option 'Visual art/exhibit/display' for field 'cultural-mediums'",
     "message": "Sanaa ya maonyesho/maonyesho/onyesha"
+  },
+  "fields.cultural-mediums.placeholder": {
+    "description": "An example to guide the user for field 'cultural-mediums'",
+    "message": "Chagua zote zinazotumika"
   },
   "fields.cultural-name.label": {
     "description": "Label for field 'cultural-name'",
@@ -191,33 +415,241 @@
     "description": "Label for option 'Visitors' for field 'cultural-participation'",
     "message": "Wageni"
   },
+  "fields.cultural-participation.placeholder": {
+    "description": "An example to guide the user for field 'cultural-participation'",
+    "message": "Chagua zote zinazotumika"
+  },
+  "fields.ecological-status.label": {
+    "description": "Label for field 'ecological-status'",
+    "message": "Hali ya kiikolojia"
+  },
+  "fields.ecological-status.options.Controlled species": {
+    "description": "Label for option 'Controlled species' for field 'ecological-status'",
+    "message": "Spishi zinazodhibitiwa"
+  },
+  "fields.ecological-status.options.Invasive species": {
+    "description": "Label for option 'Invasive species' for field 'ecological-status'",
+    "message": "Spishi vamizi"
+  },
+  "fields.ecological-status.options.Native species": {
+    "description": "Label for option 'Native species' for field 'ecological-status'",
+    "message": "Spishi za asili"
+  },
+  "fields.ecological-status.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'ecological-status'",
+    "message": "Sina uhakika"
+  },
+  "fields.ecological-status.placeholder": {
+    "description": "An example to guide the user for field 'ecological-status'",
+    "message": "Chagua moja"
+  },
+  "fields.ecosystem-type.label": {
+    "description": "Label for field 'ecosystem-type'",
+    "message": "Aina ya mfumo wa ikolojia"
+  },
+  "fields.ecosystem-type.options.Desert": {
+    "description": "Label for option 'Desert' for field 'ecosystem-type'",
+    "message": "Jangwa"
+  },
+  "fields.ecosystem-type.options.Forest/woodland": {
+    "description": "Label for option 'Forest/woodland' for field 'ecosystem-type'",
+    "message": "Msitu/eneo lenye miti"
+  },
+  "fields.ecosystem-type.options.Grasslands": {
+    "description": "Label for option 'Grasslands' for field 'ecosystem-type'",
+    "message": "Kanda za mbuga"
+  },
+  "fields.ecosystem-type.options.Mangrove": {
+    "description": "Label for option 'Mangrove' for field 'ecosystem-type'",
+    "message": "Mkandaa"
+  },
   "fields.ecosystem-type.options.Other": {
     "description": "Label for option 'Other' for field 'ecosystem-type'",
     "message": "Nyingine"
+  },
+  "fields.ecosystem-type.options.Permafrost": {
+    "description": "Label for option 'Permafrost' for field 'ecosystem-type'",
+    "message": "Udongo jalidi"
+  },
+  "fields.ecosystem-type.options.Ravine": {
+    "description": "Label for option 'Ravine' for field 'ecosystem-type'",
+    "message": "Korongo"
+  },
+  "fields.ecosystem-type.options.Tundra": {
+    "description": "Label for option 'Tundra' for field 'ecosystem-type'",
+    "message": "Tambarare pana isiyokuwa na miti"
+  },
+  "fields.ecosystem-type.options.Wetland": {
+    "description": "Label for option 'Wetland' for field 'ecosystem-type'",
+    "message": "Eneo lenye maji mengi"
+  },
+  "fields.ecosystem-type.placeholder": {
+    "description": "An example to guide the user for field 'ecosystem-type'",
+    "message": "Chagua moja"
+  },
+  "fields.field-test-details.label": {
+    "description": "Label for field 'field-test-details'",
+    "message": "Maelezo ya kipimo cha shamba"
+  },
+  "fields.field-test-details.placeholder": {
+    "description": "An example to guide the user for field 'field-test-details'",
+    "message": "Eleza kipimo kilichotumika, sampuli na uchunguzi "
+  },
+  "fields.food-source.label": {
+    "description": "Label for field 'food-source'",
+    "message": "Chanzo cha chakula"
   },
   "fields.food-source.options.Farmland": {
     "description": "Label for option 'Farmland' for field 'food-source'",
     "message": "Shamba"
   },
+  "fields.food-source.options.Fishing area": {
+    "description": "Label for option 'Fishing area' for field 'food-source'",
+    "message": "Eneo la uvuvi"
+  },
+  "fields.food-source.options.Food forest": {
+    "description": "Label for option 'Food forest' for field 'food-source'",
+    "message": "Msitu wa chakula"
+  },
+  "fields.food-source.options.Foraging": {
+    "description": "Label for option 'Foraging' for field 'food-source'",
+    "message": "Kutafuta chakula"
+  },
+  "fields.food-source.options.Garden": {
+    "description": "Label for option 'Garden' for field 'food-source'",
+    "message": "Bustani"
+  },
+  "fields.food-source.options.Hunting": {
+    "description": "Label for option 'Hunting' for field 'food-source'",
+    "message": "Uwindaji"
+  },
   "fields.food-source.options.Other": {
     "description": "Label for option 'Other' for field 'food-source'",
     "message": "Nyingine"
+  },
+  "fields.food-source.options.Pasture": {
+    "description": "Label for option 'Pasture' for field 'food-source'",
+    "message": "Malisho"
+  },
+  "fields.food-source.options.Permaculture": {
+    "description": "Label for option 'Permaculture' for field 'food-source'",
+    "message": "Mifumo endelevu ya ikolojia ya kilimo"
+  },
+  "fields.food-source.options.Trap": {
+    "description": "Label for option 'Trap' for field 'food-source'",
+    "message": "Mtego"
+  },
+  "fields.food-source.options.Trapline": {
+    "description": "Label for option 'Trapline' for field 'food-source'",
+    "message": "Mstari wa mtego"
+  },
+  "fields.food-source.placeholder": {
+    "description": "An example to guide the user for field 'food-source'",
+    "message": "Chagua zote zinazotumika"
+  },
+  "fields.gathering-type.label": {
+    "description": "Label for field 'gathering-type'",
+    "message": "Aina ya utafutaji wa chakula"
+  },
+  "fields.gathering-type.options.Berries": {
+    "description": "Label for option 'Berries' for field 'gathering-type'",
+    "message": "Beri"
   },
   "fields.gathering-type.options.Clay": {
     "description": "Label for option 'Clay' for field 'gathering-type'",
     "message": "Udongo"
   },
+  "fields.gathering-type.options.Fibers": {
+    "description": "Label for option 'Fibers' for field 'gathering-type'",
+    "message": "Fumwele"
+  },
+  "fields.gathering-type.options.Honey": {
+    "description": "Label for option 'Honey' for field 'gathering-type'",
+    "message": "Asali"
+  },
+  "fields.gathering-type.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'gathering-type'",
+    "message": "Dawa"
+  },
+  "fields.gathering-type.options.Mushrooms": {
+    "description": "Label for option 'Mushrooms' for field 'gathering-type'",
+    "message": "Uyoga"
+  },
   "fields.gathering-type.options.Other": {
     "description": "Label for option 'Other' for field 'gathering-type'",
     "message": "Nyingine"
+  },
+  "fields.gathering-type.options.Tree fruit": {
+    "description": "Label for option 'Tree fruit' for field 'gathering-type'",
+    "message": "Matunda ya mti"
+  },
+  "fields.gathering-type.placeholder": {
+    "description": "An example to guide the user for field 'gathering-type'",
+    "message": "Nyenzo zinazopatikana hapa"
+  },
+  "fields.incident-type.label": {
+    "description": "Label for field 'incident-type'",
+    "message": "Aina ya tukio"
+  },
+  "fields.incident-type.options.Conflict": {
+    "description": "Label for option 'Conflict' for field 'incident-type'",
+    "message": "Mgogoro"
+  },
+  "fields.incident-type.options.Human rights violation": {
+    "description": "Label for option 'Human rights violation' for field 'incident-type'",
+    "message": "Ukiukaji wa haki za binadamu"
+  },
+  "fields.incident-type.options.Illness": {
+    "description": "Label for option 'Illness' for field 'incident-type'",
+    "message": "Ugonjwa"
+  },
+  "fields.incident-type.options.Injury": {
+    "description": "Label for option 'Injury' for field 'incident-type'",
+    "message": "Jeraha"
   },
   "fields.incident-type.options.Invasion": {
     "description": "Label for option 'Invasion' for field 'incident-type'",
     "message": "Uvamizi"
   },
+  "fields.incident-type.options.Material damage": {
+    "description": "Label for option 'Material damage' for field 'incident-type'",
+    "message": "Uharibifu wa nyenzo"
+  },
   "fields.incident-type.options.Other": {
     "description": "Label for option 'Other' for field 'incident-type'",
     "message": "Nyingine"
+  },
+  "fields.incident-type.options.Theft": {
+    "description": "Label for option 'Theft' for field 'incident-type'",
+    "message": "Wizi"
+  },
+  "fields.incident-type.options.Violence": {
+    "description": "Label for option 'Violence' for field 'incident-type'",
+    "message": "Vurugu"
+  },
+  "fields.incident-type.placeholder": {
+    "description": "An example to guide the user for field 'incident-type'",
+    "message": "Chagua zote zinazotumika"
+  },
+  "fields.issue-priority.label": {
+    "description": "Label for field 'issue-priority'",
+    "message": "Suala kipaumbele"
+  },
+  "fields.issue-priority.options.Important issue": {
+    "description": "Label for option 'Important issue' for field 'issue-priority'",
+    "message": "Suala muhimu"
+  },
+  "fields.issue-priority.options.Inconvenience": {
+    "description": "Label for option 'Inconvenience' for field 'issue-priority'",
+    "message": "Usumbufu"
+  },
+  "fields.issue-priority.options.Urgent issue": {
+    "description": "Label for option 'Urgent issue' for field 'issue-priority'",
+    "message": "Suala la dharura"
+  },
+  "fields.issue-priority.placeholder": {
+    "description": "An example to guide the user for field 'issue-priority'",
+    "message": "Je, hii inakuathiri kwa kiasi gani?"
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
@@ -227,29 +659,261 @@
     "description": "An example to guide the user for field 'name'",
     "message": "Hii inaitwaje?"
   },
+  "fields.natural-event-type.label": {
+    "description": "Label for field 'natural-event-type'",
+    "message": "Aina ya tukio la asili"
+  },
+  "fields.natural-event-type.options.Drought": {
+    "description": "Label for option 'Drought' for field 'natural-event-type'",
+    "message": "Ukame"
+  },
+  "fields.natural-event-type.options.Fire": {
+    "description": "Label for option 'Fire' for field 'natural-event-type'",
+    "message": "Moto"
+  },
+  "fields.natural-event-type.options.Flood": {
+    "description": "Label for option 'Flood' for field 'natural-event-type'",
+    "message": "Mafuriko"
+  },
   "fields.natural-event-type.options.Other": {
     "description": "Label for option 'Other' for field 'natural-event-type'",
     "message": "Nyingine"
+  },
+  "fields.natural-event-type.options.Storm": {
+    "description": "Label for option 'Storm' for field 'natural-event-type'",
+    "message": "Dhoruba"
+  },
+  "fields.natural-event-type.placeholder": {
+    "description": "An example to guide the user for field 'natural-event-type'",
+    "message": "Chagua moja"
+  },
+  "fields.natural-resource.label": {
+    "description": "Label for field 'natural-resource'",
+    "message": "Maliasili"
+  },
+  "fields.natural-resource.options.Artisanry": {
+    "description": "Label for option 'Artisanry' for field 'natural-resource'",
+    "message": "Ufundi"
+  },
+  "fields.natural-resource.options.Clothing": {
+    "description": "Label for option 'Clothing' for field 'natural-resource'",
+    "message": "Mavazi"
+  },
+  "fields.natural-resource.options.Communication": {
+    "description": "Label for option 'Communication' for field 'natural-resource'",
+    "message": "Mawasiliano"
+  },
+  "fields.natural-resource.options.Food": {
+    "description": "Label for option 'Food' for field 'natural-resource'",
+    "message": "Chakula"
+  },
+  "fields.natural-resource.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'natural-resource'",
+    "message": "Dawa"
   },
   "fields.natural-resource.options.Other": {
     "description": "Label for option 'Other' for field 'natural-resource'",
     "message": "Nyingine"
   },
+  "fields.natural-resource.options.Revenue": {
+    "description": "Label for option 'Revenue' for field 'natural-resource'",
+    "message": "Mapato"
+  },
+  "fields.natural-resource.options.Shelter": {
+    "description": "Label for option 'Shelter' for field 'natural-resource'",
+    "message": "Hifadhi"
+  },
+  "fields.natural-resource.options.Tools": {
+    "description": "Label for option 'Tools' for field 'natural-resource'",
+    "message": "Zana"
+  },
+  "fields.natural-resource.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'natural-resource'",
+    "message": "Usafirishaji"
+  },
+  "fields.natural-resource.options.Water": {
+    "description": "Label for option 'Water' for field 'natural-resource'",
+    "message": "Maji"
+  },
+  "fields.natural-resource.placeholder": {
+    "description": "An example to guide the user for field 'natural-resource'",
+    "message": "Hiki ni chanzo cha"
+  },
+  "fields.need-type.label": {
+    "description": "Label for field 'need-type'",
+    "message": "Aina ya haja"
+  },
+  "fields.need-type.options.Crisis response services": {
+    "description": "Label for option 'Crisis response services' for field 'need-type'",
+    "message": "Huduma za kukabiliana na majanga"
+  },
+  "fields.need-type.options.Food": {
+    "description": "Label for option 'Food' for field 'need-type'",
+    "message": "Chakula"
+  },
+  "fields.need-type.options.Health services": {
+    "description": "Label for option 'Health services' for field 'need-type'",
+    "message": "Huduma za afya"
+  },
+  "fields.need-type.options.Law enforcement": {
+    "description": "Label for option 'Law enforcement' for field 'need-type'",
+    "message": "Utekelezaji wa sheria"
+  },
   "fields.need-type.options.Other": {
     "description": "Label for option 'Other' for field 'need-type'",
     "message": "Nyingine"
+  },
+  "fields.need-type.options.Potable water": {
+    "description": "Label for option 'Potable water' for field 'need-type'",
+    "message": "Maji safi"
+  },
+  "fields.need-type.options.Shelter/housing": {
+    "description": "Label for option 'Shelter/housing' for field 'need-type'",
+    "message": "Makazi/nyumba"
+  },
+  "fields.need-type.options.Supplies/materials": {
+    "description": "Label for option 'Supplies/materials' for field 'need-type'",
+    "message": "Vifaa/nyenzo"
+  },
+  "fields.need-type.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'need-type'",
+    "message": "Usafirishaji"
+  },
+  "fields.need-type.placeholder": {
+    "description": "An example to guide the user for field 'need-type'",
+    "message": "Chagua zote zinazotumika"
   },
   "fields.note.label": {
     "description": "Label for field 'note'",
     "message": "Dokezo"
   },
+  "fields.note.placeholder": {
+    "description": "An example to guide the user for field 'note'",
+    "message": "Maelezo ya jumla"
+  },
+  "fields.permission.label": {
+    "description": "Label for field 'permission'",
+    "message": "Ruhusa"
+  },
+  "fields.permission.options.Insufficient consultation": {
+    "description": "Label for option 'Insufficient consultation' for field 'permission'",
+    "message": "Ushauri usiotosha"
+  },
+  "fields.permission.options.Not permitted": {
+    "description": "Label for option 'Not permitted' for field 'permission'",
+    "message": "Hairuhusiwi"
+  },
+  "fields.permission.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'permission'",
+    "message": "Sina uhakika"
+  },
+  "fields.permission.options.Permitted": {
+    "description": "Label for option 'Permitted' for field 'permission'",
+    "message": "Inaruhusiwa"
+  },
+  "fields.permission.placeholder": {
+    "description": "An example to guide the user for field 'permission'",
+    "message": "Chagua moja"
+  },
+  "fields.place-name.label": {
+    "description": "Label for field 'place-name'",
+    "message": "Jina la mahali"
+  },
+  "fields.place-name.placeholder": {
+    "description": "An example to guide the user for field 'place-name'",
+    "message": "Mahali hapa panaitwaje?"
+  },
+  "fields.presumed-responsible.label": {
+    "description": "Label for field 'presumed-responsible'",
+    "message": "Uwajibikaji unaodaiwa"
+  },
+  "fields.presumed-responsible.placeholder": {
+    "description": "An example to guide the user for field 'presumed-responsible'",
+    "message": "Ni nani au ni nini kinachosababisha hali hiyo?"
+  },
+  "fields.sample-type.label": {
+    "description": "Label for field 'sample-type'",
+    "message": "Aina ya sampuli"
+  },
+  "fields.sample-type.options.Air": {
+    "description": "Label for option 'Air' for field 'sample-type'",
+    "message": "Hewa"
+  },
+  "fields.sample-type.options.Forestry/vegetation": {
+    "description": "Label for option 'Forestry/vegetation' for field 'sample-type'",
+    "message": "Misitu/mimea"
+  },
+  "fields.sample-type.options.Meteorological": {
+    "description": "Label for option 'Meteorological' for field 'sample-type'",
+    "message": "Hali ya hewa"
+  },
+  "fields.sample-type.options.Mineral": {
+    "description": "Label for option 'Mineral' for field 'sample-type'",
+    "message": "Madini"
+  },
   "fields.sample-type.options.Other": {
     "description": "Label for option 'Other' for field 'sample-type'",
     "message": "Nyingine"
   },
+  "fields.sample-type.options.Soil": {
+    "description": "Label for option 'Soil' for field 'sample-type'",
+    "message": "Udongo"
+  },
+  "fields.sample-type.options.Water": {
+    "description": "Label for option 'Water' for field 'sample-type'",
+    "message": "Maji"
+  },
+  "fields.sample-type.placeholder": {
+    "description": "An example to guide the user for field 'sample-type'",
+    "message": "Chagua aina ya kipimo"
+  },
+  "fields.service-type.label": {
+    "description": "Label for field 'service-type'",
+    "message": "Aina ya huduma"
+  },
+  "fields.service-type.options.Communication": {
+    "description": "Label for option 'Communication' for field 'service-type'",
+    "message": "Mawasiliano"
+  },
+  "fields.service-type.options.Education": {
+    "description": "Label for option 'Education' for field 'service-type'",
+    "message": "Elimu"
+  },
+  "fields.service-type.options.Health": {
+    "description": "Label for option 'Health' for field 'service-type'",
+    "message": "Afya"
+  },
+  "fields.service-type.options.Market/food services": {
+    "description": "Label for option 'Market/food services' for field 'service-type'",
+    "message": "Huduma za soko/chakula"
+  },
   "fields.service-type.options.Other": {
     "description": "Label for option 'Other' for field 'service-type'",
     "message": "Nyingine"
+  },
+  "fields.service-type.options.Recreation": {
+    "description": "Label for option 'Recreation' for field 'service-type'",
+    "message": "Burudani"
+  },
+  "fields.service-type.options.Shops/utility": {
+    "description": "Label for option 'Shops/utility' for field 'service-type'",
+    "message": "Maduka/matumizi"
+  },
+  "fields.service-type.options.Social services": {
+    "description": "Label for option 'Social services' for field 'service-type'",
+    "message": "Huduma za kijamii"
+  },
+  "fields.service-type.options.Spiritual/religious": {
+    "description": "Label for option 'Spiritual/religious' for field 'service-type'",
+    "message": "Kiroho/kidini"
+  },
+  "fields.service-type.options.Water infrastructure": {
+    "description": "Label for option 'Water infrastructure' for field 'service-type'",
+    "message": "Miundombinu ya maji"
+  },
+  "fields.service-type.placeholder": {
+    "description": "An example to guide the user for field 'service-type'",
+    "message": "Je, hili ni eneo la aina gani?"
   },
   "fields.shelter-type.options.Other": {
     "description": "Label for option 'Other' for field 'shelter-type'",
@@ -259,13 +923,25 @@
     "description": "Label for option 'Other' for field 'vehicle-type-air'",
     "message": "Nyingine"
   },
+  "fields.vehicle-type-air.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-air'",
+    "message": "Chagua zote zinazotumika"
+  },
   "fields.vehicle-type-land.options.Other": {
     "description": "Label for option 'Other' for field 'vehicle-type-land'",
     "message": "Nyingine"
   },
+  "fields.vehicle-type-land.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-land'",
+    "message": "Chagua zote zinazotumika"
+  },
   "fields.vehicle-type-water.options.Other": {
     "description": "Label for option 'Other' for field 'vehicle-type-water'",
     "message": "Nyingine"
+  },
+  "fields.vehicle-type-water.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-water'",
+    "message": "Chagua zote zinazotumika"
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
@@ -303,36 +979,108 @@
     "description": "List of search terms for preset 'cultural-site'",
     "message": "hadithi,takatifu,kihistoria,historia"
   },
+  "presets.fishing-site.name": {
+    "description": "The name of preset 'fishing-site'",
+    "message": "Eneo la uvuvi"
+  },
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
     "message": "samaki"
+  },
+  "presets.fungi.name": {
+    "description": "The name of preset 'fungi'",
+    "message": "Kuvu"
+  },
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "Mahali pa kutafuta chakula"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
     "message": "mkusanyiko"
   },
+  "presets.hills.name": {
+    "description": "The name of preset 'hills'",
+    "message": "Mlima / kilima"
+  },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
     "message": "milima"
+  },
+  "presets.hunting-site.name": {
+    "description": "The name of preset 'hunting-site'",
+    "message": "Eneo la uwindaji"
+  },
+  "presets.language.name": {
+    "description": "The name of preset 'language'",
+    "message": "Lugha inayotumika"
+  },
+  "presets.logging.name": {
+    "description": "The name of preset 'logging'",
+    "message": "Ukataji miti"
   },
   "presets.logging.terms": {
     "description": "List of search terms for preset 'logging'",
     "message": "hatari,haramu,ufuatiliaji"
   },
+  "presets.mining.name": {
+    "description": "The name of preset 'mining'",
+    "message": "Uchimbuaji wa madini"
+  },
   "presets.mining.terms": {
     "description": "List of search terms for preset 'mining'",
     "message": "hatari,haramu,ufuatiliaji"
+  },
+  "presets.natural-event.name": {
+    "description": "The name of preset 'natural-event'",
+    "message": "Tukio la asili / la ajabu sana"
+  },
+  "presets.natural-gas-activity.name": {
+    "description": "The name of preset 'natural-gas-activity'",
+    "message": "Shughuli ya gesi asilia"
+  },
+  "presets.oil-activity.name": {
+    "description": "The name of preset 'oil-activity'",
+    "message": "Shughuli ya mafuta"
+  },
+  "presets.other-threat.name": {
+    "description": "The name of preset 'other-threat'",
+    "message": "Tishio lingine"
   },
   "presets.other.name": {
     "description": "The name of preset 'other'",
     "message": "Nyingine"
   },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Njia / ujia"
+  },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
     "message": "Mmea"
   },
+  "presets.poaching.name": {
+    "description": "The name of preset 'poaching'",
+    "message": "Ujangili"
+  },
+  "presets.roadway.name": {
+    "description": "The name of preset 'roadway'",
+    "message": "Sehemu ya barabara"
+  },
+  "presets.shelter-building.name": {
+    "description": "The name of preset 'shelter-building'",
+    "message": "Makao / jengo"
+  },
+  "presets.transportation-hub.name": {
+    "description": "The name of preset 'transportation-hub'",
+    "message": "Kituo cha usafiri"
+  },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
     "message": "Mti"
+  },
+  "presets.water.name": {
+    "description": "The name of preset 'water'",
+    "message": "Maji"
   }
 }
