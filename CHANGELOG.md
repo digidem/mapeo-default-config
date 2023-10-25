@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.6.2](https://github.com/digidem/mapeo-default-config/compare/v3.6.1...v3.6.2) (2023-10-25)
+
+
+### Bug Fixes
+
+* extract select field options for translation ([5041c27](https://github.com/digidem/mapeo-default-config/commit/5041c2766583e247e96be4695d639c2e046ccfe7))
+
 ### [3.6.1](https://github.com/digidem/mapeo-default-config/compare/v3.6.0...v3.6.1) (2022-03-02)
 
 
