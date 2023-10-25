@@ -1,254 +1,278 @@
 {
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
-    "message": "Type d'animaux"
+    "message": "Aina ya mnyama"
   },
   "fields.animal-type.placeholder": {
     "description": "An example to guide the user for field 'animal-type'",
-    "message": "Quel genre d'animal?"
+    "message": "Mnyama wa aina gani?"
   },
   "fields.building-type.label": {
     "description": "Label for field 'building-type'",
-    "message": "Type de bâtiment"
+    "message": "Aina ya jengo"
+  },
+  "fields.building-type.options.Church": {
+    "description": "Label for option 'Church' for field 'building-type'",
+    "message": "Kanisa"
+  },
+  "fields.building-type.options.Homestead": {
+    "description": "Label for option 'Homestead' for field 'building-type'",
+    "message": "Nyumba iliyozungukwa na shamba"
+  },
+  "fields.building-type.options.Hospital": {
+    "description": "Label for option 'Hospital' for field 'building-type'",
+    "message": "Hospitali"
+  },
+  "fields.building-type.options.Other": {
+    "description": "Label for option 'Other' for field 'building-type'",
+    "message": "Nyingine"
+  },
+  "fields.building-type.options.School": {
+    "description": "Label for option 'School' for field 'building-type'",
+    "message": "Shule"
+  },
+  "fields.building-type.options.Shop": {
+    "description": "Label for option 'Shop' for field 'building-type'",
+    "message": "Duka"
   },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
-    "message": "École/hôpital/etc"
+    "message": "Shule/hospitali/nk"
   },
   "fields.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
-    "message": "Qu'est-ce qui est collecté ici?"
+    "message": "Ni nini kinachopatikana hapa?"
   },
   "fields.items-gathered.placeholder": {
     "description": "An example to guide the user for field 'items-gathered'",
-    "message": "par exemple, bois de chauffage / médicaments, etc."
+    "message": "k.m. kuni / dawa nk."
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
-    "message": "Nom"
+    "message": "Jina"
   },
   "fields.name.placeholder": {
     "description": "An example to guide the user for field 'name'",
-    "message": "Nom commun de ce lieu"
+    "message": "Jina la kawaida la mahali hapa"
   },
   "fields.note.label": {
     "description": "Label for field 'note'",
-    "message": "Note"
+    "message": "Dokezo"
   },
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
-    "message": "Des histories ou notes sur ce lieu"
+    "message": "Hadithi au madokezo kuhusu eneo hili"
   },
   "fields.owner.label": {
     "description": "Label for field 'owner'",
-    "message": "Possesseur"
+    "message": "Mmiliki"
   },
   "fields.owner.placeholder": {
     "description": "An example to guide the user for field 'owner'",
-    "message": "Possesseur ou utilisateur du lieu"
+    "message": "Mmiliki au mtumiaji wa mahali hapo"
   },
   "fields.palm-species.label": {
     "description": "Label for field 'palm-species'",
-    "message": "Espèces de palmier"
+    "message": "Spishi za mitende"
   },
   "fields.palm-species.placeholder": {
     "description": "An example to guide the user for field 'palm-species'",
-    "message": "Quel genre de palmier?"
+    "message": "Mtende wa aina gani?"
   },
   "fields.plant-species.label": {
     "description": "Label for field 'plant-species'",
-    "message": "Espèces de plante"
+    "message": "Spishi za mimea"
   },
   "fields.plant-species.placeholder": {
     "description": "An example to guide the user for field 'plant-species'",
-    "message": "Quel genre de plante?"
+    "message": "Mmea wa aina gani?"
   },
   "fields.source.label": {
     "description": "Label for field 'source'",
-    "message": "Source"
+    "message": "Chanzo"
   },
   "fields.source.placeholder": {
     "description": "An example to guide the user for field 'source'",
-    "message": "Source des données"
+    "message": "Chanzo cha data"
   },
   "fields.tree-species.label": {
     "description": "Label for field 'tree-species'",
-    "message": "Espèces d'arbres"
+    "message": "Spishi za miti"
   },
   "fields.tree-species.placeholder": {
     "description": "An example to guide the user for field 'tree-species'",
-    "message": "Quel genre d'arbre?"
+    "message": "Mti wa aina gani?"
   },
   "fields.type.label": {
     "description": "Label for field 'type'",
-    "message": "Quel type de chemin?"
+    "message": "Njia ya aina gani?"
   },
   "fields.type.placeholder": {
     "description": "An example to guide the user for field 'type'",
-    "message": "À quoi sert ce chemin?"
+    "message": "Njia hii inatumika kwa ajili ya nini?"
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
-    "message": "Piste d'atterrissage"
+    "message": "Barabara ya ndege"
   },
   "presets.airstrip.terms": {
     "description": "List of search terms for preset 'airstrip'",
-    "message": "aérodrome, aéroport, piste d'atterrissage"
+    "message": "kiwanja cha ndege,uwanja wa ndege,kutua"
   },
   "presets.animal.name": {
     "description": "The name of preset 'animal'",
-    "message": "Animal"
+    "message": "Mnyama"
   },
   "presets.area.name": {
     "description": "The name of preset 'area'",
-    "message": "Nouvelle zone"
+    "message": "Eneo jipya"
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
-    "message": "Limite"
+    "message": "Mpaka"
   },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
-    "message": "limite, frontière"
+    "message": "mpaka/himaya"
   },
   "presets.building.name": {
     "description": "The name of preset 'building'",
-    "message": "Batîment"
+    "message": "Jengo"
   },
   "presets.building.terms": {
     "description": "List of search terms for preset 'building'",
-    "message": "cabinet médical, école"
+    "message": "matibabu,shule"
   },
   "presets.camp.name": {
     "description": "The name of preset 'camp'",
-    "message": "Camp"
+    "message": "Kambi"
   },
   "presets.camp.terms": {
     "description": "List of search terms for preset 'camp'",
-    "message": "campement, camping, chasse"
+    "message": "kambi,kupiga kambi,uwindaji"
   },
   "presets.cave.name": {
     "description": "The name of preset 'cave'",
-    "message": "Caverne"
+    "message": "Pango"
   },
   "presets.clay.name": {
     "description": "The name of preset 'clay'",
-    "message": "Argile"
+    "message": "Udongo"
   },
   "presets.community.name": {
     "description": "The name of preset 'community'",
-    "message": "Communauté"
+    "message": "Jumuia"
   },
   "presets.community.terms": {
     "description": "List of search terms for preset 'community'",
-    "message": "village"
+    "message": "kijiji"
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
-    "message": "Site de pêche"
+    "message": "Eneo la Uvuvi"
   },
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
-    "message": "poisson"
+    "message": "samaki"
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
-    "message": "Lieu de collecte"
+    "message": "Mahali pa Kutafuta chakula"
   },
   "presets.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
-    "message": "collection"
+    "message": "mkusanyiko"
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
-    "message": "Collines"
+    "message": "Vilima"
   },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
-    "message": "montagnes"
+    "message": "milima"
   },
   "presets.house.name": {
     "description": "The name of preset 'house'",
-    "message": "Maison"
+    "message": "Nyumba"
   },
   "presets.house.terms": {
     "description": "List of search terms for preset 'house'",
-    "message": "maison, domicile"
+    "message": "nyumba,nyumbani"
   },
   "presets.hunting-site.name": {
     "description": "The name of preset 'hunting-site'",
-    "message": "Site de chasse"
+    "message": "Eneo la Uwindaji"
   },
   "presets.lake.name": {
     "description": "The name of preset 'lake'",
-    "message": "Lac"
+    "message": "Ziwa"
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
-    "message": "Nouvelle ligne"
+    "message": "Mstari mpya"
   },
   "presets.palm.name": {
     "description": "The name of preset 'palm'",
-    "message": "Palmier"
+    "message": "Mtende"
   },
   "presets.path.name": {
     "description": "The name of preset 'path'",
-    "message": "Chemin"
+    "message": "Njia"
   },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
-    "message": "Plante"
+    "message": "Mmea"
   },
   "presets.point.name": {
     "description": "The name of preset 'point'",
-    "message": "Nouveau point"
+    "message": "Mahali papya"
   },
   "presets.river.name": {
     "description": "The name of preset 'river'",
-    "message": "Rivière"
+    "message": "Mto"
   },
   "presets.salt-lick.name": {
     "description": "The name of preset 'salt-lick'",
-    "message": "Pierre à sel"
+    "message": "Mwamba wa chumvi"
   },
   "presets.special-site.name": {
     "description": "The name of preset 'special-site'",
-    "message": "Site spécial"
+    "message": "Eneo maalum"
   },
   "presets.special-site.terms": {
     "description": "List of search terms for preset 'special-site'",
-    "message": "conte, sacré, historique, histoire"
+    "message": "hadithi,takatifu,kihistoria,historia"
   },
   "presets.stream.name": {
     "description": "The name of preset 'stream'",
-    "message": "Ruisseau"
+    "message": "Kijito"
   },
   "presets.swidden.name": {
     "description": "The name of preset 'swidden'",
-    "message": "Terres agricoles"
+    "message": "Shamba"
   },
   "presets.swidden.terms": {
     "description": "List of search terms for preset 'swidden'",
-    "message": "ferme, jardin, parcelle, lotissement, rizière, cultivation"
+    "message": "shamba,bustani,kiwanja,mgao,mpunga,kilimo"
   },
   "presets.threat.name": {
     "description": "The name of preset 'threat'",
-    "message": "Menace"
+    "message": "Tisho"
   },
   "presets.threat.terms": {
     "description": "List of search terms for preset 'threat'",
-    "message": "danger, illégal, monitorage"
+    "message": "hatari,haramu,ufuatiliaji"
   },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
-    "message": "Arbre"
+    "message": "Mti"
   },
   "presets.waterfall.name": {
     "description": "The name of preset 'waterfall'",
-    "message": "Cascade"
+    "message": "Poromoko la maji"
   },
   "presets.waterfall.terms": {
     "description": "List of search terms for preset 'waterfall'",
-    "message": "cascade"
+    "message": "maporomoko"
   }
 }

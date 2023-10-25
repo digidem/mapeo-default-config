@@ -11,30 +11,6 @@
     "description": "Label for field 'building-type'",
     "message": "Soort gebouw"
   },
-  "fields.building-type.options.\"Church\"": {
-    "description": "Select option for field 'building-type' for value '\"Church\"'",
-    "message": "Kerk"
-  },
-  "fields.building-type.options.\"Homestead\"": {
-    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
-    "message": "Huishouden"
-  },
-  "fields.building-type.options.\"Hospital\"": {
-    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
-    "message": "Ziekenhuis"
-  },
-  "fields.building-type.options.\"Other\"": {
-    "description": "Select option for field 'building-type' for value '\"Other\"'",
-    "message": "Iets anders"
-  },
-  "fields.building-type.options.\"School\"": {
-    "description": "Select option for field 'building-type' for value '\"School\"'",
-    "message": "School"
-  },
-  "fields.building-type.options.\"Shop\"": {
-    "description": "Select option for field 'building-type' for value '\"Shop\"'",
-    "message": "Winkel"
-  },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "School/ziekenhuis/enz"

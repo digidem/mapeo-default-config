@@ -11,28 +11,28 @@
     "description": "Label for field 'building-type'",
     "message": "Tipo de edificio"
   },
-  "fields.building-type.options.\"Church\"": {
-    "description": "Select option for field 'building-type' for value '\"Church\"'",
+  "fields.building-type.options.Church": {
+    "description": "Label for option 'Church' for field 'building-type'",
     "message": "Iglesia"
   },
-  "fields.building-type.options.\"Homestead\"": {
-    "description": "Select option for field 'building-type' for value '\"Homestead\"'",
+  "fields.building-type.options.Homestead": {
+    "description": "Label for option 'Homestead' for field 'building-type'",
     "message": "Caserío"
   },
-  "fields.building-type.options.\"Hospital\"": {
-    "description": "Select option for field 'building-type' for value '\"Hospital\"'",
+  "fields.building-type.options.Hospital": {
+    "description": "Label for option 'Hospital' for field 'building-type'",
     "message": "Hospital"
   },
-  "fields.building-type.options.\"Other\"": {
-    "description": "Select option for field 'building-type' for value '\"Other\"'",
+  "fields.building-type.options.Other": {
+    "description": "Label for option 'Other' for field 'building-type'",
     "message": "Otro"
   },
-  "fields.building-type.options.\"School\"": {
-    "description": "Select option for field 'building-type' for value '\"School\"'",
+  "fields.building-type.options.School": {
+    "description": "Label for option 'School' for field 'building-type'",
     "message": "Escuela"
   },
-  "fields.building-type.options.\"Shop\"": {
-    "description": "Select option for field 'building-type' for value '\"Shop\"'",
+  "fields.building-type.options.Shop": {
+    "description": "Label for option 'Shop' for field 'building-type'",
     "message": "Tienda"
   },
   "fields.building-type.placeholder": {
