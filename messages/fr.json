@@ -1,1 +1,106 @@
-{}
+{
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Type d'animaux"
+  },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "Lac"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "Rivière"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "Ruisseau"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "Cascade"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "Communauté"
+  },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "Terres agricoles"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "Argile"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nom"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Note"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Piste d'atterrissage"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "aérodrome, aéroport, piste d'atterrissage"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Animal"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "limite, frontière"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Caverne"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Communauté"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "village"
+  },
+  "presets.cultural-activity.terms": {
+    "description": "List of search terms for preset 'cultural-activity'",
+    "message": "conte, sacré, historique, histoire"
+  },
+  "presets.cultural-site.terms": {
+    "description": "List of search terms for preset 'cultural-site'",
+    "message": "conte, sacré, historique, histoire"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "poisson"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "collection"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "montagnes"
+  },
+  "presets.logging.terms": {
+    "description": "List of search terms for preset 'logging'",
+    "message": "danger, illégal, monitorage"
+  },
+  "presets.mining.terms": {
+    "description": "List of search terms for preset 'mining'",
+    "message": "danger, illégal, monitorage"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Plante"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Arbre"
+  }
+}

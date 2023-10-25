@@ -1,1 +1,194 @@
-{}
+{
+  "fields.activity-documented.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-documented'",
+    "message": "Altro"
+  },
+  "fields.activity-progress.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-progress'",
+    "message": "Altro"
+  },
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Tipo di animale"
+  },
+  "fields.animal-type.options.Other": {
+    "description": "Label for option 'Other' for field 'animal-type'",
+    "message": "Altro"
+  },
+  "fields.authorities-needed.options.Other": {
+    "description": "Label for option 'Other' for field 'authorities-needed'",
+    "message": "Altro"
+  },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "Lago"
+  },
+  "fields.body-of-water-type.options.Other": {
+    "description": "Label for option 'Other' for field 'body-of-water-type'",
+    "message": "Altro"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "Fiume"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "Ruscello"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "Cascata"
+  },
+  "fields.cultural-category.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-category'",
+    "message": "Altro"
+  },
+  "fields.cultural-mediums.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-mediums'",
+    "message": "Altro"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "Comunità"
+  },
+  "fields.cultural-participation.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-participation'",
+    "message": "Altro"
+  },
+  "fields.ecosystem-type.options.Other": {
+    "description": "Label for option 'Other' for field 'ecosystem-type'",
+    "message": "Altro"
+  },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "Terra agricola"
+  },
+  "fields.food-source.options.Other": {
+    "description": "Label for option 'Other' for field 'food-source'",
+    "message": "Altro"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "Argilla"
+  },
+  "fields.gathering-type.options.Other": {
+    "description": "Label for option 'Other' for field 'gathering-type'",
+    "message": "Altro"
+  },
+  "fields.incident-type.options.Other": {
+    "description": "Label for option 'Other' for field 'incident-type'",
+    "message": "Altro"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nome"
+  },
+  "fields.natural-event-type.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-event-type'",
+    "message": "Altro"
+  },
+  "fields.natural-resource.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-resource'",
+    "message": "Altro"
+  },
+  "fields.need-type.options.Other": {
+    "description": "Label for option 'Other' for field 'need-type'",
+    "message": "Altro"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "Nota"
+  },
+  "fields.sample-type.options.Other": {
+    "description": "Label for option 'Other' for field 'sample-type'",
+    "message": "Altro"
+  },
+  "fields.service-type.options.Other": {
+    "description": "Label for option 'Other' for field 'service-type'",
+    "message": "Altro"
+  },
+  "fields.shelter-type.options.Other": {
+    "description": "Label for option 'Other' for field 'shelter-type'",
+    "message": "Altro"
+  },
+  "fields.vehicle-type-air.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-air'",
+    "message": "Altro"
+  },
+  "fields.vehicle-type-land.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-land'",
+    "message": "Altro"
+  },
+  "fields.vehicle-type-water.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-water'",
+    "message": "Altro"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Pista di atterraggio"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "Campo di aviazione, aeroporto, pista di atterraggio"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Animale"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "confine, frontiera"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Caverna"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Comunità"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "villaggio"
+  },
+  "presets.cultural-activity.terms": {
+    "description": "List of search terms for preset 'cultural-activity'",
+    "message": "racconto,sacro,storico,storia"
+  },
+  "presets.cultural-site.terms": {
+    "description": "List of search terms for preset 'cultural-site'",
+    "message": "racconto,sacro,storico,storia"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "pesce"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "raccolta"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "montagne"
+  },
+  "presets.logging.terms": {
+    "description": "List of search terms for preset 'logging'",
+    "message": "pericolo,illegale,monitoraggio"
+  },
+  "presets.mining.terms": {
+    "description": "List of search terms for preset 'mining'",
+    "message": "pericolo,illegale,monitoraggio"
+  },
+  "presets.other.name": {
+    "description": "The name of preset 'other'",
+    "message": "Altro"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Pianta"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Albero"
+  }
+}
