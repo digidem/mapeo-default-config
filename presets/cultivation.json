@@ -11,6 +11,7 @@
         "point", "area"
     ],
     "tags": {
+        "activity": "farming"
         "type" : "landuse",
         "landuse" : "farmland"
     },

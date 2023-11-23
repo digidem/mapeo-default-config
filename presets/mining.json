@@ -15,6 +15,7 @@
     "tags": {
         "type" : "impact",
         "impact" : "threat"
+        "activity": "mining"
     },
     "terms":["danger", "illegal", "monitoring"],
     "name": "Mining"

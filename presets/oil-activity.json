@@ -15,6 +15,7 @@
     "tags": {
         "type" : "impact",
         "impact" : "threat"
+        "activity": "oil_extraction"
     },
     "terms":[],
     "name": "Oil activity"

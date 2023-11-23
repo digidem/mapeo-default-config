@@ -10,6 +10,7 @@
         "point", "area"
     ],
     "tags": {
+        "activity": "environmental_testing"
     },
     "terms":[],
     "name": "Field test result"

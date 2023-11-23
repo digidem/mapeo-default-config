@@ -10,6 +10,7 @@
         "point", "line"
     ],
     "tags": {
+        "activity": "transportation"
     },
     "terms":[],
     "name": "Roadway"
