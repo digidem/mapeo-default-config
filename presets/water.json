@@ -10,9 +10,8 @@
         "point", "area", "line"
     ],
     "tags": {
-        "type" : "waterway",
-        "type" : "natural",
-        "natural" : "water"
+        "type": "waterway",
+        "natural": "water"
     },
     "terms":[],
     "name": "Body of water"
