@@ -13,6 +13,7 @@
         "point", "area"
     ],
     "tags": {
+        "activity": "transport_hub"
     },
     "terms":[],
     "name": "Transportation hub"

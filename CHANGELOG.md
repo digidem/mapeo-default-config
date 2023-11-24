@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 4.0.0 (2021-11-02)
+
 ## [3.5.0](https://github.com/digidem/mapeo-default-config/compare/v3.4.1...v3.5.0) (2021-08-04)
 
 
