@@ -13,5 +13,6 @@
         "activity" : "hunting"
     },
     "terms":[],
-    "name": "Hunting site"
+    "name": "Hunting site",
+    "color": "#0000FF"
 }

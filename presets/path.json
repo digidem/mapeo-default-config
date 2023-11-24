@@ -14,5 +14,6 @@
         "highway" : "footway"
     },
     "terms":[],
-    "name": "Path / trail"
+    "name": "Path / trail",
+    "color": "#808080"
 }

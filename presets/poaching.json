@@ -16,5 +16,6 @@
         "impact" : "threat"
     },
     "terms":[],
-    "name": "Poaching"
+    "name": "Poaching",
+    "color": "#FF0000"
 }

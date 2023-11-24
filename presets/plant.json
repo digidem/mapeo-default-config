@@ -15,5 +15,6 @@
         "natural" : "plant"
     },
     "terms":[],
-    "name": "Plant"
+    "name": "Plant",
+    "color": "#008000"
 }

@@ -15,5 +15,6 @@
         "landuse" : "farmland"
     },
     "terms":[],
-    "name": "Local / community cultivation"
+    "name": "Local / community cultivation",
+    "color": "#FFFF00"
 }

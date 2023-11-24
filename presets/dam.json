@@ -18,5 +18,6 @@
         "impact" : "threat"
     },
     "terms":[],
+    "color": "#FF0000",
     "name": "Dam"
 }

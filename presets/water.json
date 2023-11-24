@@ -11,9 +11,9 @@
     ],
     "tags": {
         "type" : "waterway",
-        "type" : "natural",
         "natural" : "water"
     },
     "terms":[],
-    "name": "Body of water"
+    "name": "Body of water",
+    "color": "#008000"
 }

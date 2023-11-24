@@ -13,5 +13,6 @@
         "activity" : "fishing"
     },
     "terms":["fish"],
-    "name": "Fishing site"
+    "name": "Fishing site",
+    "color": "#0000FF"
 }

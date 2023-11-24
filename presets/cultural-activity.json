@@ -14,5 +14,6 @@
         "type" : "cultural"
     },
     "terms":["story", "sacred", "historical", "history"],
-    "name": "Cultural activity"
+    "name": "Cultural activity",
+    "color": "#0000FF"
 }

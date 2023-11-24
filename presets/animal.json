@@ -16,5 +16,6 @@
         "type" : "animal"
     },
     "terms":[],
-    "name": "Animal"
+    "name": "Animal",
+    "color": "#008000"
 }

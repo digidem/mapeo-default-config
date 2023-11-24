@@ -14,5 +14,6 @@
         "aeroway" : "airstrip"
     },
     "terms":["airfield", "airport", "landing"],
-    "name": "Airstrip"
+    "name": "Airstrip",
+    "color": "#808080"
 }

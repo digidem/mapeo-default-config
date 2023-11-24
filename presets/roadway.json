@@ -12,5 +12,6 @@
     "tags": {
     },
     "terms":[],
-    "name": "Roadway"
+    "name": "Roadway",
+    "color": "#808080"
 }

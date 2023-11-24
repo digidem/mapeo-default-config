@@ -17,5 +17,6 @@
         "impact" : "threat"
     },
     "terms":["danger", "illegal", "monitoring"],
-    "name": "Mining"
+    "name": "Mining",
+    "color": "#FF0000"
 }

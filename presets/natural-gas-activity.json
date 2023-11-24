@@ -17,5 +17,6 @@
         "impact" : "threat"
     },
     "terms":[],
-    "name": "Natural gas activity"
+    "name": "Natural gas activity",
+    "color": "#FF0000"
 }

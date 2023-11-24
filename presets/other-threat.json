@@ -17,5 +17,6 @@
         "impact" : "threat"
     },
     "terms":[],
-    "name": "Other threat"
+    "name": "Other threat",
+    "color": "#FF0000"
 }

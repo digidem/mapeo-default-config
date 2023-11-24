@@ -15,5 +15,6 @@
         "cultural" : "cultural-site"
     },
     "terms":["story", "sacred", "historical", "history"],
-    "name": "Cultural site"
+    "name": "Cultural site",
+    "color": "#0000FF"
 }

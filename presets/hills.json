@@ -14,5 +14,6 @@
 
     },
     "terms":["mountains"],
-    "name": "Mountain / hill"
+    "name": "Mountain / hill",
+    "color": "#008000"
 }

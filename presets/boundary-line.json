@@ -12,5 +12,6 @@
         "type" : "boundary"
     },
     "terms":["border", "frontier"],
-    "name": "Border / boundary"
+    "name": "Border / boundary",
+    "color": "#808080"
 }

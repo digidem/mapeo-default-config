@@ -14,5 +14,6 @@
         "activity" : "gathering"
     },
     "terms":["collection"],
-    "name": "Gathering site"
+    "name": "Gathering site",
+    "color": "#0000FF"
 }

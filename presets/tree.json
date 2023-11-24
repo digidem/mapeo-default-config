@@ -16,5 +16,6 @@
         "natural" : "tree"
     },
     "terms":[],
-    "name": "Tree"
+    "name": "Tree",
+    "color": "#008000"
 }

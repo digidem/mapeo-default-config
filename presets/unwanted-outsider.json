@@ -16,5 +16,6 @@
         "impact" : "threat"
     },
     "terms":[],
-    "name": "Unwanted outsider"
+    "name": "Unwanted outsider",
+    "color": "#FF0000"
 }

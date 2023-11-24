@@ -15,5 +15,6 @@
         "natural" : "plant"
     },
     "terms":[],
-    "name": "Fungi"
+    "name": "Fungi",
+    "color": "#008000"
 }

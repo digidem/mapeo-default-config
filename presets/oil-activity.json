@@ -17,5 +17,6 @@
         "impact" : "threat"
     },
     "terms":[],
-    "name": "Oil activity"
+    "name": "Oil activity",
+    "color": "#FF0000"
 }

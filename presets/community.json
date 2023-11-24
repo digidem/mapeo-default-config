@@ -12,5 +12,6 @@
         "place": "village"
     },
     "terms":["village"],
-    "name": "Community"
+    "name": "Community",
+    "color": "#0000FF"
 }
