@@ -111,7 +111,7 @@ jobs:
           value: ${{ steps.version.outputs.version }}
       - name: Create filename
         id: filename
-        run: echo ::set-output name=filename::${{ steps.pkg_name.outputs.prop }}_${{ steps.version.outputs.version }}.mapeosettings
+        run: echo ::set-output name=filename::${{ steps.pkg_name.outputs.prop }}_${{ steps.version.outputs.version }}.mapeoconfig
       - run: npm ci
       - name: Build asset
         id: build_asset
