@@ -22,7 +22,7 @@ jobs:
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
-          node-version: '12'
+          node-version: '18'
       - name: Configure git user & email
         run: |
           git config user.name Github Actions
@@ -112,7 +112,7 @@ jobs:
       - name: Create filename
         id: filename
         run: echo ::set-output name=filename::${{ steps.pkg_name.outputs.prop }}_${{ steps.version.outputs.version }}.mapeoconfig
-      - run: npm install
+      - run: npm ci
       - name: Build asset
         id: build_asset
         run: |
