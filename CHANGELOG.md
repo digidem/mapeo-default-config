@@ -2,9 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## 4.0.0 (2024-03-13)
+## [4.0.0-alpha.0](https://github.com/digidem/mapeo-default-config/compare/v3.6.2...v4.0.0-alpha.0) (2024-04-04)
 
-### [3.6.2](https://github.com/digidem/mapeo-default-config/compare/v3.6.1...v3.6.2) (2023-10-25)
+### ⚠ BREAKING CHANGES
+
+* The config file format has changed from a tarball to a zip.
+* Package renamed to `@mapeo/default-config`.
+* File extension is changed to `.mapeoconfig` instead of `.mapeosettings` to avoid backwards compatibility issues with the old format.
+
+## [3.6.2](https://github.com/digidem/mapeo-default-config/compare/v3.6.1...v3.6.2) (2023-10-25)
 
 
 ### Bug Fixes
