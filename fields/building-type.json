@@ -1,7 +1,13 @@
 {
     "key": "building-type",
-    "type": "select_one",
+    "type": "selectOne",
     "label": "Building type",
     "placeholder": "School/hospital/etc",
-    "options": ["School", "Hospital", "Homestead", "Church", "Shop", "Other"]
+    "options": [
+      {"label":"School", "value": "School"},
+      {"label":"Hostpital", "value": "Hospital"},
+      {"label":"Homestead", "value": "Homestead"},
+      {"label":"Church", "value": "Church"},
+      {"label":"Shop", "value": "Shop"},
+      {"label":"Other", "value": "Other"}]
 }
