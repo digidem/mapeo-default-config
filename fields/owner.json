@@ -1,5 +1,5 @@
 {
-    "key": "owner",
+    "tagKey": "owner",
     "type": "text",
     "label": "Owner",
     "placeholder": "Owner or user of the place"

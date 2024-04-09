@@ -1,5 +1,5 @@
 {
-    "key": "source",
+    "tagKey": "source",
     "type": "text",
     "label": "Source",
     "placeholder": "Source of the data"
