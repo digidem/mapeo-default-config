@@ -1,6 +1,6 @@
 {
-    "key": "name",
-    "type": "localized",
+    "tagKey": "name",
+    "type": "text",
     "label": "Name",
     "universal": true,
     "placeholder": "Common name of this place"
