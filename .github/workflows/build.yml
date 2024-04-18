@@ -96,26 +96,26 @@ jobs:
             # Get a short ID to the commit used to build this version
             VERSION=$(git rev-parse --short ${{ github.sha }})
           fi
-          echo ::set-output name=version::$VERSION
+          echo "VERSION=$VERSION" >> "$GITHUB_OUTPUT"
       - name: Write version to metadata.json
         uses: jossef/action-set-json-field@v2.1
         with:
           file: metadata.json
           field: version
-          value: ${{ steps.version.outputs.version }}
+          value: ${{ steps.version.outputs.VERSION }}
       - name: Create filename
         id: filename
-        run: echo ::set-output name=filename::mapeo-default-config_${{ steps.version.outputs.version }}.mapeoconfig
+        run: echo "FILENAME=mapeo-default-config_${{ steps.version.outputs.VERSION }}.mapeoconfig" >> "$GITHUB_OUTPUT"
       - run: npm ci
       - name: Build asset
         id: build_asset
         run: |
           mkdir -p build
-          $(npm bin)/mapeo-settings build -l 'en' -o build/${{ steps.filename.outputs.filename }}
+          $(npm bin)/mapeo-settings build -l 'en' -o build/${{ steps.filename.outputs.FILENAME }}
       - uses: actions/upload-artifact@v4
         with:
-          name: ${{ steps.filename.outputs.filename }}
-          path: build/${{ steps.filename.outputs.filename }}
+          name: ${{ steps.filename.outputs.FILENAME }}
+          path: build/${{ steps.filename.outputs.FILENAME }}
   upload-release:
     name: Upload release
     runs-on: ubuntu-20.04
