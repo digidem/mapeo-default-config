@@ -1,6 +1,6 @@
 {
   "name": "@mapeo/default-config",
-  "version": "4.0.0-alpha.1",
+  "version": "4.0.0-alpha.2",
   "description": "Mapeo default config (categories, icons, questions)",
   "dependencies": {},
   "devDependencies": {
