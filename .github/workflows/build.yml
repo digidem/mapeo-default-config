@@ -86,12 +86,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12'
-      - name: Get package name
-        id: pkg_name
-        uses: notiz-dev/github-action-json-property@release
-        with:
-          path: 'package.json'
-          prop_path: 'name'
       - name: Get version
         id: version
         run: |
@@ -111,7 +105,7 @@ jobs:
           value: ${{ steps.version.outputs.version }}
       - name: Create filename
         id: filename
-        run: echo ::set-output name=filename::${{ steps.pkg_name.outputs.prop }}_${{ steps.version.outputs.version }}.mapeoconfig
+        run: echo ::set-output name=filename::mapeo-default-config_${{ steps.version.outputs.version }}.mapeoconfig
       - run: npm ci
       - name: Build asset
         id: build_asset
