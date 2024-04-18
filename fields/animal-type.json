@@ -1,5 +1,5 @@
 {
-    "key": "animal-type",
+    "tagKey": "animal-type",
     "type": "text",
     "label": "Animal type",
     "placeholder": "What kind of animal?"

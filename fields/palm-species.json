@@ -1,5 +1,5 @@
 {
-    "key": "palm-species",
+    "tagKey": "palm-species",
     "type": "text",
     "label": "Palm species",
     "placeholder": "What kind of palm?"
