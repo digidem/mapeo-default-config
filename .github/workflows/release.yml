@@ -36,7 +36,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Read package version
         id: version
-        run: echo "VERSION=$(npm pkg get version)" >> "$GITHUB_OUTPUT"
+        run: echo "VERSION=$(npm pkg get version | xargs)" >> "$GITHUB_OUTPUT"
       - uses: nearform-actions/optic-release-automation-action@v4
         with:
           commit-message: 'Release {version}'
