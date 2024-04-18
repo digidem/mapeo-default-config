@@ -32,6 +32,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Checkout code
+        uses: actions/checkout@v4
       - name: Read package version
         id: version
         run: echo "VERSION=$(npm pkg get version)" >> "$GITHUB_OUTPUT"
