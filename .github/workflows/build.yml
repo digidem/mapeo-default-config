@@ -112,7 +112,7 @@ jobs:
         run: |
           mkdir -p build
 
-          npm exec mapeo-settings build -l 'en' -o build/${{ steps.filename.outputs.FILENAME }}
+          $(npm root)/bin/mapeo-settings build -l 'en' -o build/${{ steps.filename.outputs.FILENAME }}
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ steps.filename.outputs.FILENAME }}
