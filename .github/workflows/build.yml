@@ -19,10 +19,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Use Node.js 12
+      - name: Use Node.js 20
         uses: actions/setup-node@v4
         with:
-          node-version: '12'
+          node-version: '20'
       - name: Configure git user & email
         run: |
           git config user.name Github Actions
@@ -82,10 +82,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Use Node.js 12
+      - name: Use Node.js 20
         uses: actions/setup-node@v4
         with:
-          node-version: '12'
+          node-version: '20'
       - name: Get version
         id: version
         run: |
@@ -111,7 +111,8 @@ jobs:
         id: build_asset
         run: |
           mkdir -p build
-          $(npm bin)/mapeo-settings build -l 'en' -o build/${{ steps.filename.outputs.FILENAME }}
+
+          $(npm root)/.bin/mapeo-settings build -l 'en' -o build/${{ steps.filename.outputs.FILENAME }}
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ steps.filename.outputs.FILENAME }}
