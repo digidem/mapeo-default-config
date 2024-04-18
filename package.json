@@ -1,6 +1,6 @@
 {
   "name": "@mapeo/default-config",
-  "version": "4.0.0-alpha.0",
+  "version": "4.0.0-alpha.2",
   "description": "Mapeo default config (categories, icons, questions)",
   "dependencies": {},
   "devDependencies": {
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "mkdirp build && mapeo-settings build -l 'en' -o build/mapeo-default-config-v${npm_package_version}.mapeoconfig",
-    "build:dist": "mapeo-settings build -l 'en' -o dist/mapeo-default-config-v${npm_package_version}.mapeoconfig",
+    "build:dist": "mapeo-settings build -l 'en' -o dist/mapeo-default-config.mapeoconfig",
     "extract-messages": "mkdirp messages && mapeo-settings extract-messages -o messages/en.json",
     "prepack": "rimraf dist && mkdirp dist && npm run -s build:dist",
     "test": "mapeo-settings lint"
@@ -20,7 +20,7 @@
   "files": [
     "dist"
   ],
-  "main": "dist/presets.json",
+  "main": "dist/mapeo-default-config.mapeoconfig",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/digidem/mapeo-default-config.git"
