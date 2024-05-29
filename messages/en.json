@@ -21,27 +21,27 @@
   },
   "fields.building-type.options.Church": {
     "description": "Label for option 'Church' for field 'building-type'",
-    "message": "Church"
+    "message": {"label": "Church", "value": "Church"}
   },
   "fields.building-type.options.Homestead": {
     "description": "Label for option 'Homestead' for field 'building-type'",
-    "message": "Homestead"
+    "message": {"label": "Homestead", "value": "Homestead"}
   },
   "fields.building-type.options.Hospital": {
     "description": "Label for option 'Hospital' for field 'building-type'",
-    "message": "Hospital"
+    "message": {"label": "Hospital", "value": "Hospital"}
   },
   "fields.building-type.options.Other": {
     "description": "Label for option 'Other' for field 'building-type'",
-    "message": "Other"
+    "message": {"label":"Other", "value": "Other"}
   },
   "fields.building-type.options.School": {
     "description": "Label for option 'School' for field 'building-type'",
-    "message": "School"
+    "message": {"label": "School", "value": "School"}
   },
   "fields.building-type.options.Shop": {
     "description": "Label for option 'Shop' for field 'building-type'",
-    "message": "Shop"
+    "message": {"label": "Shop", "value": "Shop"}
   },
   "fields.building-type.placeholder": {
     "description": "An example to guide the user for field 'building-type'",
