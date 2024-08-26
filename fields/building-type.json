@@ -9,5 +9,6 @@
       {"label":"Homestead", "value": "Homestead"},
       {"label":"Church", "value": "Church"},
       {"label":"Shop", "value": "Shop"},
-      {"label":"Other", "value": "Other"}]
+      {"label":"Other", "value": "Other"}],
+    "universal": false
 }

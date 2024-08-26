@@ -2,5 +2,6 @@
     "tagKey": "plant-species",
     "type": "text",
     "label": "Plant species",
-    "placeholder": "What kind of plant?"
+    "placeholder": "What kind of plant?",
+    "universal": false
 }

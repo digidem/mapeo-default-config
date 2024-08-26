@@ -2,5 +2,6 @@
     "tagKey": "path",
     "type": "text",
     "label": "What kind of path?",
-    "placeholder": "What is this path used for?"
+    "placeholder": "What is this path used for?",
+    "universal": false
 }

@@ -2,5 +2,6 @@
     "tagKey": "owner",
     "type": "text",
     "label": "Owner",
-    "placeholder": "Owner or user of the place"
+    "placeholder": "Owner or user of the place",
+    "universal": false
 }
