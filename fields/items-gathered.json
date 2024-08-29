@@ -2,6 +2,6 @@
     "tagKey": "gathered",
     "type": "text",
     "label": "What is gathered here?",
-    "placeholder": "e.g. firewood / medicine etc.",
+    "helperText": "e.g. firewood / medicine etc.",
     "universal": false
 }

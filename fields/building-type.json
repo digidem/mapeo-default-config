@@ -2,7 +2,7 @@
     "tagKey": "building-type",
     "type": "selectOne",
     "label": "Building type",
-    "placeholder": "School/hospital/etc",
+    "helperText": "School/hospital/etc",
     "options": [
       {"label":"School", "value": "School"},
       {"label":"Hospital", "value": "Hospital"},
