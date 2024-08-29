@@ -3,5 +3,5 @@
     "type": "text",
     "label": "Name",
     "universal": true,
-    "placeholder": "Common name of this place"
+    "helperText": "Common name of this place"
 }

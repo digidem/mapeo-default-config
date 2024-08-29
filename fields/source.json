@@ -2,6 +2,6 @@
     "tagKey": "source",
     "type": "text",
     "label": "Source",
-    "placeholder": "Source of the data",
+    "helperText": "Source of the data",
     "universal": false
 }

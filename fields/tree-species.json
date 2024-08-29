@@ -2,6 +2,6 @@
     "tagKey": "tree-species",
     "type": "text",
     "label": "Tree species",
-    "placeholder": "What kind of tree?",
+    "helperText": "What kind of tree?",
     "universal": false
 }

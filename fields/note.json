@@ -2,6 +2,6 @@
     "tagKey": "note",
     "type": "text",
     "label": "Note",
-	"placeholder": "Stories or notes about this place",
+	"helperText": "Stories or notes about this place",
     "universal": false
 }

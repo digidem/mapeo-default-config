@@ -2,6 +2,6 @@
     "tagKey": "animal-type",
     "type": "text",
     "label": "Animal type",
-    "placeholder": "What kind of animal?",
+    "helperText": "What kind of animal?",
     "universal": false
 }
