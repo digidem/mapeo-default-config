@@ -8,36 +8,29 @@ jobs:
   build:
     # This step runs on every push, ensures there is an artifact for each push
     name: Build
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Use Node.js 20
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: "20"
       - name: Get version
         id: version
         run: |
           # Use git commit sha to identify the version
           VERSION=$(git rev-parse --short ${{ github.sha }})
           echo "VERSION=$VERSION" >> "$GITHUB_OUTPUT"
-      - name: Write version to metadata.json
-        uses: jossef/action-set-json-field@v2.1
-        with:
-          file: metadata.json
-          field: version
-          value: ${{ steps.version.outputs.VERSION }}
       - name: Create filename
         id: filename
-        run: echo "FILENAME=mapeo-default-config_${{ steps.version.outputs.VERSION }}.mapeoconfig" >> "$GITHUB_OUTPUT"
+        run: echo "FILENAME=mapeo-default-config_${{ steps.version.outputs.VERSION }}.comapeocat" >> "$GITHUB_OUTPUT"
       - run: npm ci
       - name: Build asset
         id: build_asset
         run: |
           mkdir -p build
-
-          $(npm root)/.bin/mapeo-settings build -l 'en' -o build/${{ steps.filename.outputs.FILENAME }}
+          $(npm root)/.bin/comapeocat build -o build/${{ steps.filename.outputs.FILENAME }} --version ${{ steps.version.outputs.VERSION }}
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ steps.filename.outputs.FILENAME }}

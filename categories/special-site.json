@@ -1,0 +1,21 @@
+{
+    "icon": "special-site",
+    "color": "#EDCB03",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "type": "cultural",
+        "cultural": "cultural-site"
+    },
+    "terms": [
+        "story",
+        "sacred",
+        "historical",
+        "history"
+    ],
+    "name": "Special site",
+    "appliesTo": [
+        "observation"
+    ]
+}

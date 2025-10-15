@@ -1,0 +1,18 @@
+{
+    "icon": "waterfall",
+    "color": "#1163DE",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "type": "waterway",
+        "waterway": "waterfall"
+    },
+    "terms": [
+        "cascade"
+    ],
+    "name": "Waterfall",
+    "appliesTo": [
+        "observation"
+    ]
+}

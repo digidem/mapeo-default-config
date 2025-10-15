@@ -1,18 +1,18 @@
 {
   "name": "@mapeo/default-config",
-  "version": "5.0.0",
+  "version": "6.0.0-pre.0",
   "description": "Mapeo default config (categories, icons, questions)",
   "devDependencies": {
-    "mapeo-settings-builder": "^6.0.0",
+    "comapeocat": "^1.0.0-pre.9",
     "mkdirp": "^1.0.4",
     "rimraf": "^3.0.2"
   },
   "scripts": {
-    "build": "mkdirp build && mapeo-settings build -l 'en' -o build/mapeo-default-config-v${npm_package_version}.comapeocat",
-    "build:dist": "mapeo-settings build -l 'en' -o dist/mapeo-default-config.comapeocat",
-    "extract-messages": "mkdirp messages && mapeo-settings extract-messages -o messages/en.json",
-    "prepack": "rimraf dist && mkdirp dist && npm run -s build:dist",
-    "test": "mapeo-settings lint"
+    "build": "mkdirp build && comapeocat build -o build/mapeo-default-config-v${npm_package_version}.comapeocat --version ${npm_package_version}",
+    "build:dist": "mkdirp dist && comapeocat build -o dist/mapeo-default-config.comapeocat --version ${npm_package_version}",
+    "extract-messages": "mkdirp messages && comapeocat extract-messages -o messages/en.json",
+    "prepack": "rimraf dist && npm run -s build:dist",
+    "test": "comapeocat lint"
   },
   "author": "Gregor MacLennan",
   "license": "CC-BY-NC-4.0",

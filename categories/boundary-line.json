@@ -1,0 +1,18 @@
+{
+    "icon": "boundary",
+    "color": "#B209B2",
+    "fields": [],
+    "tags": {
+        "type": "boundary",
+        "boundary": "indigenous"
+    },
+    "terms": [
+        "border",
+        "frontier"
+    ],
+    "name": "Boundary",
+    "appliesTo": [
+        "observation",
+        "track"
+    ]
+}

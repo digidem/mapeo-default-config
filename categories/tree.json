@@ -1,0 +1,16 @@
+{
+    "icon": "tree",
+    "color": "#2D9905",
+    "fields": [
+        "tree-species"
+    ],
+    "tags": {
+        "type": "natural",
+        "natural": "tree"
+    },
+    "terms": [],
+    "name": "Tree",
+    "appliesTo": [
+        "observation"
+    ]
+}

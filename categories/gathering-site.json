@@ -1,0 +1,18 @@
+{
+    "icon": "gathering",
+    "color": "#13D5CF",
+    "fields": [
+        "items-gathered"
+    ],
+    "tags": {
+        "type": "activity",
+        "activity": "gathering"
+    },
+    "terms": [
+        "collection"
+    ],
+    "name": "Gathering Site",
+    "appliesTo": [
+        "observation"
+    ]
+}

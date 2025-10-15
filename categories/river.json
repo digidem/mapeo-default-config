@@ -1,0 +1,17 @@
+{
+    "icon": "river",
+    "color": "#1163DE",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "waterway": "river",
+        "type": "waterway"
+    },
+    "terms": [],
+    "name": "River",
+    "appliesTo": [
+        "observation",
+        "track"
+    ]
+}

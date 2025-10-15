@@ -1,0 +1,16 @@
+{
+    "icon": "hunting",
+    "color": "#13D5CF",
+    "fields": [
+        "animal-type"
+    ],
+    "tags": {
+        "type": "activity",
+        "activity": "hunting"
+    },
+    "terms": [],
+    "name": "Hunting Site",
+    "appliesTo": [
+        "observation"
+    ]
+}
