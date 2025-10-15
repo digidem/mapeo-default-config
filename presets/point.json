@@ -1,7 +1,0 @@
-{ "icon": "estrella",
-    "name": "New point",
-    "tags": {
-      "nuevo": "yes"
-    },
-    "geometry": ["point"]
-}

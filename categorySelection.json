@@ -1,0 +1,31 @@
+{
+  "track": ["line", "boundary-line", "river", "path", "stream", "threat"],
+  "observation": [
+    "point",
+    "airstrip",
+    "animal",
+    "boundary-line",
+    "building",
+    "camp",
+    "cave",
+    "clay",
+    "community",
+    "fishing-site",
+    "gathering-site",
+    "hills",
+    "house",
+    "hunting-site",
+    "lake",
+    "palm",
+    "path",
+    "plant",
+    "river",
+    "salt-lick",
+    "special-site",
+    "stream",
+    "swidden",
+    "threat",
+    "tree",
+    "waterfall"
+  ]
+}

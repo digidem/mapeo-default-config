@@ -1,0 +1,18 @@
+{
+    "icon": "house",
+    "color": "#B209B2",
+    "fields": [
+        "owner"
+    ],
+    "tags": {
+        "building": "residential"
+    },
+    "terms": [
+        "house",
+        "home"
+    ],
+    "name": "House",
+    "appliesTo": [
+        "observation"
+    ]
+}

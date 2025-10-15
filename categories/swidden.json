@@ -1,0 +1,23 @@
+{
+    "icon": "swidden",
+    "color": "#13D5CF",
+    "fields": [
+        "owner"
+    ],
+    "tags": {
+        "type": "landuse",
+        "landuse": "farmland"
+    },
+    "terms": [
+        "farm",
+        "garden",
+        "plot",
+        "allotment",
+        "paddy",
+        "cultivation"
+    ],
+    "name": "Farmland",
+    "appliesTo": [
+        "observation"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "icon": "path",
+    "color": "#B209B2",
+    "fields": [
+        "type"
+    ],
+    "tags": {
+        "type": "highway",
+        "highway": "footway"
+    },
+    "terms": [
+        ""
+    ],
+    "name": "Path",
+    "appliesTo": [
+        "observation",
+        "track"
+    ]
+}

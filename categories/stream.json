@@ -1,0 +1,17 @@
+{
+    "icon": "stream",
+    "color": "#1163DE",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "type": "waterway",
+        "waterway": "stream"
+    },
+    "terms": [],
+    "name": "Stream",
+    "appliesTo": [
+        "observation",
+        "track"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "icon": "lake",
+    "color": "#1163DE",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "type": "natural",
+        "natural": "water",
+        "water": "lake"
+    },
+    "terms": [],
+    "name": "Lake",
+    "appliesTo": [
+        "observation"
+    ]
+}

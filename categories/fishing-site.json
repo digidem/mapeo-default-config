@@ -1,0 +1,18 @@
+{
+    "icon": "fishing",
+    "color": "#13D5CF",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "type": "activity",
+        "activity": "fishing"
+    },
+    "terms": [
+        "fish"
+    ],
+    "name": "Fishing Site",
+    "appliesTo": [
+        "observation"
+    ]
+}

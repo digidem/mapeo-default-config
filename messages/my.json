@@ -1,177 +1,173 @@
 {
-  "fields.animal-type.label": {
+  "field.animal-type.label": {
     "description": "Label for field 'animal-type'",
     "message": "တိရစ္ဆာန်အမျိုးအစား"
   },
-  "fields.animal-type.placeholder": {
+  "field.animal-type.helperText": {
     "description": "An example to guide the user for field 'animal-type'",
     "message": "တိရစ္ဆာန်အမျိုးအစားတွေက ဘာတွေလဲ?"
   },
-  "fields.building-type.label": {
+  "field.building-type.label": {
     "description": "Label for field 'building-type'",
     "message": "အဆောက်အဦအမျိုးအစား"
   },
-  "fields.building-type.placeholder": {
+  "field.building-type.helperText": {
     "description": "An example to guide the user for field 'building-type'",
     "message": "စာသင်ကျောင်း/ ဆေးရုံ/ စသည်ဖြင့်"
   },
-  "fields.items-gathered.label": {
+  "field.items-gathered.label": {
     "description": "Label for field 'items-gathered'",
     "message": "ဒီမှာ ဘာတွေ စုဆောင်းပါသလဲ?"
   },
-  "fields.items-gathered.placeholder": {
+  "field.items-gathered.helperText": {
     "description": "An example to guide the user for field 'items-gathered'",
     "message": "ဥပမာ - ထင်း/ ဆေးဖက်ဝင်ပင် စသည်ဖြင့်."
   },
-  "fields.name.label": {
+  "field.name.label": {
     "description": "Label for field 'name'",
     "message": "အမည်"
   },
-  "fields.name.placeholder": {
+  "field.name.helperText": {
     "description": "An example to guide the user for field 'name'",
     "message": "ဒီနေရာ၏ ဒေသအမည်"
   },
-  "fields.note.label": {
+  "field.note.label": {
     "description": "Label for field 'note'",
     "message": "မှတ်ချက်"
   },
-  "fields.note.placeholder": {
+  "field.note.helperText": {
     "description": "An example to guide the user for field 'note'",
     "message": "ဒီနေရာ၏ မှတ်စု/ ရာဇဝင်"
   },
-  "fields.owner.label": {
+  "field.owner.label": {
     "description": "Label for field 'owner'",
     "message": "ပိုင်ရှင်အမည်"
   },
-  "fields.owner.placeholder": {
+  "field.owner.helperText": {
     "description": "An example to guide the user for field 'owner'",
     "message": "ဒီနေရာ၏ ပိုင်ရှင်/ အသုံးပြုသူ"
   },
-  "fields.palm-species.label": {
+  "field.palm-species.label": {
     "description": "Label for field 'palm-species'",
     "message": "အုန်း/ ထန်း မျိုးစိတ်များ"
   },
-  "fields.palm-species.placeholder": {
+  "field.palm-species.helperText": {
     "description": "An example to guide the user for field 'palm-species'",
     "message": "အုန်း/ ထန်းအမျိုးအစားက ဘာလဲ?"
   },
-  "fields.plant-species.label": {
+  "field.plant-species.label": {
     "description": "Label for field 'plant-species'",
     "message": "အပင်မျိုးစိတ်များ"
   },
-  "fields.plant-species.placeholder": {
+  "field.plant-species.helperText": {
     "description": "An example to guide the user for field 'plant-species'",
     "message": "အပင်အမျိုအစားကဘာလဲ?"
   },
-  "fields.source.label": {
+  "field.source.label": {
     "description": "Label for field 'source'",
     "message": "ရင်းမြစ်"
   },
-  "fields.source.placeholder": {
+  "field.source.helperText": {
     "description": "An example to guide the user for field 'source'",
     "message": "သတင်းအချက်အလက် ရင်းမြစ်"
   },
-  "fields.tree-species.label": {
+  "field.tree-species.label": {
     "description": "Label for field 'tree-species'",
     "message": "သစ်ပင်မျိုးစိတ်များ"
   },
-  "fields.tree-species.placeholder": {
+  "field.tree-species.helperText": {
     "description": "An example to guide the user for field 'tree-species'",
     "message": "သစ်ပင်အမျိုးအစားကဘာလဲ?"
   },
-  "fields.type.label": {
+  "field.type.label": {
     "description": "Label for field 'type'",
     "message": "လမ်းကြောင်းအမျိုးအစားကဘာလဲ?"
   },
-  "fields.type.placeholder": {
+  "field.type.helperText": {
     "description": "An example to guide the user for field 'type'",
     "message": "ဒီလမ်းကြောင်းက ဘာအတွက် အသုံးပြုတာပါလဲ?"
   },
-  "presets.airstrip.name": {
+  "category.airstrip.name": {
     "description": "The name of preset 'airstrip'",
     "message": "လေယာဉ်ဆင်းကွင်း"
   },
-  "presets.airstrip.terms": {
+  "category.airstrip.terms": {
     "description": "List of search terms for preset 'airstrip'",
     "message": "လေယာဉ်ကွင်း/ လေဆိပ်/ မြေပြင်သို့ဆင်းသက်ခြင်း"
   },
-  "presets.animal.name": {
+  "category.animal.name": {
     "description": "The name of preset 'animal'",
     "message": "တိရစ္ဆာန်"
   },
-  "presets.area.name": {
-    "description": "The name of preset 'area'",
-    "message": "နေရာအသစ်"
-  },
-  "presets.boundary-line.name": {
+  "category.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
     "message": "နယ်နိမိတ်"
   },
-  "presets.boundary-line.terms": {
+  "category.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
     "message": "နယ်စပ်, နယ်ခြား"
   },
-  "presets.building.name": {
+  "category.building.name": {
     "description": "The name of preset 'building'",
     "message": "အဆောက်အဦ"
   },
-  "presets.building.terms": {
+  "category.building.terms": {
     "description": "List of search terms for preset 'building'",
     "message": "ဆေးရုံ, စာသင်ကျောင်း"
   },
-  "presets.camp.name": {
+  "category.camp.name": {
     "description": "The name of preset 'camp'",
     "message": "စခန်း"
   },
-  "presets.camp.terms": {
+  "category.camp.terms": {
     "description": "List of search terms for preset 'camp'",
     "message": "စခန်းနေရာ, ခရီးထွက်ခြင်း, အမဲလိုက်ခြင်း"
   },
-  "presets.cave.name": {
+  "category.cave.name": {
     "description": "The name of preset 'cave'",
     "message": "ဂူ/ ဥမင်"
   },
-  "presets.clay.name": {
+  "category.clay.name": {
     "description": "The name of preset 'clay'",
     "message": "ရွံ့"
   },
-  "presets.community.name": {
+  "category.community.name": {
     "description": "The name of preset 'community'",
     "message": "ဒေသခံပြည်သူ"
   },
-  "presets.community.terms": {
+  "category.community.terms": {
     "description": "List of search terms for preset 'community'",
     "message": "ကျေးရွာ"
   },
-  "presets.fishing-site.name": {
+  "category.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
     "message": "ငါးမျှားရန်နေရာ"
   },
-  "presets.fishing-site.terms": {
+  "category.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
     "message": "ငါး"
   },
-  "presets.gathering-site.name": {
+  "category.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
     "message": "စုဝေးရာ နေရာ"
   },
-  "presets.gathering-site.terms": {
+  "category.gathering-site.terms": {
     "description": "List of search terms for preset 'gathering-site'",
     "message": "စုဆောင်းခြင်း"
   },
-  "presets.hills.name": {
+  "category.hills.name": {
     "description": "The name of preset 'hills'",
     "message": "တောင်ကုန်းများ"
   },
-  "presets.hills.terms": {
+  "category.hills.terms": {
     "description": "List of search terms for preset 'hills'",
     "message": "တောင်များ"
   },
-  "presets.house.name": {
+  "category.house.name": {
     "description": "The name of preset 'house'",
     "message": "အိမ်"
   },
-  "presets.house.terms": {
+  "category.house.terms": {
     "description": "List of search terms for preset 'house'",
     "message": "အိမ်"
   }

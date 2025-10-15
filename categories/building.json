@@ -1,0 +1,18 @@
+{
+    "icon": "building",
+    "color": "#B209B2",
+    "fields": [
+        "building-type"
+    ],
+    "tags": {
+        "type": "building"
+    },
+    "terms": [
+        "medical",
+        "school"
+    ],
+    "name": "Building",
+    "appliesTo": [
+        "observation"
+    ]
+}

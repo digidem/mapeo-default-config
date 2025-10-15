@@ -1,0 +1,18 @@
+{
+    "icon": "hills",
+    "color": "#073B4C",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "type": "natural",
+        "natural": "peak"
+    },
+    "terms": [
+        "mountains"
+    ],
+    "name": "Hills",
+    "appliesTo": [
+        "observation"
+    ]
+}

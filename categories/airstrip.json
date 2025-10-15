@@ -1,0 +1,20 @@
+{
+    "icon": "airstrip",
+    "color": "#B209B2",
+    "fields": [
+        "name"
+    ],
+    "tags": {
+        "type": "aeroway",
+        "aeroway": "airstrip"
+    },
+    "terms": [
+        "airfield",
+        "airport",
+        "landing"
+    ],
+    "name": "Airstrip",
+    "appliesTo": [
+        "observation"
+    ]
+}

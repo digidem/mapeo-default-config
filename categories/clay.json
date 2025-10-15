@@ -1,0 +1,14 @@
+{
+    "icon": "clay",
+    "color": "#073B4C",
+    "fields": [],
+    "tags": {
+        "type": "craft",
+        "craft": "clay"
+    },
+    "terms": [],
+    "name": "Clay",
+    "appliesTo": [
+        "observation"
+    ]
+}

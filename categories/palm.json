@@ -1,0 +1,17 @@
+{
+    "icon": "palm",
+    "color": "#2D9905",
+    "fields": [
+        "palm-species"
+    ],
+    "tags": {
+        "type": "natural",
+        "natural": "tree",
+        "tree": "palm"
+    },
+    "terms": [],
+    "name": "Palm",
+    "appliesTo": [
+        "observation"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "icon": "estrella",
+    "name": "New line",
+    "tags": {
+        "nuevo": "yes"
+    },
+    "appliesTo": [
+        "track"
+    ]
+}
