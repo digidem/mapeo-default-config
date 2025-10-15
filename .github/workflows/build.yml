@@ -1,6 +1,7 @@
 # Run whenever code is pushed
 on:
   push:
+  pull_request:
 
 name: Build
 
