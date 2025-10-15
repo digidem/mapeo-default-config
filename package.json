@@ -3,7 +3,7 @@
   "version": "6.0.0-pre.0",
   "description": "Mapeo default config (categories, icons, questions)",
   "devDependencies": {
-    "comapeocat": "^1.0.0-pre.7",
+    "comapeocat": "^1.0.0-pre.9",
     "mkdirp": "^1.0.4",
     "rimraf": "^3.0.2"
   },
