@@ -3,6 +3,10 @@
     "description": "Label for field 'animal-type'",
     "message": "Loại động vật"
   },
+  "fields.body-of-water-type.label": {
+    "description": "Label for field 'body-of-water-type'",
+    "message": "Loại vùng nước"
+  },
   "fields.body-of-water-type.options.Lake": {
     "description": "Label for option 'Lake' for field 'body-of-water-type'",
     "message": "Hồ"
@@ -19,6 +23,10 @@
     "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
     "message": "Thác nước"
   },
+  "fields.cultural-category.options.Archeological": {
+    "description": "Label for option 'Archeological' for field 'cultural-category'",
+    "message": "Khảo cổ"
+  },
   "fields.cultural-category.options.Gathering site": {
     "description": "Label for option 'Gathering site' for field 'cultural-category'",
     "message": "Địa điểm tụ họp"
@@ -31,6 +39,10 @@
     "description": "Label for option 'Farmland' for field 'food-source'",
     "message": "Đất nông nghiệp"
   },
+  "fields.food-source.options.Fishing area": {
+    "description": "Label for option 'Fishing area' for field 'food-source'",
+    "message": "Khu vực đánh bắt cá"
+  },
   "fields.gathering-type.options.Clay": {
     "description": "Label for option 'Clay' for field 'gathering-type'",
     "message": "Đất sét"
@@ -38,6 +50,10 @@
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "Tên"
+  },
+  "fields.need-type.options.Shelter/housing": {
+    "description": "Label for option 'Shelter/housing' for field 'need-type'",
+    "message": "Chỗ ở/nhà ở"
   },
   "fields.note.label": {
     "description": "Label for field 'note'",
