@@ -1,1 +1,1214 @@
-{}
+{
+  "fields.access.label": {
+    "description": "Label for field 'access'",
+    "message": "Akses"
+  },
+  "fields.access.placeholder": {
+    "description": "An example to guide the user for field 'access'",
+    "message": "Apa yang diperlukan untuk mengakses situs, layanan, atau aktivitas ini?"
+  },
+  "fields.activity-documented.label": {
+    "description": "Label for field 'activity-documented'",
+    "message": "Aktivitas yang didokumentasikan"
+  },
+  "fields.activity-documented.options.Contamination": {
+    "description": "Label for option 'Contamination' for field 'activity-documented'",
+    "message": "Kontaminasi"
+  },
+  "fields.activity-documented.options.Deforestation": {
+    "description": "Label for option 'Deforestation' for field 'activity-documented'",
+    "message": "Deforestasi"
+  },
+  "fields.activity-documented.options.Excavation": {
+    "description": "Label for option 'Excavation' for field 'activity-documented'",
+    "message": "Penggalian"
+  },
+  "fields.activity-documented.options.Extraction": {
+    "description": "Label for option 'Extraction' for field 'activity-documented'",
+    "message": "Ekstraksi"
+  },
+  "fields.activity-documented.options.Health crisis": {
+    "description": "Label for option 'Health crisis' for field 'activity-documented'",
+    "message": "Krisis kesehatan"
+  },
+  "fields.activity-documented.options.Impacted waterway": {
+    "description": "Label for option 'Impacted waterway' for field 'activity-documented'",
+    "message": "Jalur air yang terkena dampak"
+  },
+  "fields.activity-documented.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'activity-documented'",
+    "message": "Invasi"
+  },
+  "fields.activity-documented.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-documented'",
+    "message": "Lainnya"
+  },
+  "fields.activity-documented.options.Remediation": {
+    "description": "Label for option 'Remediation' for field 'activity-documented'",
+    "message": "Remediasi"
+  },
+  "fields.activity-documented.options.Spill": {
+    "description": "Label for option 'Spill' for field 'activity-documented'",
+    "message": "Tumpahan"
+  },
+  "fields.activity-documented.options.Surveying/sampling": {
+    "description": "Label for option 'Surveying/sampling' for field 'activity-documented'",
+    "message": "Survei/pengambilan sampel"
+  },
+  "fields.activity-documented.options.Unmaintained infrastructure": {
+    "description": "Label for option 'Unmaintained infrastructure' for field 'activity-documented'",
+    "message": "Infrastruktur yang tidak terawat"
+  },
+  "fields.activity-documented.placeholder": {
+    "description": "An example to guide the user for field 'activity-documented'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.activity-progress.label": {
+    "description": "Label for field 'activity-progress'",
+    "message": "Kemajuan aktivitas"
+  },
+  "fields.activity-progress.options.Active/in-progress": {
+    "description": "Label for option 'Active/in-progress' for field 'activity-progress'",
+    "message": "Aktif/sedang berlangsung"
+  },
+  "fields.activity-progress.options.Inactive/complete": {
+    "description": "Label for option 'Inactive/complete' for field 'activity-progress'",
+    "message": "Tidak aktif/lengkap"
+  },
+  "fields.activity-progress.options.Initial stages": {
+    "description": "Label for option 'Initial stages' for field 'activity-progress'",
+    "message": "Tahap awal"
+  },
+  "fields.activity-progress.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-progress'",
+    "message": "Lainnya"
+  },
+  "fields.activity-progress.options.Repeat activity": {
+    "description": "Label for option 'Repeat activity' for field 'activity-progress'",
+    "message": "Ulangi aktivitas"
+  },
+  "fields.activity-progress.options.Temporarily suspended": {
+    "description": "Label for option 'Temporarily suspended' for field 'activity-progress'",
+    "message": "Ditangguhkan sementara"
+  },
+  "fields.activity-progress.placeholder": {
+    "description": "An example to guide the user for field 'activity-progress'",
+    "message": "Pilih salah satu"
+  },
+  "fields.animal-type.label": {
+    "description": "Label for field 'animal-type'",
+    "message": "Jenis hewan"
+  },
+  "fields.animal-type.options.Bird": {
+    "description": "Label for option 'Bird' for field 'animal-type'",
+    "message": "Burung"
+  },
+  "fields.animal-type.options.Fish": {
+    "description": "Label for option 'Fish' for field 'animal-type'",
+    "message": "Ikan"
+  },
+  "fields.animal-type.options.Mammal": {
+    "description": "Label for option 'Mammal' for field 'animal-type'",
+    "message": "Mamalia"
+  },
+  "fields.animal-type.options.Other": {
+    "description": "Label for option 'Other' for field 'animal-type'",
+    "message": "Lainnya"
+  },
+  "fields.animal-type.options.Reptile/amphibian": {
+    "description": "Label for option 'Reptile/amphibian' for field 'animal-type'",
+    "message": "Reptil/amfibi"
+  },
+  "fields.animal-type.placeholder": {
+    "description": "An example to guide the user for field 'animal-type'",
+    "message": "Pilih salah satu"
+  },
+  "fields.authorities-needed.label": {
+    "description": "Label for field 'authorities-needed'",
+    "message": "Otoritas yang dibutuhkan atau terlibat"
+  },
+  "fields.authorities-needed.options.Health authorities": {
+    "description": "Label for option 'Health authorities' for field 'authorities-needed'",
+    "message": "Otoritas kesehatan"
+  },
+  "fields.authorities-needed.options.Local leadership": {
+    "description": "Label for option 'Local leadership' for field 'authorities-needed'",
+    "message": "Kepemimpinan lokal"
+  },
+  "fields.authorities-needed.options.Munilcipal police": {
+    "description": "Label for option 'Munilcipal police' for field 'authorities-needed'",
+    "message": "Polisi munilcipal"
+  },
+  "fields.authorities-needed.options.National law enforcment": {
+    "description": "Label for option 'National law enforcment' for field 'authorities-needed'",
+    "message": "Penegakan hukum nasional"
+  },
+  "fields.authorities-needed.options.None": {
+    "description": "Label for option 'None' for field 'authorities-needed'",
+    "message": "Tidak ada"
+  },
+  "fields.authorities-needed.options.Other": {
+    "description": "Label for option 'Other' for field 'authorities-needed'",
+    "message": "Lainnya"
+  },
+  "fields.authorities-needed.options.Park rangers": {
+    "description": "Label for option 'Park rangers' for field 'authorities-needed'",
+    "message": "Penjaga taman"
+  },
+  "fields.authorities-needed.options.Private security": {
+    "description": "Label for option 'Private security' for field 'authorities-needed'",
+    "message": "Keamanan pribadi"
+  },
+  "fields.authorities-needed.options.Regional law enforcement": {
+    "description": "Label for option 'Regional law enforcement' for field 'authorities-needed'",
+    "message": "Penegakan hukum regional"
+  },
+  "fields.authorities-needed.placeholder": {
+    "description": "An example to guide the user for field 'authorities-needed'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.body-of-water-type.label": {
+    "description": "Label for field 'body-of-water-type'",
+    "message": "Jenis badan air"
+  },
+  "fields.body-of-water-type.options.Delta": {
+    "description": "Label for option 'Delta' for field 'body-of-water-type'",
+    "message": "Delta"
+  },
+  "fields.body-of-water-type.options.Glacier": {
+    "description": "Label for option 'Glacier' for field 'body-of-water-type'",
+    "message": "Gletser"
+  },
+  "fields.body-of-water-type.options.Headwaters": {
+    "description": "Label for option 'Headwaters' for field 'body-of-water-type'",
+    "message": "Hulu"
+  },
+  "fields.body-of-water-type.options.Lake": {
+    "description": "Label for option 'Lake' for field 'body-of-water-type'",
+    "message": "Danau"
+  },
+  "fields.body-of-water-type.options.Other": {
+    "description": "Label for option 'Other' for field 'body-of-water-type'",
+    "message": "Lainnya"
+  },
+  "fields.body-of-water-type.options.Pond": {
+    "description": "Label for option 'Pond' for field 'body-of-water-type'",
+    "message": "Kolam"
+  },
+  "fields.body-of-water-type.options.Rapids": {
+    "description": "Label for option 'Rapids' for field 'body-of-water-type'",
+    "message": "Jeram"
+  },
+  "fields.body-of-water-type.options.River": {
+    "description": "Label for option 'River' for field 'body-of-water-type'",
+    "message": "Sungai"
+  },
+  "fields.body-of-water-type.options.Stream": {
+    "description": "Label for option 'Stream' for field 'body-of-water-type'",
+    "message": "Aliran"
+  },
+  "fields.body-of-water-type.options.Subsurface water table": {
+    "description": "Label for option 'Subsurface water table' for field 'body-of-water-type'",
+    "message": "Permukaan air bawah permukaan"
+  },
+  "fields.body-of-water-type.options.Waterfall": {
+    "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
+    "message": "Air terjun"
+  },
+  "fields.body-of-water-type.placeholder": {
+    "description": "An example to guide the user for field 'body-of-water-type'",
+    "message": "Pilih sebanyak yang berlaku"
+  },
+  "fields.common-translations.label": {
+    "description": "Label for field 'common-translations'",
+    "message": "Terjemahan umum"
+  },
+  "fields.common-translations.placeholder": {
+    "description": "An example to guide the user for field 'common-translations'",
+    "message": "Apa terjemahan umum untuk kata/tempat ini?"
+  },
+  "fields.conditions.label": {
+    "description": "Label for field 'conditions'",
+    "message": "Kondisi"
+  },
+  "fields.conditions.options.Expected": {
+    "description": "Label for option 'Expected' for field 'conditions'",
+    "message": "Diharapkan"
+  },
+  "fields.conditions.options.Unusual": {
+    "description": "Label for option 'Unusual' for field 'conditions'",
+    "message": "Tidak biasa"
+  },
+  "fields.conditions.placeholder": {
+    "description": "An example to guide the user for field 'conditions'",
+    "message": "Pilih salah satu"
+  },
+  "fields.cultural-category.label": {
+    "description": "Label for field 'cultural-category'",
+    "message": "Kategori budaya"
+  },
+  "fields.cultural-category.options.Archeological": {
+    "description": "Label for option 'Archeological' for field 'cultural-category'",
+    "message": "Arkeologi"
+  },
+  "fields.cultural-category.options.Gathering site": {
+    "description": "Label for option 'Gathering site' for field 'cultural-category'",
+    "message": "Tempat berkumpul"
+  },
+  "fields.cultural-category.options.Historical": {
+    "description": "Label for option 'Historical' for field 'cultural-category'",
+    "message": "Sejarah"
+  },
+  "fields.cultural-category.options.Mythological": {
+    "description": "Label for option 'Mythological' for field 'cultural-category'",
+    "message": "Mitologis"
+  },
+  "fields.cultural-category.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-category'",
+    "message": "Lainnya"
+  },
+  "fields.cultural-category.options.Sacred": {
+    "description": "Label for option 'Sacred' for field 'cultural-category'",
+    "message": "Sakral"
+  },
+  "fields.cultural-category.options.Story": {
+    "description": "Label for option 'Story' for field 'cultural-category'",
+    "message": "Cerita"
+  },
+  "fields.cultural-category.placeholder": {
+    "description": "An example to guide the user for field 'cultural-category'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.cultural-details.label": {
+    "description": "Label for field 'cultural-details'",
+    "message": "Detail budaya"
+  },
+  "fields.cultural-details.placeholder": {
+    "description": "An example to guide the user for field 'cultural-details'",
+    "message": "Tambahkan detail/cerita yang relevan dengan budaya lokal"
+  },
+  "fields.cultural-mediums.label": {
+    "description": "Label for field 'cultural-mediums'",
+    "message": "Media budaya"
+  },
+  "fields.cultural-mediums.options.Ceremony": {
+    "description": "Label for option 'Ceremony' for field 'cultural-mediums'",
+    "message": "Upacara"
+  },
+  "fields.cultural-mediums.options.Clothing/adornment": {
+    "description": "Label for option 'Clothing/adornment' for field 'cultural-mediums'",
+    "message": "Pakaian/perhiasan"
+  },
+  "fields.cultural-mediums.options.Dance/play": {
+    "description": "Label for option 'Dance/play' for field 'cultural-mediums'",
+    "message": "Menari/bermain"
+  },
+  "fields.cultural-mediums.options.Decoration": {
+    "description": "Label for option 'Decoration' for field 'cultural-mediums'",
+    "message": "Dekorasi"
+  },
+  "fields.cultural-mediums.options.Design/architecture": {
+    "description": "Label for option 'Design/architecture' for field 'cultural-mediums'",
+    "message": "Desain/arsitektur"
+  },
+  "fields.cultural-mediums.options.Digital media": {
+    "description": "Label for option 'Digital media' for field 'cultural-mediums'",
+    "message": "Media digital"
+  },
+  "fields.cultural-mediums.options.Event": {
+    "description": "Label for option 'Event' for field 'cultural-mediums'",
+    "message": "Acara"
+  },
+  "fields.cultural-mediums.options.Food/cuisine": {
+    "description": "Label for option 'Food/cuisine' for field 'cultural-mediums'",
+    "message": "Makanan/masakan"
+  },
+  "fields.cultural-mediums.options.Game/sport": {
+    "description": "Label for option 'Game/sport' for field 'cultural-mediums'",
+    "message": "Permainan/olahraga"
+  },
+  "fields.cultural-mediums.options.Literary/poetry": {
+    "description": "Label for option 'Literary/poetry' for field 'cultural-mediums'",
+    "message": "Sastra/puisi"
+  },
+  "fields.cultural-mediums.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-mediums'",
+    "message": "Lainnya"
+  },
+  "fields.cultural-mediums.options.Performance/presentation": {
+    "description": "Label for option 'Performance/presentation' for field 'cultural-mediums'",
+    "message": "Penampilan/presentasi"
+  },
+  "fields.cultural-mediums.options.Place/site": {
+    "description": "Label for option 'Place/site' for field 'cultural-mediums'",
+    "message": "Tempat/situs"
+  },
+  "fields.cultural-mediums.options.Rituals/customs": {
+    "description": "Label for option 'Rituals/customs' for field 'cultural-mediums'",
+    "message": "Ritual/adat istiadat"
+  },
+  "fields.cultural-mediums.options.Song/music": {
+    "description": "Label for option 'Song/music' for field 'cultural-mediums'",
+    "message": "Lagu/musik"
+  },
+  "fields.cultural-mediums.options.Storytelling/oral history": {
+    "description": "Label for option 'Storytelling/oral history' for field 'cultural-mediums'",
+    "message": "Mendongeng/sejarah lisan"
+  },
+  "fields.cultural-mediums.options.Tools/technology": {
+    "description": "Label for option 'Tools/technology' for field 'cultural-mediums'",
+    "message": "Alat/teknologi"
+  },
+  "fields.cultural-mediums.options.Visual art/exhibit/display": {
+    "description": "Label for option 'Visual art/exhibit/display' for field 'cultural-mediums'",
+    "message": "Seni visual/pameran/tampilan"
+  },
+  "fields.cultural-mediums.placeholder": {
+    "description": "An example to guide the user for field 'cultural-mediums'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.cultural-name.label": {
+    "description": "Label for field 'cultural-name'",
+    "message": "Nama / istilah budaya"
+  },
+  "fields.cultural-name.placeholder": {
+    "description": "An example to guide the user for field 'cultural-name'",
+    "message": "Apa yang disebut ini?"
+  },
+  "fields.cultural-participation.label": {
+    "description": "Label for field 'cultural-participation'",
+    "message": "Partisipasi budaya"
+  },
+  "fields.cultural-participation.options.Audience/spectator": {
+    "description": "Label for option 'Audience/spectator' for field 'cultural-participation'",
+    "message": "Penonton/penonton"
+  },
+  "fields.cultural-participation.options.Community": {
+    "description": "Label for option 'Community' for field 'cultural-participation'",
+    "message": "Komunitas"
+  },
+  "fields.cultural-participation.options.Family": {
+    "description": "Label for option 'Family' for field 'cultural-participation'",
+    "message": "Keluarga"
+  },
+  "fields.cultural-participation.options.Group members": {
+    "description": "Label for option 'Group members' for field 'cultural-participation'",
+    "message": "Anggota grup"
+  },
+  "fields.cultural-participation.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-participation'",
+    "message": "Lainnya"
+  },
+  "fields.cultural-participation.options.Participatory": {
+    "description": "Label for option 'Participatory' for field 'cultural-participation'",
+    "message": "Partisipatif"
+  },
+  "fields.cultural-participation.options.Private": {
+    "description": "Label for option 'Private' for field 'cultural-participation'",
+    "message": "Pribadi"
+  },
+  "fields.cultural-participation.options.Public": {
+    "description": "Label for option 'Public' for field 'cultural-participation'",
+    "message": "Publik"
+  },
+  "fields.cultural-participation.options.Visitors": {
+    "description": "Label for option 'Visitors' for field 'cultural-participation'",
+    "message": "Pengunjung"
+  },
+  "fields.cultural-participation.placeholder": {
+    "description": "An example to guide the user for field 'cultural-participation'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.ecological-status.label": {
+    "description": "Label for field 'ecological-status'",
+    "message": "Status ekologis"
+  },
+  "fields.ecological-status.options.Controlled species": {
+    "description": "Label for option 'Controlled species' for field 'ecological-status'",
+    "message": "Spesies yang dikendalikan"
+  },
+  "fields.ecological-status.options.Invasive species": {
+    "description": "Label for option 'Invasive species' for field 'ecological-status'",
+    "message": "Spesies invasif"
+  },
+  "fields.ecological-status.options.Native species": {
+    "description": "Label for option 'Native species' for field 'ecological-status'",
+    "message": "Spesies asli"
+  },
+  "fields.ecological-status.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'ecological-status'",
+    "message": "Tidak yakin"
+  },
+  "fields.ecological-status.placeholder": {
+    "description": "An example to guide the user for field 'ecological-status'",
+    "message": "Pilih salah satu"
+  },
+  "fields.ecosystem-type.label": {
+    "description": "Label for field 'ecosystem-type'",
+    "message": "Jenis ekosistem"
+  },
+  "fields.ecosystem-type.options.Desert": {
+    "description": "Label for option 'Desert' for field 'ecosystem-type'",
+    "message": "Gurun"
+  },
+  "fields.ecosystem-type.options.Forest/woodland": {
+    "description": "Label for option 'Forest/woodland' for field 'ecosystem-type'",
+    "message": "Hutan/hutan"
+  },
+  "fields.ecosystem-type.options.Grasslands": {
+    "description": "Label for option 'Grasslands' for field 'ecosystem-type'",
+    "message": "Padang rumput"
+  },
+  "fields.ecosystem-type.options.Mangrove": {
+    "description": "Label for option 'Mangrove' for field 'ecosystem-type'",
+    "message": "Mangrove"
+  },
+  "fields.ecosystem-type.options.Other": {
+    "description": "Label for option 'Other' for field 'ecosystem-type'",
+    "message": "Lainnya"
+  },
+  "fields.ecosystem-type.options.Permafrost": {
+    "description": "Label for option 'Permafrost' for field 'ecosystem-type'",
+    "message": "Permafrost"
+  },
+  "fields.ecosystem-type.options.Ravine": {
+    "description": "Label for option 'Ravine' for field 'ecosystem-type'",
+    "message": "Jurang"
+  },
+  "fields.ecosystem-type.options.Tundra": {
+    "description": "Label for option 'Tundra' for field 'ecosystem-type'",
+    "message": "Tundra"
+  },
+  "fields.ecosystem-type.options.Wetland": {
+    "description": "Label for option 'Wetland' for field 'ecosystem-type'",
+    "message": "Lahan basah"
+  },
+  "fields.ecosystem-type.placeholder": {
+    "description": "An example to guide the user for field 'ecosystem-type'",
+    "message": "Pilih salah satu"
+  },
+  "fields.field-test-details.label": {
+    "description": "Label for field 'field-test-details'",
+    "message": "Detail pengujian lapangan"
+  },
+  "fields.field-test-details.placeholder": {
+    "description": "An example to guide the user for field 'field-test-details'",
+    "message": "Jelaskan tes yang digunakan, sampel dan pengamatan "
+  },
+  "fields.food-source.label": {
+    "description": "Label for field 'food-source'",
+    "message": "Sumber makanan"
+  },
+  "fields.food-source.options.Farmland": {
+    "description": "Label for option 'Farmland' for field 'food-source'",
+    "message": "Lahan pertanian"
+  },
+  "fields.food-source.options.Fishing area": {
+    "description": "Label for option 'Fishing area' for field 'food-source'",
+    "message": "Area penangkapan ikan"
+  },
+  "fields.food-source.options.Food forest": {
+    "description": "Label for option 'Food forest' for field 'food-source'",
+    "message": "Hutan pangan"
+  },
+  "fields.food-source.options.Foraging": {
+    "description": "Label for option 'Foraging' for field 'food-source'",
+    "message": "Mencari makan"
+  },
+  "fields.food-source.options.Garden": {
+    "description": "Label for option 'Garden' for field 'food-source'",
+    "message": "Taman"
+  },
+  "fields.food-source.options.Hunting": {
+    "description": "Label for option 'Hunting' for field 'food-source'",
+    "message": "Berburu"
+  },
+  "fields.food-source.options.Other": {
+    "description": "Label for option 'Other' for field 'food-source'",
+    "message": "Lainnya"
+  },
+  "fields.food-source.options.Pasture": {
+    "description": "Label for option 'Pasture' for field 'food-source'",
+    "message": "Padang rumput"
+  },
+  "fields.food-source.options.Permaculture": {
+    "description": "Label for option 'Permaculture' for field 'food-source'",
+    "message": "Permakultur"
+  },
+  "fields.food-source.options.Trap": {
+    "description": "Label for option 'Trap' for field 'food-source'",
+    "message": "Perangkap"
+  },
+  "fields.food-source.options.Trapline": {
+    "description": "Label for option 'Trapline' for field 'food-source'",
+    "message": "Garis jebakan"
+  },
+  "fields.food-source.placeholder": {
+    "description": "An example to guide the user for field 'food-source'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.gathering-type.label": {
+    "description": "Label for field 'gathering-type'",
+    "message": "Jenis pengumpulan"
+  },
+  "fields.gathering-type.options.Berries": {
+    "description": "Label for option 'Berries' for field 'gathering-type'",
+    "message": "Buah beri"
+  },
+  "fields.gathering-type.options.Clay": {
+    "description": "Label for option 'Clay' for field 'gathering-type'",
+    "message": "Tanah liat"
+  },
+  "fields.gathering-type.options.Fibers": {
+    "description": "Label for option 'Fibers' for field 'gathering-type'",
+    "message": "Serat"
+  },
+  "fields.gathering-type.options.Honey": {
+    "description": "Label for option 'Honey' for field 'gathering-type'",
+    "message": "Madu"
+  },
+  "fields.gathering-type.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'gathering-type'",
+    "message": "Kedokteran"
+  },
+  "fields.gathering-type.options.Mushrooms": {
+    "description": "Label for option 'Mushrooms' for field 'gathering-type'",
+    "message": "Jamur"
+  },
+  "fields.gathering-type.options.Other": {
+    "description": "Label for option 'Other' for field 'gathering-type'",
+    "message": "Lainnya"
+  },
+  "fields.gathering-type.options.Tree fruit": {
+    "description": "Label for option 'Tree fruit' for field 'gathering-type'",
+    "message": "Buah pohon"
+  },
+  "fields.gathering-type.placeholder": {
+    "description": "An example to guide the user for field 'gathering-type'",
+    "message": "Sumber daya yang dikumpulkan di sini"
+  },
+  "fields.incident-type.label": {
+    "description": "Label for field 'incident-type'",
+    "message": "Jenis insiden"
+  },
+  "fields.incident-type.options.Conflict": {
+    "description": "Label for option 'Conflict' for field 'incident-type'",
+    "message": "Konflik"
+  },
+  "fields.incident-type.options.Human rights violation": {
+    "description": "Label for option 'Human rights violation' for field 'incident-type'",
+    "message": "Pelanggaran hak asasi manusia"
+  },
+  "fields.incident-type.options.Illness": {
+    "description": "Label for option 'Illness' for field 'incident-type'",
+    "message": "Penyakit"
+  },
+  "fields.incident-type.options.Injury": {
+    "description": "Label for option 'Injury' for field 'incident-type'",
+    "message": "Cedera"
+  },
+  "fields.incident-type.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'incident-type'",
+    "message": "Invasi"
+  },
+  "fields.incident-type.options.Material damage": {
+    "description": "Label for option 'Material damage' for field 'incident-type'",
+    "message": "Kerusakan material"
+  },
+  "fields.incident-type.options.Other": {
+    "description": "Label for option 'Other' for field 'incident-type'",
+    "message": "Lainnya"
+  },
+  "fields.incident-type.options.Theft": {
+    "description": "Label for option 'Theft' for field 'incident-type'",
+    "message": "Pencurian"
+  },
+  "fields.incident-type.options.Violence": {
+    "description": "Label for option 'Violence' for field 'incident-type'",
+    "message": "Kekerasan"
+  },
+  "fields.incident-type.placeholder": {
+    "description": "An example to guide the user for field 'incident-type'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.issue-priority.label": {
+    "description": "Label for field 'issue-priority'",
+    "message": "Prioritas masalah"
+  },
+  "fields.issue-priority.options.Important issue": {
+    "description": "Label for option 'Important issue' for field 'issue-priority'",
+    "message": "Masalah penting"
+  },
+  "fields.issue-priority.options.Inconvenience": {
+    "description": "Label for option 'Inconvenience' for field 'issue-priority'",
+    "message": "Ketidaknyamanan"
+  },
+  "fields.issue-priority.options.Urgent issue": {
+    "description": "Label for option 'Urgent issue' for field 'issue-priority'",
+    "message": "Masalah mendesak"
+  },
+  "fields.issue-priority.placeholder": {
+    "description": "An example to guide the user for field 'issue-priority'",
+    "message": "Seberapa besar dampak ini terhadap Anda?"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nama"
+  },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Apa yang disebut ini?"
+  },
+  "fields.natural-event-type.label": {
+    "description": "Label for field 'natural-event-type'",
+    "message": "Jenis peristiwa alam"
+  },
+  "fields.natural-event-type.options.Drought": {
+    "description": "Label for option 'Drought' for field 'natural-event-type'",
+    "message": "Kekeringan"
+  },
+  "fields.natural-event-type.options.Fire": {
+    "description": "Label for option 'Fire' for field 'natural-event-type'",
+    "message": "Kebakaran"
+  },
+  "fields.natural-event-type.options.Flood": {
+    "description": "Label for option 'Flood' for field 'natural-event-type'",
+    "message": "Banjir"
+  },
+  "fields.natural-event-type.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-event-type'",
+    "message": "Lainnya"
+  },
+  "fields.natural-event-type.options.Storm": {
+    "description": "Label for option 'Storm' for field 'natural-event-type'",
+    "message": "Badai"
+  },
+  "fields.natural-event-type.placeholder": {
+    "description": "An example to guide the user for field 'natural-event-type'",
+    "message": "Pilih salah satu"
+  },
+  "fields.natural-resource.label": {
+    "description": "Label for field 'natural-resource'",
+    "message": "Sumber Daya Alam"
+  },
+  "fields.natural-resource.options.Artisanry": {
+    "description": "Label for option 'Artisanry' for field 'natural-resource'",
+    "message": "Keahlian"
+  },
+  "fields.natural-resource.options.Clothing": {
+    "description": "Label for option 'Clothing' for field 'natural-resource'",
+    "message": "Pakaian"
+  },
+  "fields.natural-resource.options.Communication": {
+    "description": "Label for option 'Communication' for field 'natural-resource'",
+    "message": "Komunikasi"
+  },
+  "fields.natural-resource.options.Food": {
+    "description": "Label for option 'Food' for field 'natural-resource'",
+    "message": "Makanan"
+  },
+  "fields.natural-resource.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'natural-resource'",
+    "message": "Kedokteran"
+  },
+  "fields.natural-resource.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-resource'",
+    "message": "Lainnya"
+  },
+  "fields.natural-resource.options.Revenue": {
+    "description": "Label for option 'Revenue' for field 'natural-resource'",
+    "message": "Pendapatan"
+  },
+  "fields.natural-resource.options.Shelter": {
+    "description": "Label for option 'Shelter' for field 'natural-resource'",
+    "message": "Tempat berlindung"
+  },
+  "fields.natural-resource.options.Tools": {
+    "description": "Label for option 'Tools' for field 'natural-resource'",
+    "message": "Alat"
+  },
+  "fields.natural-resource.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'natural-resource'",
+    "message": "Transportasi"
+  },
+  "fields.natural-resource.options.Water": {
+    "description": "Label for option 'Water' for field 'natural-resource'",
+    "message": "Air"
+  },
+  "fields.natural-resource.placeholder": {
+    "description": "An example to guide the user for field 'natural-resource'",
+    "message": "Ini adalah sumber"
+  },
+  "fields.need-type.label": {
+    "description": "Label for field 'need-type'",
+    "message": "Jenis kebutuhan"
+  },
+  "fields.need-type.options.Crisis response services": {
+    "description": "Label for option 'Crisis response services' for field 'need-type'",
+    "message": "Layanan tanggap krisis"
+  },
+  "fields.need-type.options.Food": {
+    "description": "Label for option 'Food' for field 'need-type'",
+    "message": "Makanan"
+  },
+  "fields.need-type.options.Health services": {
+    "description": "Label for option 'Health services' for field 'need-type'",
+    "message": "Layanan kesehatan"
+  },
+  "fields.need-type.options.Law enforcement": {
+    "description": "Label for option 'Law enforcement' for field 'need-type'",
+    "message": "Penegakan hukum"
+  },
+  "fields.need-type.options.Other": {
+    "description": "Label for option 'Other' for field 'need-type'",
+    "message": "Lainnya"
+  },
+  "fields.need-type.options.Potable water": {
+    "description": "Label for option 'Potable water' for field 'need-type'",
+    "message": "Air minum"
+  },
+  "fields.need-type.options.Shelter/housing": {
+    "description": "Label for option 'Shelter/housing' for field 'need-type'",
+    "message": "Tempat penampungan/perumahan"
+  },
+  "fields.need-type.options.Supplies/materials": {
+    "description": "Label for option 'Supplies/materials' for field 'need-type'",
+    "message": "Persediaan/bahan"
+  },
+  "fields.need-type.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'need-type'",
+    "message": "Transportasi"
+  },
+  "fields.need-type.placeholder": {
+    "description": "An example to guide the user for field 'need-type'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.note.label": {
+    "description": "Label for field 'note'",
+    "message": "catatan"
+  },
+  "fields.note.placeholder": {
+    "description": "An example to guide the user for field 'note'",
+    "message": "Catatan umum"
+  },
+  "fields.permission.label": {
+    "description": "Label for field 'permission'",
+    "message": "Izin"
+  },
+  "fields.permission.options.Insufficient consultation": {
+    "description": "Label for option 'Insufficient consultation' for field 'permission'",
+    "message": "Konsultasi yang tidak memadai"
+  },
+  "fields.permission.options.Not permitted": {
+    "description": "Label for option 'Not permitted' for field 'permission'",
+    "message": "Tidak diizinkan"
+  },
+  "fields.permission.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'permission'",
+    "message": "Tidak yakin"
+  },
+  "fields.permission.options.Permitted": {
+    "description": "Label for option 'Permitted' for field 'permission'",
+    "message": "Diizinkan"
+  },
+  "fields.permission.placeholder": {
+    "description": "An example to guide the user for field 'permission'",
+    "message": "Pilih salah satu"
+  },
+  "fields.place-name.label": {
+    "description": "Label for field 'place-name'",
+    "message": "Nama tempat"
+  },
+  "fields.place-name.placeholder": {
+    "description": "An example to guide the user for field 'place-name'",
+    "message": "Apa nama tempat ini?"
+  },
+  "fields.presumed-responsible.label": {
+    "description": "Label for field 'presumed-responsible'",
+    "message": "Dianggap bertanggung jawab"
+  },
+  "fields.presumed-responsible.placeholder": {
+    "description": "An example to guide the user for field 'presumed-responsible'",
+    "message": "Siapa atau apa yang mungkin bertanggung jawab atas hal ini?"
+  },
+  "fields.sample-type.label": {
+    "description": "Label for field 'sample-type'",
+    "message": "Jenis sampel"
+  },
+  "fields.sample-type.options.Air": {
+    "description": "Label for option 'Air' for field 'sample-type'",
+    "message": "Udara"
+  },
+  "fields.sample-type.options.Forestry/vegetation": {
+    "description": "Label for option 'Forestry/vegetation' for field 'sample-type'",
+    "message": "Kehutanan/vegetasi"
+  },
+  "fields.sample-type.options.Meteorological": {
+    "description": "Label for option 'Meteorological' for field 'sample-type'",
+    "message": "Meteorologi"
+  },
+  "fields.sample-type.options.Mineral": {
+    "description": "Label for option 'Mineral' for field 'sample-type'",
+    "message": "Mineral"
+  },
+  "fields.sample-type.options.Other": {
+    "description": "Label for option 'Other' for field 'sample-type'",
+    "message": "Lainnya"
+  },
+  "fields.sample-type.options.Soil": {
+    "description": "Label for option 'Soil' for field 'sample-type'",
+    "message": "Tanah"
+  },
+  "fields.sample-type.options.Water": {
+    "description": "Label for option 'Water' for field 'sample-type'",
+    "message": "Air"
+  },
+  "fields.sample-type.placeholder": {
+    "description": "An example to guide the user for field 'sample-type'",
+    "message": "Pilih jenis pengujian"
+  },
+  "fields.service-type.label": {
+    "description": "Label for field 'service-type'",
+    "message": "Jenis layanan"
+  },
+  "fields.service-type.options.Communication": {
+    "description": "Label for option 'Communication' for field 'service-type'",
+    "message": "Komunikasi"
+  },
+  "fields.service-type.options.Education": {
+    "description": "Label for option 'Education' for field 'service-type'",
+    "message": "Pendidikan"
+  },
+  "fields.service-type.options.Health": {
+    "description": "Label for option 'Health' for field 'service-type'",
+    "message": "Kesehatan"
+  },
+  "fields.service-type.options.Market/food services": {
+    "description": "Label for option 'Market/food services' for field 'service-type'",
+    "message": "Layanan pasar/makanan"
+  },
+  "fields.service-type.options.Other": {
+    "description": "Label for option 'Other' for field 'service-type'",
+    "message": "Lainnya"
+  },
+  "fields.service-type.options.Recreation": {
+    "description": "Label for option 'Recreation' for field 'service-type'",
+    "message": "Rekreasi"
+  },
+  "fields.service-type.options.Shops/utility": {
+    "description": "Label for option 'Shops/utility' for field 'service-type'",
+    "message": "Toko/utilitas"
+  },
+  "fields.service-type.options.Social services": {
+    "description": "Label for option 'Social services' for field 'service-type'",
+    "message": "Layanan sosial"
+  },
+  "fields.service-type.options.Spiritual/religious": {
+    "description": "Label for option 'Spiritual/religious' for field 'service-type'",
+    "message": "Spiritual/religius"
+  },
+  "fields.service-type.options.Water infrastructure": {
+    "description": "Label for option 'Water infrastructure' for field 'service-type'",
+    "message": "Infrastruktur air"
+  },
+  "fields.service-type.placeholder": {
+    "description": "An example to guide the user for field 'service-type'",
+    "message": "Jenis situs apa ini?"
+  },
+  "fields.shelter-type.label": {
+    "description": "Label for field 'shelter-type'",
+    "message": "Jenis tempat penampungan"
+  },
+  "fields.shelter-type.options.Not in use": {
+    "description": "Label for option 'Not in use' for field 'shelter-type'",
+    "message": "Tidak digunakan"
+  },
+  "fields.shelter-type.options.Other": {
+    "description": "Label for option 'Other' for field 'shelter-type'",
+    "message": "Lainnya"
+  },
+  "fields.shelter-type.options.Permanent": {
+    "description": "Label for option 'Permanent' for field 'shelter-type'",
+    "message": "Permanen"
+  },
+  "fields.shelter-type.options.Temporary": {
+    "description": "Label for option 'Temporary' for field 'shelter-type'",
+    "message": "Sementara"
+  },
+  "fields.shelter-type.placeholder": {
+    "description": "An example to guide the user for field 'shelter-type'",
+    "message": "Tempat berlindung macam apa itu?"
+  },
+  "fields.vehicle-type-air.label": {
+    "description": "Label for field 'vehicle-type-air'",
+    "message": "Jenis kendaraan - udara"
+  },
+  "fields.vehicle-type-air.options.Aircraft": {
+    "description": "Label for option 'Aircraft' for field 'vehicle-type-air'",
+    "message": "Pesawat"
+  },
+  "fields.vehicle-type-air.options.Helicopter": {
+    "description": "Label for option 'Helicopter' for field 'vehicle-type-air'",
+    "message": "Helikopter"
+  },
+  "fields.vehicle-type-air.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-air'",
+    "message": "Lainnya"
+  },
+  "fields.vehicle-type-air.options.Small aircraft": {
+    "description": "Label for option 'Small aircraft' for field 'vehicle-type-air'",
+    "message": "Pesawat kecil"
+  },
+  "fields.vehicle-type-air.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-air'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.vehicle-type-land.label": {
+    "description": "Label for field 'vehicle-type-land'",
+    "message": "Jenis kendaraan - darat"
+  },
+  "fields.vehicle-type-land.options.All terrain vehicle": {
+    "description": "Label for option 'All terrain vehicle' for field 'vehicle-type-land'",
+    "message": "Kendaraan segala medan"
+  },
+  "fields.vehicle-type-land.options.Bicycle": {
+    "description": "Label for option 'Bicycle' for field 'vehicle-type-land'",
+    "message": "Sepeda"
+  },
+  "fields.vehicle-type-land.options.Bus": {
+    "description": "Label for option 'Bus' for field 'vehicle-type-land'",
+    "message": "Bus"
+  },
+  "fields.vehicle-type-land.options.Cargo van/truck": {
+    "description": "Label for option 'Cargo van/truck' for field 'vehicle-type-land'",
+    "message": "Van kargo / truk"
+  },
+  "fields.vehicle-type-land.options.Foot": {
+    "description": "Label for option 'Foot' for field 'vehicle-type-land'",
+    "message": "Kaki"
+  },
+  "fields.vehicle-type-land.options.Motorcycle": {
+    "description": "Label for option 'Motorcycle' for field 'vehicle-type-land'",
+    "message": "Sepeda motor"
+  },
+  "fields.vehicle-type-land.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-land'",
+    "message": "Lainnya"
+  },
+  "fields.vehicle-type-land.options.Passenger van/car": {
+    "description": "Label for option 'Passenger van/car' for field 'vehicle-type-land'",
+    "message": "Van/mobil penumpang"
+  },
+  "fields.vehicle-type-land.options.Train": {
+    "description": "Label for option 'Train' for field 'vehicle-type-land'",
+    "message": "Kereta api"
+  },
+  "fields.vehicle-type-land.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-land'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "fields.vehicle-type-water.label": {
+    "description": "Label for field 'vehicle-type-water'",
+    "message": "Jenis kendaraan - air"
+  },
+  "fields.vehicle-type-water.options.Boat - inboard motor": {
+    "description": "Label for option 'Boat - inboard motor' for field 'vehicle-type-water'",
+    "message": "Perahu - motor inboard"
+  },
+  "fields.vehicle-type-water.options.Boat - outboard motor": {
+    "description": "Label for option 'Boat - outboard motor' for field 'vehicle-type-water'",
+    "message": "Perahu - motor tempel"
+  },
+  "fields.vehicle-type-water.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-water'",
+    "message": "Lainnya"
+  },
+  "fields.vehicle-type-water.options.Small watercraft": {
+    "description": "Label for option 'Small watercraft' for field 'vehicle-type-water'",
+    "message": "Perahu kecil"
+  },
+  "fields.vehicle-type-water.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-water'",
+    "message": "Pilih semua yang berlaku"
+  },
+  "presets.agroindustry.name": {
+    "description": "The name of preset 'agroindustry'",
+    "message": "Agroindustri"
+  },
+  "presets.airstrip.name": {
+    "description": "The name of preset 'airstrip'",
+    "message": "Landasan Udara"
+  },
+  "presets.airstrip.terms": {
+    "description": "List of search terms for preset 'airstrip'",
+    "message": "lapangan terbang, bandara, pendaratan"
+  },
+  "presets.animal.name": {
+    "description": "The name of preset 'animal'",
+    "message": "Hewan"
+  },
+  "presets.boundary-line.name": {
+    "description": "The name of preset 'boundary-line'",
+    "message": "Perbatasan / batas"
+  },
+  "presets.boundary-line.terms": {
+    "description": "List of search terms for preset 'boundary-line'",
+    "message": "Perbatasan, Perbatasan"
+  },
+  "presets.cave.name": {
+    "description": "The name of preset 'cave'",
+    "message": "Gua"
+  },
+  "presets.community-infrastructure-service.name": {
+    "description": "The name of preset 'community-infrastructure-service'",
+    "message": "Infrastruktur / layanan masyarakat"
+  },
+  "presets.community-need.name": {
+    "description": "The name of preset 'community-need'",
+    "message": "Kebutuhan masyarakat"
+  },
+  "presets.community.name": {
+    "description": "The name of preset 'community'",
+    "message": "Komunitas"
+  },
+  "presets.community.terms": {
+    "description": "List of search terms for preset 'community'",
+    "message": "Desa"
+  },
+  "presets.cultivation.name": {
+    "description": "The name of preset 'cultivation'",
+    "message": "Budidaya lokal/masyarakat"
+  },
+  "presets.cultural-activity.name": {
+    "description": "The name of preset 'cultural-activity'",
+    "message": "Kegiatan budaya"
+  },
+  "presets.cultural-activity.terms": {
+    "description": "List of search terms for preset 'cultural-activity'",
+    "message": "cerita, sakral, sejarah, sejarah"
+  },
+  "presets.cultural-site.name": {
+    "description": "The name of preset 'cultural-site'",
+    "message": "Situs budaya"
+  },
+  "presets.cultural-site.terms": {
+    "description": "List of search terms for preset 'cultural-site'",
+    "message": "cerita, sakral, sejarah, sejarah"
+  },
+  "presets.dam.name": {
+    "description": "The name of preset 'dam'",
+    "message": "Bendungan"
+  },
+  "presets.ecosystem.name": {
+    "description": "The name of preset 'ecosystem'",
+    "message": "Ekosistem"
+  },
+  "presets.field-test.name": {
+    "description": "The name of preset 'field-test'",
+    "message": "Hasil tes lapangan"
+  },
+  "presets.fishing-site.name": {
+    "description": "The name of preset 'fishing-site'",
+    "message": "Lokasi memancing"
+  },
+  "presets.fishing-site.terms": {
+    "description": "List of search terms for preset 'fishing-site'",
+    "message": "ikan"
+  },
+  "presets.fungi.name": {
+    "description": "The name of preset 'fungi'",
+    "message": "Jamur"
+  },
+  "presets.gathering-site.name": {
+    "description": "The name of preset 'gathering-site'",
+    "message": "Tempat berkumpul"
+  },
+  "presets.gathering-site.terms": {
+    "description": "List of search terms for preset 'gathering-site'",
+    "message": "koleksi"
+  },
+  "presets.hills.name": {
+    "description": "The name of preset 'hills'",
+    "message": "Gunung / bukit"
+  },
+  "presets.hills.terms": {
+    "description": "List of search terms for preset 'hills'",
+    "message": "Pegunungan"
+  },
+  "presets.hunting-site.name": {
+    "description": "The name of preset 'hunting-site'",
+    "message": "Situs berburu"
+  },
+  "presets.language.name": {
+    "description": "The name of preset 'language'",
+    "message": "Bahasa di darat"
+  },
+  "presets.logging.name": {
+    "description": "The name of preset 'logging'",
+    "message": "Pencatatan"
+  },
+  "presets.logging.terms": {
+    "description": "List of search terms for preset 'logging'",
+    "message": "bahaya, ilegal, pemantauan"
+  },
+  "presets.mining.name": {
+    "description": "The name of preset 'mining'",
+    "message": "Pertambangan"
+  },
+  "presets.mining.terms": {
+    "description": "List of search terms for preset 'mining'",
+    "message": "bahaya, ilegal, pemantauan"
+  },
+  "presets.natural-event.name": {
+    "description": "The name of preset 'natural-event'",
+    "message": "Peristiwa / fenomena alam"
+  },
+  "presets.natural-gas-activity.name": {
+    "description": "The name of preset 'natural-gas-activity'",
+    "message": "Aktivitas gas alam"
+  },
+  "presets.oil-activity.name": {
+    "description": "The name of preset 'oil-activity'",
+    "message": "Aktivitas minyak"
+  },
+  "presets.other-threat.name": {
+    "description": "The name of preset 'other-threat'",
+    "message": "Ancaman lainnya"
+  },
+  "presets.other.name": {
+    "description": "The name of preset 'other'",
+    "message": "Lainnya"
+  },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Jalur / jalan setapak"
+  },
+  "presets.plant.name": {
+    "description": "The name of preset 'plant'",
+    "message": "Tanaman"
+  },
+  "presets.poaching.name": {
+    "description": "The name of preset 'poaching'",
+    "message": "Perburuan liar"
+  },
+  "presets.roadway.name": {
+    "description": "The name of preset 'roadway'",
+    "message": "Jalan raya"
+  },
+  "presets.shelter-building.name": {
+    "description": "The name of preset 'shelter-building'",
+    "message": "Tempat berlindung / gedung"
+  },
+  "presets.transportation-hub.name": {
+    "description": "The name of preset 'transportation-hub'",
+    "message": "Pusat transportasi"
+  },
+  "presets.tree.name": {
+    "description": "The name of preset 'tree'",
+    "message": "Pohon"
+  },
+  "presets.water.name": {
+    "description": "The name of preset 'water'",
+    "message": "Badan air"
+  }
+}
