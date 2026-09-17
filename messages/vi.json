@@ -1,15 +1,203 @@
 {
+  "fields.access.label": {
+    "description": "Label for field 'access'",
+    "message": "Truy cập"
+  },
+  "fields.access.placeholder": {
+    "description": "An example to guide the user for field 'access'",
+    "message": "Cần những gì để truy cập trang web, dịch vụ hoặc hoạt động này?"
+  },
+  "fields.activity-documented.label": {
+    "description": "Label for field 'activity-documented'",
+    "message": "Hoạt động được ghi nhận"
+  },
+  "fields.activity-documented.options.Contamination": {
+    "description": "Label for option 'Contamination' for field 'activity-documented'",
+    "message": "Ô nhiễm"
+  },
+  "fields.activity-documented.options.Deforestation": {
+    "description": "Label for option 'Deforestation' for field 'activity-documented'",
+    "message": "Phá rừng"
+  },
+  "fields.activity-documented.options.Excavation": {
+    "description": "Label for option 'Excavation' for field 'activity-documented'",
+    "message": "Đào bới"
+  },
+  "fields.activity-documented.options.Extraction": {
+    "description": "Label for option 'Extraction' for field 'activity-documented'",
+    "message": "Khai thác"
+  },
+  "fields.activity-documented.options.Health crisis": {
+    "description": "Label for option 'Health crisis' for field 'activity-documented'",
+    "message": "Khủng hoảng y tế"
+  },
+  "fields.activity-documented.options.Impacted waterway": {
+    "description": "Label for option 'Impacted waterway' for field 'activity-documented'",
+    "message": "Đường thủy bị ảnh hưởng"
+  },
+  "fields.activity-documented.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'activity-documented'",
+    "message": "Xâm lấn"
+  },
+  "fields.activity-documented.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-documented'",
+    "message": "Khác"
+  },
+  "fields.activity-documented.options.Remediation": {
+    "description": "Label for option 'Remediation' for field 'activity-documented'",
+    "message": "Khắc phục"
+  },
+  "fields.activity-documented.options.Spill": {
+    "description": "Label for option 'Spill' for field 'activity-documented'",
+    "message": "Vết loang"
+  },
+  "fields.activity-documented.options.Surveying/sampling": {
+    "description": "Label for option 'Surveying/sampling' for field 'activity-documented'",
+    "message": "Khảo sát/lấy mẫu"
+  },
+  "fields.activity-documented.options.Unmaintained infrastructure": {
+    "description": "Label for option 'Unmaintained infrastructure' for field 'activity-documented'",
+    "message": "Cơ sở hạ tầng không được bảo trì"
+  },
+  "fields.activity-documented.placeholder": {
+    "description": "An example to guide the user for field 'activity-documented'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.activity-progress.label": {
+    "description": "Label for field 'activity-progress'",
+    "message": "Tiến độ hoạt động"
+  },
+  "fields.activity-progress.options.Active/in-progress": {
+    "description": "Label for option 'Active/in-progress' for field 'activity-progress'",
+    "message": "Đang hoạt động/đang tiến hành"
+  },
+  "fields.activity-progress.options.Inactive/complete": {
+    "description": "Label for option 'Inactive/complete' for field 'activity-progress'",
+    "message": "Không hoạt động/hoàn chỉnh"
+  },
+  "fields.activity-progress.options.Initial stages": {
+    "description": "Label for option 'Initial stages' for field 'activity-progress'",
+    "message": "Trạng thái ban đầu"
+  },
+  "fields.activity-progress.options.Other": {
+    "description": "Label for option 'Other' for field 'activity-progress'",
+    "message": "Khác"
+  },
+  "fields.activity-progress.options.Repeat activity": {
+    "description": "Label for option 'Repeat activity' for field 'activity-progress'",
+    "message": "Lặp lại hoạt động"
+  },
+  "fields.activity-progress.options.Temporarily suspended": {
+    "description": "Label for option 'Temporarily suspended' for field 'activity-progress'",
+    "message": "Tạm thời bị đình chỉ"
+  },
+  "fields.activity-progress.placeholder": {
+    "description": "An example to guide the user for field 'activity-progress'",
+    "message": "Chọn một"
+  },
   "fields.animal-type.label": {
     "description": "Label for field 'animal-type'",
     "message": "Loại động vật"
+  },
+  "fields.animal-type.options.Bird": {
+    "description": "Label for option 'Bird' for field 'animal-type'",
+    "message": "Chim"
+  },
+  "fields.animal-type.options.Fish": {
+    "description": "Label for option 'Fish' for field 'animal-type'",
+    "message": "Cá"
+  },
+  "fields.animal-type.options.Mammal": {
+    "description": "Label for option 'Mammal' for field 'animal-type'",
+    "message": "Thú"
+  },
+  "fields.animal-type.options.Other": {
+    "description": "Label for option 'Other' for field 'animal-type'",
+    "message": "Khác"
+  },
+  "fields.animal-type.options.Reptile/amphibian": {
+    "description": "Label for option 'Reptile/amphibian' for field 'animal-type'",
+    "message": "Bò sát/lưỡng cư"
+  },
+  "fields.animal-type.placeholder": {
+    "description": "An example to guide the user for field 'animal-type'",
+    "message": "Chọn một"
+  },
+  "fields.authorities-needed.label": {
+    "description": "Label for field 'authorities-needed'",
+    "message": "Các cơ quan cần thiết hoặc tham gia"
+  },
+  "fields.authorities-needed.options.Health authorities": {
+    "description": "Label for option 'Health authorities' for field 'authorities-needed'",
+    "message": "Cơ quan y tế"
+  },
+  "fields.authorities-needed.options.Local leadership": {
+    "description": "Label for option 'Local leadership' for field 'authorities-needed'",
+    "message": "Lãnh đạo địa phương"
+  },
+  "fields.authorities-needed.options.Munilcipal police": {
+    "description": "Label for option 'Munilcipal police' for field 'authorities-needed'",
+    "message": "Cảnh sát"
+  },
+  "fields.authorities-needed.options.National law enforcment": {
+    "description": "Label for option 'National law enforcment' for field 'authorities-needed'",
+    "message": "Cơ quan thực thi pháp luật trung ương"
+  },
+  "fields.authorities-needed.options.None": {
+    "description": "Label for option 'None' for field 'authorities-needed'",
+    "message": "Không"
+  },
+  "fields.authorities-needed.options.Other": {
+    "description": "Label for option 'Other' for field 'authorities-needed'",
+    "message": "Khác"
+  },
+  "fields.authorities-needed.options.Park rangers": {
+    "description": "Label for option 'Park rangers' for field 'authorities-needed'",
+    "message": "Kiểm lâm"
+  },
+  "fields.authorities-needed.options.Private security": {
+    "description": "Label for option 'Private security' for field 'authorities-needed'",
+    "message": "An ninh tư nhân"
+  },
+  "fields.authorities-needed.options.Regional law enforcement": {
+    "description": "Label for option 'Regional law enforcement' for field 'authorities-needed'",
+    "message": "Cơ quan thực thi pháp luật vùng"
+  },
+  "fields.authorities-needed.placeholder": {
+    "description": "An example to guide the user for field 'authorities-needed'",
+    "message": "Chọn tất cả các câu phù hợp"
   },
   "fields.body-of-water-type.label": {
     "description": "Label for field 'body-of-water-type'",
     "message": "Loại vùng nước"
   },
+  "fields.body-of-water-type.options.Delta": {
+    "description": "Label for option 'Delta' for field 'body-of-water-type'",
+    "message": "Đồng bằng"
+  },
+  "fields.body-of-water-type.options.Glacier": {
+    "description": "Label for option 'Glacier' for field 'body-of-water-type'",
+    "message": "Sông băng"
+  },
+  "fields.body-of-water-type.options.Headwaters": {
+    "description": "Label for option 'Headwaters' for field 'body-of-water-type'",
+    "message": "Thượng nguồn"
+  },
   "fields.body-of-water-type.options.Lake": {
     "description": "Label for option 'Lake' for field 'body-of-water-type'",
     "message": "Hồ"
+  },
+  "fields.body-of-water-type.options.Other": {
+    "description": "Label for option 'Other' for field 'body-of-water-type'",
+    "message": "Khác"
+  },
+  "fields.body-of-water-type.options.Pond": {
+    "description": "Label for option 'Pond' for field 'body-of-water-type'",
+    "message": "Ao"
+  },
+  "fields.body-of-water-type.options.Rapids": {
+    "description": "Label for option 'Rapids' for field 'body-of-water-type'",
+    "message": "Ghềnh"
   },
   "fields.body-of-water-type.options.River": {
     "description": "Label for option 'River' for field 'body-of-water-type'",
@@ -19,9 +207,45 @@
     "description": "Label for option 'Stream' for field 'body-of-water-type'",
     "message": "Suối"
   },
+  "fields.body-of-water-type.options.Subsurface water table": {
+    "description": "Label for option 'Subsurface water table' for field 'body-of-water-type'",
+    "message": "Mực nước ngầm dưới mặt đất"
+  },
   "fields.body-of-water-type.options.Waterfall": {
     "description": "Label for option 'Waterfall' for field 'body-of-water-type'",
     "message": "Thác nước"
+  },
+  "fields.body-of-water-type.placeholder": {
+    "description": "An example to guide the user for field 'body-of-water-type'",
+    "message": "Chọn các mục phù hợp"
+  },
+  "fields.common-translations.label": {
+    "description": "Label for field 'common-translations'",
+    "message": "Các bản dịch phổ biến"
+  },
+  "fields.common-translations.placeholder": {
+    "description": "An example to guide the user for field 'common-translations'",
+    "message": "Những bản dịch phổ biến nào cho từ/địa điểm này?"
+  },
+  "fields.conditions.label": {
+    "description": "Label for field 'conditions'",
+    "message": "Điều kiện"
+  },
+  "fields.conditions.options.Expected": {
+    "description": "Label for option 'Expected' for field 'conditions'",
+    "message": "Dự kiến ​​"
+  },
+  "fields.conditions.options.Unusual": {
+    "description": "Label for option 'Unusual' for field 'conditions'",
+    "message": "Khác thường"
+  },
+  "fields.conditions.placeholder": {
+    "description": "An example to guide the user for field 'conditions'",
+    "message": "Chọn một"
+  },
+  "fields.cultural-category.label": {
+    "description": "Label for field 'cultural-category'",
+    "message": "Danh mục văn hóa"
   },
   "fields.cultural-category.options.Archeological": {
     "description": "Label for option 'Archeological' for field 'cultural-category'",
@@ -31,9 +255,249 @@
     "description": "Label for option 'Gathering site' for field 'cultural-category'",
     "message": "Địa điểm tụ họp"
   },
+  "fields.cultural-category.options.Historical": {
+    "description": "Label for option 'Historical' for field 'cultural-category'",
+    "message": "Lịch sử"
+  },
+  "fields.cultural-category.options.Mythological": {
+    "description": "Label for option 'Mythological' for field 'cultural-category'",
+    "message": "Thần thoại"
+  },
+  "fields.cultural-category.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-category'",
+    "message": "Khác"
+  },
+  "fields.cultural-category.options.Sacred": {
+    "description": "Label for option 'Sacred' for field 'cultural-category'",
+    "message": "Thiêng"
+  },
+  "fields.cultural-category.options.Story": {
+    "description": "Label for option 'Story' for field 'cultural-category'",
+    "message": "Câu chuyện"
+  },
+  "fields.cultural-category.placeholder": {
+    "description": "An example to guide the user for field 'cultural-category'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.cultural-details.label": {
+    "description": "Label for field 'cultural-details'",
+    "message": "Chi tiết văn hóa"
+  },
+  "fields.cultural-details.placeholder": {
+    "description": "An example to guide the user for field 'cultural-details'",
+    "message": "Thêm chi tiết/câu chuyện liên quan đến văn hóa địa phương"
+  },
+  "fields.cultural-mediums.label": {
+    "description": "Label for field 'cultural-mediums'",
+    "message": "Phương tiện văn hóa"
+  },
+  "fields.cultural-mediums.options.Ceremony": {
+    "description": "Label for option 'Ceremony' for field 'cultural-mediums'",
+    "message": "Nghi lễ"
+  },
+  "fields.cultural-mediums.options.Clothing/adornment": {
+    "description": "Label for option 'Clothing/adornment' for field 'cultural-mediums'",
+    "message": "Trang phục/trang trí"
+  },
+  "fields.cultural-mediums.options.Dance/play": {
+    "description": "Label for option 'Dance/play' for field 'cultural-mediums'",
+    "message": "Nhảy múa/kịch"
+  },
+  "fields.cultural-mediums.options.Decoration": {
+    "description": "Label for option 'Decoration' for field 'cultural-mediums'",
+    "message": "Trang trí"
+  },
+  "fields.cultural-mediums.options.Design/architecture": {
+    "description": "Label for option 'Design/architecture' for field 'cultural-mediums'",
+    "message": "Thiết kế/kiến trúc"
+  },
+  "fields.cultural-mediums.options.Digital media": {
+    "description": "Label for option 'Digital media' for field 'cultural-mediums'",
+    "message": "Phương tiện kỹ thuật số"
+  },
+  "fields.cultural-mediums.options.Event": {
+    "description": "Label for option 'Event' for field 'cultural-mediums'",
+    "message": "Sự kiện"
+  },
+  "fields.cultural-mediums.options.Food/cuisine": {
+    "description": "Label for option 'Food/cuisine' for field 'cultural-mediums'",
+    "message": "Thức ăn/ẩm thực"
+  },
+  "fields.cultural-mediums.options.Game/sport": {
+    "description": "Label for option 'Game/sport' for field 'cultural-mediums'",
+    "message": "Trò chơi/thể thao"
+  },
+  "fields.cultural-mediums.options.Literary/poetry": {
+    "description": "Label for option 'Literary/poetry' for field 'cultural-mediums'",
+    "message": "Văn học/thơ ca"
+  },
+  "fields.cultural-mediums.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-mediums'",
+    "message": "Khác"
+  },
+  "fields.cultural-mediums.options.Performance/presentation": {
+    "description": "Label for option 'Performance/presentation' for field 'cultural-mediums'",
+    "message": "Biểu diễn/trình bày"
+  },
+  "fields.cultural-mediums.options.Place/site": {
+    "description": "Label for option 'Place/site' for field 'cultural-mediums'",
+    "message": "Địa điểm/nơi chốn"
+  },
+  "fields.cultural-mediums.options.Rituals/customs": {
+    "description": "Label for option 'Rituals/customs' for field 'cultural-mediums'",
+    "message": "Nghi lễ/phong tục"
+  },
+  "fields.cultural-mediums.options.Song/music": {
+    "description": "Label for option 'Song/music' for field 'cultural-mediums'",
+    "message": "Bài hát/âm nhạc"
+  },
+  "fields.cultural-mediums.options.Storytelling/oral history": {
+    "description": "Label for option 'Storytelling/oral history' for field 'cultural-mediums'",
+    "message": "Kể chuyện/lịch sử truyền miệng"
+  },
+  "fields.cultural-mediums.options.Tools/technology": {
+    "description": "Label for option 'Tools/technology' for field 'cultural-mediums'",
+    "message": "Công cụ/công nghệ"
+  },
+  "fields.cultural-mediums.options.Visual art/exhibit/display": {
+    "description": "Label for option 'Visual art/exhibit/display' for field 'cultural-mediums'",
+    "message": "Nghệ thuật/triển lãm/trưng bày thị giác"
+  },
+  "fields.cultural-mediums.placeholder": {
+    "description": "An example to guide the user for field 'cultural-mediums'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.cultural-name.label": {
+    "description": "Label for field 'cultural-name'",
+    "message": "Tên gọi / thuật ngữ văn hóa"
+  },
+  "fields.cultural-name.placeholder": {
+    "description": "An example to guide the user for field 'cultural-name'",
+    "message": "Cái này gọi là gì?"
+  },
+  "fields.cultural-participation.label": {
+    "description": "Label for field 'cultural-participation'",
+    "message": "Tham gia văn hóa"
+  },
+  "fields.cultural-participation.options.Audience/spectator": {
+    "description": "Label for option 'Audience/spectator' for field 'cultural-participation'",
+    "message": "Khán giả/người xem"
+  },
   "fields.cultural-participation.options.Community": {
     "description": "Label for option 'Community' for field 'cultural-participation'",
     "message": "Cộng đồng"
+  },
+  "fields.cultural-participation.options.Family": {
+    "description": "Label for option 'Family' for field 'cultural-participation'",
+    "message": "Gia đình"
+  },
+  "fields.cultural-participation.options.Group members": {
+    "description": "Label for option 'Group members' for field 'cultural-participation'",
+    "message": "Thành viên nhóm"
+  },
+  "fields.cultural-participation.options.Other": {
+    "description": "Label for option 'Other' for field 'cultural-participation'",
+    "message": "Khác"
+  },
+  "fields.cultural-participation.options.Participatory": {
+    "description": "Label for option 'Participatory' for field 'cultural-participation'",
+    "message": "Có sự tham gia"
+  },
+  "fields.cultural-participation.options.Private": {
+    "description": "Label for option 'Private' for field 'cultural-participation'",
+    "message": "Riêng tư"
+  },
+  "fields.cultural-participation.options.Public": {
+    "description": "Label for option 'Public' for field 'cultural-participation'",
+    "message": "Công cộng"
+  },
+  "fields.cultural-participation.options.Visitors": {
+    "description": "Label for option 'Visitors' for field 'cultural-participation'",
+    "message": "Khách"
+  },
+  "fields.cultural-participation.placeholder": {
+    "description": "An example to guide the user for field 'cultural-participation'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.ecological-status.label": {
+    "description": "Label for field 'ecological-status'",
+    "message": "Tình trạng sinh thái"
+  },
+  "fields.ecological-status.options.Controlled species": {
+    "description": "Label for option 'Controlled species' for field 'ecological-status'",
+    "message": "Loài kiểm soát"
+  },
+  "fields.ecological-status.options.Invasive species": {
+    "description": "Label for option 'Invasive species' for field 'ecological-status'",
+    "message": "Loài xâm lấn"
+  },
+  "fields.ecological-status.options.Native species": {
+    "description": "Label for option 'Native species' for field 'ecological-status'",
+    "message": "Loài bản địa"
+  },
+  "fields.ecological-status.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'ecological-status'",
+    "message": "Không chắc chắn"
+  },
+  "fields.ecological-status.placeholder": {
+    "description": "An example to guide the user for field 'ecological-status'",
+    "message": "Chọn một"
+  },
+  "fields.ecosystem-type.label": {
+    "description": "Label for field 'ecosystem-type'",
+    "message": "Loại hệ sinh thái"
+  },
+  "fields.ecosystem-type.options.Desert": {
+    "description": "Label for option 'Desert' for field 'ecosystem-type'",
+    "message": "Sa mạc"
+  },
+  "fields.ecosystem-type.options.Forest/woodland": {
+    "description": "Label for option 'Forest/woodland' for field 'ecosystem-type'",
+    "message": "Rừng/đồi cây"
+  },
+  "fields.ecosystem-type.options.Grasslands": {
+    "description": "Label for option 'Grasslands' for field 'ecosystem-type'",
+    "message": "Đồng cỏ"
+  },
+  "fields.ecosystem-type.options.Mangrove": {
+    "description": "Label for option 'Mangrove' for field 'ecosystem-type'",
+    "message": "Rừng ngập mặn"
+  },
+  "fields.ecosystem-type.options.Other": {
+    "description": "Label for option 'Other' for field 'ecosystem-type'",
+    "message": "Khác"
+  },
+  "fields.ecosystem-type.options.Permafrost": {
+    "description": "Label for option 'Permafrost' for field 'ecosystem-type'",
+    "message": "Băng vĩnh cửu"
+  },
+  "fields.ecosystem-type.options.Ravine": {
+    "description": "Label for option 'Ravine' for field 'ecosystem-type'",
+    "message": "Hẻm núi"
+  },
+  "fields.ecosystem-type.options.Tundra": {
+    "description": "Label for option 'Tundra' for field 'ecosystem-type'",
+    "message": "Lãnh nguyên"
+  },
+  "fields.ecosystem-type.options.Wetland": {
+    "description": "Label for option 'Wetland' for field 'ecosystem-type'",
+    "message": "Đất ngập nước"
+  },
+  "fields.ecosystem-type.placeholder": {
+    "description": "An example to guide the user for field 'ecosystem-type'",
+    "message": "Chọn một"
+  },
+  "fields.field-test-details.label": {
+    "description": "Label for field 'field-test-details'",
+    "message": "Chi tiết thử nghiệm thực địa"
+  },
+  "fields.field-test-details.placeholder": {
+    "description": "An example to guide the user for field 'field-test-details'",
+    "message": "Mô tả xét nghiệm đã sử dụng, mẫu và các quan sát "
+  },
+  "fields.food-source.label": {
+    "description": "Label for field 'food-source'",
+    "message": "Nguồn thực phẩm"
   },
   "fields.food-source.options.Farmland": {
     "description": "Label for option 'Farmland' for field 'food-source'",
@@ -43,17 +507,281 @@
     "description": "Label for option 'Fishing area' for field 'food-source'",
     "message": "Khu vực đánh bắt cá"
   },
+  "fields.food-source.options.Food forest": {
+    "description": "Label for option 'Food forest' for field 'food-source'",
+    "message": "Rừng thực phẩm"
+  },
+  "fields.food-source.options.Foraging": {
+    "description": "Label for option 'Foraging' for field 'food-source'",
+    "message": "Tìm thức ăn"
+  },
+  "fields.food-source.options.Garden": {
+    "description": "Label for option 'Garden' for field 'food-source'",
+    "message": "Vườn"
+  },
+  "fields.food-source.options.Hunting": {
+    "description": "Label for option 'Hunting' for field 'food-source'",
+    "message": "Săn bắn"
+  },
+  "fields.food-source.options.Other": {
+    "description": "Label for option 'Other' for field 'food-source'",
+    "message": "Khác"
+  },
+  "fields.food-source.options.Pasture": {
+    "description": "Label for option 'Pasture' for field 'food-source'",
+    "message": "Đồng cỏ"
+  },
+  "fields.food-source.options.Permaculture": {
+    "description": "Label for option 'Permaculture' for field 'food-source'",
+    "message": "Nông nghiệp vĩnh cửu"
+  },
+  "fields.food-source.options.Trap": {
+    "description": "Label for option 'Trap' for field 'food-source'",
+    "message": "Bẫy"
+  },
+  "fields.food-source.options.Trapline": {
+    "description": "Label for option 'Trapline' for field 'food-source'",
+    "message": "Đường bẫy"
+  },
+  "fields.food-source.placeholder": {
+    "description": "An example to guide the user for field 'food-source'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.gathering-type.label": {
+    "description": "Label for field 'gathering-type'",
+    "message": "Loại tụ tập"
+  },
+  "fields.gathering-type.options.Berries": {
+    "description": "Label for option 'Berries' for field 'gathering-type'",
+    "message": "Quả mọng"
+  },
   "fields.gathering-type.options.Clay": {
     "description": "Label for option 'Clay' for field 'gathering-type'",
     "message": "Đất sét"
+  },
+  "fields.gathering-type.options.Fibers": {
+    "description": "Label for option 'Fibers' for field 'gathering-type'",
+    "message": "Chất xơ"
+  },
+  "fields.gathering-type.options.Honey": {
+    "description": "Label for option 'Honey' for field 'gathering-type'",
+    "message": "Mật ong"
+  },
+  "fields.gathering-type.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'gathering-type'",
+    "message": "Thuốc"
+  },
+  "fields.gathering-type.options.Mushrooms": {
+    "description": "Label for option 'Mushrooms' for field 'gathering-type'",
+    "message": "Nấm"
+  },
+  "fields.gathering-type.options.Other": {
+    "description": "Label for option 'Other' for field 'gathering-type'",
+    "message": "Khác"
+  },
+  "fields.gathering-type.options.Tree fruit": {
+    "description": "Label for option 'Tree fruit' for field 'gathering-type'",
+    "message": "Quả cây"
+  },
+  "fields.gathering-type.placeholder": {
+    "description": "An example to guide the user for field 'gathering-type'",
+    "message": "Tài nguyên được tập hợp tại đây"
+  },
+  "fields.incident-type.label": {
+    "description": "Label for field 'incident-type'",
+    "message": "Kiểu sự cố"
+  },
+  "fields.incident-type.options.Conflict": {
+    "description": "Label for option 'Conflict' for field 'incident-type'",
+    "message": "Xung đột"
+  },
+  "fields.incident-type.options.Human rights violation": {
+    "description": "Label for option 'Human rights violation' for field 'incident-type'",
+    "message": "Vi phạm nhân quyền"
+  },
+  "fields.incident-type.options.Illness": {
+    "description": "Label for option 'Illness' for field 'incident-type'",
+    "message": "Bệnh"
+  },
+  "fields.incident-type.options.Injury": {
+    "description": "Label for option 'Injury' for field 'incident-type'",
+    "message": "Bị thương"
+  },
+  "fields.incident-type.options.Invasion": {
+    "description": "Label for option 'Invasion' for field 'incident-type'",
+    "message": "Xâm lấn"
+  },
+  "fields.incident-type.options.Material damage": {
+    "description": "Label for option 'Material damage' for field 'incident-type'",
+    "message": "Thiệt hại vật chất"
+  },
+  "fields.incident-type.options.Other": {
+    "description": "Label for option 'Other' for field 'incident-type'",
+    "message": "Khác"
+  },
+  "fields.incident-type.options.Theft": {
+    "description": "Label for option 'Theft' for field 'incident-type'",
+    "message": "Trộm cắp"
+  },
+  "fields.incident-type.options.Violence": {
+    "description": "Label for option 'Violence' for field 'incident-type'",
+    "message": "Bạo lực"
+  },
+  "fields.incident-type.placeholder": {
+    "description": "An example to guide the user for field 'incident-type'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.issue-priority.label": {
+    "description": "Label for field 'issue-priority'",
+    "message": "Ưu tiên vấn đề"
+  },
+  "fields.issue-priority.options.Important issue": {
+    "description": "Label for option 'Important issue' for field 'issue-priority'",
+    "message": "Vấn đề quan trọng"
+  },
+  "fields.issue-priority.options.Inconvenience": {
+    "description": "Label for option 'Inconvenience' for field 'issue-priority'",
+    "message": "Bất tiện"
+  },
+  "fields.issue-priority.options.Urgent issue": {
+    "description": "Label for option 'Urgent issue' for field 'issue-priority'",
+    "message": "Vấn đề khẩn cấp"
+  },
+  "fields.issue-priority.placeholder": {
+    "description": "An example to guide the user for field 'issue-priority'",
+    "message": "Điều này ảnh hưởng đến bạn như thế nào?"
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "Tên"
   },
+  "fields.name.placeholder": {
+    "description": "An example to guide the user for field 'name'",
+    "message": "Cái này gọi là gì?"
+  },
+  "fields.natural-event-type.label": {
+    "description": "Label for field 'natural-event-type'",
+    "message": "Loại sự kiện tự nhiên"
+  },
+  "fields.natural-event-type.options.Drought": {
+    "description": "Label for option 'Drought' for field 'natural-event-type'",
+    "message": "Hạn hán"
+  },
+  "fields.natural-event-type.options.Fire": {
+    "description": "Label for option 'Fire' for field 'natural-event-type'",
+    "message": "Cháy"
+  },
+  "fields.natural-event-type.options.Flood": {
+    "description": "Label for option 'Flood' for field 'natural-event-type'",
+    "message": "Ngập lụt"
+  },
+  "fields.natural-event-type.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-event-type'",
+    "message": "Khác"
+  },
+  "fields.natural-event-type.options.Storm": {
+    "description": "Label for option 'Storm' for field 'natural-event-type'",
+    "message": "Bão"
+  },
+  "fields.natural-event-type.placeholder": {
+    "description": "An example to guide the user for field 'natural-event-type'",
+    "message": "Chọn một"
+  },
+  "fields.natural-resource.label": {
+    "description": "Label for field 'natural-resource'",
+    "message": "Tài nguyên thiên nhiên"
+  },
+  "fields.natural-resource.options.Artisanry": {
+    "description": "Label for option 'Artisanry' for field 'natural-resource'",
+    "message": "Nghề thủ công"
+  },
+  "fields.natural-resource.options.Clothing": {
+    "description": "Label for option 'Clothing' for field 'natural-resource'",
+    "message": "Quần áo"
+  },
+  "fields.natural-resource.options.Communication": {
+    "description": "Label for option 'Communication' for field 'natural-resource'",
+    "message": "Truyền thông"
+  },
+  "fields.natural-resource.options.Food": {
+    "description": "Label for option 'Food' for field 'natural-resource'",
+    "message": "Thức ăn"
+  },
+  "fields.natural-resource.options.Medicine": {
+    "description": "Label for option 'Medicine' for field 'natural-resource'",
+    "message": "Thuốc"
+  },
+  "fields.natural-resource.options.Other": {
+    "description": "Label for option 'Other' for field 'natural-resource'",
+    "message": "Khác"
+  },
+  "fields.natural-resource.options.Revenue": {
+    "description": "Label for option 'Revenue' for field 'natural-resource'",
+    "message": "Nguồn thu"
+  },
+  "fields.natural-resource.options.Shelter": {
+    "description": "Label for option 'Shelter' for field 'natural-resource'",
+    "message": "Nơi trú ẩn"
+  },
+  "fields.natural-resource.options.Tools": {
+    "description": "Label for option 'Tools' for field 'natural-resource'",
+    "message": "Công cụ"
+  },
+  "fields.natural-resource.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'natural-resource'",
+    "message": "Giao thông vận tải"
+  },
+  "fields.natural-resource.options.Water": {
+    "description": "Label for option 'Water' for field 'natural-resource'",
+    "message": "Nước"
+  },
+  "fields.natural-resource.placeholder": {
+    "description": "An example to guide the user for field 'natural-resource'",
+    "message": "Đây là nguồn gốc của"
+  },
+  "fields.need-type.label": {
+    "description": "Label for field 'need-type'",
+    "message": "Loại nhu cầu"
+  },
+  "fields.need-type.options.Crisis response services": {
+    "description": "Label for option 'Crisis response services' for field 'need-type'",
+    "message": "Dịch vụ ứng phó khủng hoảng"
+  },
+  "fields.need-type.options.Food": {
+    "description": "Label for option 'Food' for field 'need-type'",
+    "message": "Thức ăn"
+  },
+  "fields.need-type.options.Health services": {
+    "description": "Label for option 'Health services' for field 'need-type'",
+    "message": "Dịch vụ y tế"
+  },
+  "fields.need-type.options.Law enforcement": {
+    "description": "Label for option 'Law enforcement' for field 'need-type'",
+    "message": "Cơ quan thực thi pháp luật"
+  },
+  "fields.need-type.options.Other": {
+    "description": "Label for option 'Other' for field 'need-type'",
+    "message": "Khác"
+  },
+  "fields.need-type.options.Potable water": {
+    "description": "Label for option 'Potable water' for field 'need-type'",
+    "message": "Nước uống"
+  },
   "fields.need-type.options.Shelter/housing": {
     "description": "Label for option 'Shelter/housing' for field 'need-type'",
     "message": "Chỗ ở/nhà ở"
+  },
+  "fields.need-type.options.Supplies/materials": {
+    "description": "Label for option 'Supplies/materials' for field 'need-type'",
+    "message": "Vật tư/vật liệu"
+  },
+  "fields.need-type.options.Transportation": {
+    "description": "Label for option 'Transportation' for field 'need-type'",
+    "message": "Giao thông vận tải"
+  },
+  "fields.need-type.placeholder": {
+    "description": "An example to guide the user for field 'need-type'",
+    "message": "Chọn tất cả các câu phù hợp"
   },
   "fields.note.label": {
     "description": "Label for field 'note'",
@@ -62,6 +790,250 @@
   "fields.note.placeholder": {
     "description": "An example to guide the user for field 'note'",
     "message": "Câu chuyện hoặc ghi chú về địa điểm này"
+  },
+  "fields.permission.label": {
+    "description": "Label for field 'permission'",
+    "message": "Quyền truy cập"
+  },
+  "fields.permission.options.Insufficient consultation": {
+    "description": "Label for option 'Insufficient consultation' for field 'permission'",
+    "message": "Tham vấn không đầy đủ"
+  },
+  "fields.permission.options.Not permitted": {
+    "description": "Label for option 'Not permitted' for field 'permission'",
+    "message": "Không được phép"
+  },
+  "fields.permission.options.Not sure": {
+    "description": "Label for option 'Not sure' for field 'permission'",
+    "message": "Không chắc chắn"
+  },
+  "fields.permission.options.Permitted": {
+    "description": "Label for option 'Permitted' for field 'permission'",
+    "message": "Được phép"
+  },
+  "fields.permission.placeholder": {
+    "description": "An example to guide the user for field 'permission'",
+    "message": "Chọn một"
+  },
+  "fields.place-name.label": {
+    "description": "Label for field 'place-name'",
+    "message": "Tên địa điểm"
+  },
+  "fields.place-name.placeholder": {
+    "description": "An example to guide the user for field 'place-name'",
+    "message": "Tên nơi này là gì?"
+  },
+  "fields.presumed-responsible.label": {
+    "description": "Label for field 'presumed-responsible'",
+    "message": "Người được cho là chịu trách nhiệm"
+  },
+  "fields.presumed-responsible.placeholder": {
+    "description": "An example to guide the user for field 'presumed-responsible'",
+    "message": "Ai hoặc cái gì có thể chịu trách nhiệm cho việc này?"
+  },
+  "fields.sample-type.label": {
+    "description": "Label for field 'sample-type'",
+    "message": "Loại mẫu"
+  },
+  "fields.sample-type.options.Air": {
+    "description": "Label for option 'Air' for field 'sample-type'",
+    "message": "Không khí"
+  },
+  "fields.sample-type.options.Forestry/vegetation": {
+    "description": "Label for option 'Forestry/vegetation' for field 'sample-type'",
+    "message": "Lâm nghiệp/thảm thực vật"
+  },
+  "fields.sample-type.options.Meteorological": {
+    "description": "Label for option 'Meteorological' for field 'sample-type'",
+    "message": "Khí tượng học"
+  },
+  "fields.sample-type.options.Mineral": {
+    "description": "Label for option 'Mineral' for field 'sample-type'",
+    "message": "Khoáng sản"
+  },
+  "fields.sample-type.options.Other": {
+    "description": "Label for option 'Other' for field 'sample-type'",
+    "message": "Khác"
+  },
+  "fields.sample-type.options.Soil": {
+    "description": "Label for option 'Soil' for field 'sample-type'",
+    "message": "Đất"
+  },
+  "fields.sample-type.options.Water": {
+    "description": "Label for option 'Water' for field 'sample-type'",
+    "message": "Nước"
+  },
+  "fields.sample-type.placeholder": {
+    "description": "An example to guide the user for field 'sample-type'",
+    "message": "Chọn loại kiểm thử"
+  },
+  "fields.service-type.label": {
+    "description": "Label for field 'service-type'",
+    "message": "Loại dịch vụ"
+  },
+  "fields.service-type.options.Communication": {
+    "description": "Label for option 'Communication' for field 'service-type'",
+    "message": "Truyền thông"
+  },
+  "fields.service-type.options.Education": {
+    "description": "Label for option 'Education' for field 'service-type'",
+    "message": "Giáo dục"
+  },
+  "fields.service-type.options.Health": {
+    "description": "Label for option 'Health' for field 'service-type'",
+    "message": "Y tế"
+  },
+  "fields.service-type.options.Market/food services": {
+    "description": "Label for option 'Market/food services' for field 'service-type'",
+    "message": "Chợ /dịch vụ thực phẩm"
+  },
+  "fields.service-type.options.Other": {
+    "description": "Label for option 'Other' for field 'service-type'",
+    "message": "Khác"
+  },
+  "fields.service-type.options.Recreation": {
+    "description": "Label for option 'Recreation' for field 'service-type'",
+    "message": "Giải trí"
+  },
+  "fields.service-type.options.Shops/utility": {
+    "description": "Label for option 'Shops/utility' for field 'service-type'",
+    "message": "Cửa hàng/tiện ích"
+  },
+  "fields.service-type.options.Social services": {
+    "description": "Label for option 'Social services' for field 'service-type'",
+    "message": "Dịch vụ xã hội"
+  },
+  "fields.service-type.options.Spiritual/religious": {
+    "description": "Label for option 'Spiritual/religious' for field 'service-type'",
+    "message": "Tâm linh/tôn giáo"
+  },
+  "fields.service-type.options.Water infrastructure": {
+    "description": "Label for option 'Water infrastructure' for field 'service-type'",
+    "message": "Cơ sở hạ tầng nước"
+  },
+  "fields.service-type.placeholder": {
+    "description": "An example to guide the user for field 'service-type'",
+    "message": "Địa điểm này thuộc loại gì?"
+  },
+  "fields.shelter-type.label": {
+    "description": "Label for field 'shelter-type'",
+    "message": "Loại chỗ trú ẩn"
+  },
+  "fields.shelter-type.options.Not in use": {
+    "description": "Label for option 'Not in use' for field 'shelter-type'",
+    "message": "Không sử dụng"
+  },
+  "fields.shelter-type.options.Other": {
+    "description": "Label for option 'Other' for field 'shelter-type'",
+    "message": "Khác"
+  },
+  "fields.shelter-type.options.Permanent": {
+    "description": "Label for option 'Permanent' for field 'shelter-type'",
+    "message": "Vĩnh viễn"
+  },
+  "fields.shelter-type.options.Temporary": {
+    "description": "Label for option 'Temporary' for field 'shelter-type'",
+    "message": "Tạm thời"
+  },
+  "fields.shelter-type.placeholder": {
+    "description": "An example to guide the user for field 'shelter-type'",
+    "message": "Đó là loại nơi trú ẩn gì?"
+  },
+  "fields.vehicle-type-air.label": {
+    "description": "Label for field 'vehicle-type-air'",
+    "message": "Loại phương tiện - hàng không"
+  },
+  "fields.vehicle-type-air.options.Aircraft": {
+    "description": "Label for option 'Aircraft' for field 'vehicle-type-air'",
+    "message": "Máy bay"
+  },
+  "fields.vehicle-type-air.options.Helicopter": {
+    "description": "Label for option 'Helicopter' for field 'vehicle-type-air'",
+    "message": "Trực thăng"
+  },
+  "fields.vehicle-type-air.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-air'",
+    "message": "Khác"
+  },
+  "fields.vehicle-type-air.options.Small aircraft": {
+    "description": "Label for option 'Small aircraft' for field 'vehicle-type-air'",
+    "message": "Máy bay nhỏ"
+  },
+  "fields.vehicle-type-air.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-air'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.vehicle-type-land.label": {
+    "description": "Label for field 'vehicle-type-land'",
+    "message": "Loại phương tiện - đường bộ"
+  },
+  "fields.vehicle-type-land.options.All terrain vehicle": {
+    "description": "Label for option 'All terrain vehicle' for field 'vehicle-type-land'",
+    "message": "Xe địa hình"
+  },
+  "fields.vehicle-type-land.options.Bicycle": {
+    "description": "Label for option 'Bicycle' for field 'vehicle-type-land'",
+    "message": "Xe đạp"
+  },
+  "fields.vehicle-type-land.options.Bus": {
+    "description": "Label for option 'Bus' for field 'vehicle-type-land'",
+    "message": "Xe buýt"
+  },
+  "fields.vehicle-type-land.options.Cargo van/truck": {
+    "description": "Label for option 'Cargo van/truck' for field 'vehicle-type-land'",
+    "message": "Xe chở hàng/xe tải"
+  },
+  "fields.vehicle-type-land.options.Foot": {
+    "description": "Label for option 'Foot' for field 'vehicle-type-land'",
+    "message": "Chân"
+  },
+  "fields.vehicle-type-land.options.Motorcycle": {
+    "description": "Label for option 'Motorcycle' for field 'vehicle-type-land'",
+    "message": "Xe máy"
+  },
+  "fields.vehicle-type-land.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-land'",
+    "message": "Khác"
+  },
+  "fields.vehicle-type-land.options.Passenger van/car": {
+    "description": "Label for option 'Passenger van/car' for field 'vehicle-type-land'",
+    "message": "Xe van/ô tô chở khách"
+  },
+  "fields.vehicle-type-land.options.Train": {
+    "description": "Label for option 'Train' for field 'vehicle-type-land'",
+    "message": "Tàu hỏa"
+  },
+  "fields.vehicle-type-land.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-land'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "fields.vehicle-type-water.label": {
+    "description": "Label for field 'vehicle-type-water'",
+    "message": "Loại phương tiện - đường thủy"
+  },
+  "fields.vehicle-type-water.options.Boat - inboard motor": {
+    "description": "Label for option 'Boat - inboard motor' for field 'vehicle-type-water'",
+    "message": "Thuyền - động cơ trong tàu"
+  },
+  "fields.vehicle-type-water.options.Boat - outboard motor": {
+    "description": "Label for option 'Boat - outboard motor' for field 'vehicle-type-water'",
+    "message": "Thuyền - động cơ ngoài"
+  },
+  "fields.vehicle-type-water.options.Other": {
+    "description": "Label for option 'Other' for field 'vehicle-type-water'",
+    "message": "Khác"
+  },
+  "fields.vehicle-type-water.options.Small watercraft": {
+    "description": "Label for option 'Small watercraft' for field 'vehicle-type-water'",
+    "message": "Phương tiện thủy nhỏ"
+  },
+  "fields.vehicle-type-water.placeholder": {
+    "description": "An example to guide the user for field 'vehicle-type-water'",
+    "message": "Chọn tất cả các câu phù hợp"
+  },
+  "presets.agroindustry.name": {
+    "description": "The name of preset 'agroindustry'",
+    "message": "Công nghiệp nông nghiệp"
   },
   "presets.airstrip.name": {
     "description": "The name of preset 'airstrip'",
@@ -77,7 +1049,7 @@
   },
   "presets.boundary-line.name": {
     "description": "The name of preset 'boundary-line'",
-    "message": "ranh giới"
+    "message": "Đường biên / ranh giới"
   },
   "presets.boundary-line.terms": {
     "description": "List of search terms for preset 'boundary-line'",
@@ -87,6 +1059,14 @@
     "description": "The name of preset 'cave'",
     "message": "Hang động"
   },
+  "presets.community-infrastructure-service.name": {
+    "description": "The name of preset 'community-infrastructure-service'",
+    "message": "Cơ sở hạ tầng / dịch vụ cộng đồng"
+  },
+  "presets.community-need.name": {
+    "description": "The name of preset 'community-need'",
+    "message": "Nhu cầu của cộng đồng"
+  },
   "presets.community.name": {
     "description": "The name of preset 'community'",
     "message": "Cộng đồng"
@@ -95,13 +1075,37 @@
     "description": "List of search terms for preset 'community'",
     "message": "làng"
   },
+  "presets.cultivation.name": {
+    "description": "The name of preset 'cultivation'",
+    "message": "Canh tác địa phương / cộng đồng"
+  },
+  "presets.cultural-activity.name": {
+    "description": "The name of preset 'cultural-activity'",
+    "message": "Hoạt động văn hóa"
+  },
   "presets.cultural-activity.terms": {
     "description": "List of search terms for preset 'cultural-activity'",
     "message": "câu chuyện, linh thiêng, lịch sử"
   },
+  "presets.cultural-site.name": {
+    "description": "The name of preset 'cultural-site'",
+    "message": "Địa điểm văn hóa"
+  },
   "presets.cultural-site.terms": {
     "description": "List of search terms for preset 'cultural-site'",
     "message": "câu chuyện, linh thiêng, lịch sử"
+  },
+  "presets.dam.name": {
+    "description": "The name of preset 'dam'",
+    "message": "Đập"
+  },
+  "presets.ecosystem.name": {
+    "description": "The name of preset 'ecosystem'",
+    "message": "Hệ sinh thái"
+  },
+  "presets.field-test.name": {
+    "description": "The name of preset 'field-test'",
+    "message": "Kết quả thử nghiệm thực địa"
   },
   "presets.fishing-site.name": {
     "description": "The name of preset 'fishing-site'",
@@ -110,6 +1114,10 @@
   "presets.fishing-site.terms": {
     "description": "List of search terms for preset 'fishing-site'",
     "message": "cá"
+  },
+  "presets.fungi.name": {
+    "description": "The name of preset 'fungi'",
+    "message": "Nấm"
   },
   "presets.gathering-site.name": {
     "description": "The name of preset 'gathering-site'",
@@ -121,7 +1129,7 @@
   },
   "presets.hills.name": {
     "description": "The name of preset 'hills'",
-    "message": "Đồi"
+    "message": "Núi / đồi"
   },
   "presets.hills.terms": {
     "description": "List of search terms for preset 'hills'",
@@ -131,24 +1139,76 @@
     "description": "The name of preset 'hunting-site'",
     "message": "Khu săn bắn"
   },
+  "presets.language.name": {
+    "description": "The name of preset 'language'",
+    "message": "Ngôn ngữ trên đất liền"
+  },
+  "presets.logging.name": {
+    "description": "The name of preset 'logging'",
+    "message": "Khai thác gỗ"
+  },
   "presets.logging.terms": {
     "description": "List of search terms for preset 'logging'",
     "message": "nguy hiểm, bất hợp pháp, giám sát"
+  },
+  "presets.mining.name": {
+    "description": "The name of preset 'mining'",
+    "message": "Khai mỏ"
   },
   "presets.mining.terms": {
     "description": "List of search terms for preset 'mining'",
     "message": "nguy hiểm, bất hợp pháp, giám sát"
   },
+  "presets.natural-event.name": {
+    "description": "The name of preset 'natural-event'",
+    "message": "Sự kiện / hiện tượng tự nhiên"
+  },
+  "presets.natural-gas-activity.name": {
+    "description": "The name of preset 'natural-gas-activity'",
+    "message": "Hoạt động khí tự nhiên"
+  },
+  "presets.oil-activity.name": {
+    "description": "The name of preset 'oil-activity'",
+    "message": "Hoạt động dầu mỏ"
+  },
+  "presets.other-threat.name": {
+    "description": "The name of preset 'other-threat'",
+    "message": "Các mối đe dọa khác"
+  },
+  "presets.other.name": {
+    "description": "The name of preset 'other'",
+    "message": "Khác"
+  },
   "presets.path.name": {
     "description": "The name of preset 'path'",
-    "message": "Con đường"
+    "message": "Đường / đường mòn"
   },
   "presets.plant.name": {
     "description": "The name of preset 'plant'",
-    "message": "Cây"
+    "message": "Thực vật"
+  },
+  "presets.poaching.name": {
+    "description": "The name of preset 'poaching'",
+    "message": "Săn trộm"
+  },
+  "presets.roadway.name": {
+    "description": "The name of preset 'roadway'",
+    "message": "Đường bộ"
+  },
+  "presets.shelter-building.name": {
+    "description": "The name of preset 'shelter-building'",
+    "message": "Nơi trú ẩn / tòa nhà"
+  },
+  "presets.transportation-hub.name": {
+    "description": "The name of preset 'transportation-hub'",
+    "message": "Trung tâm giao thông"
   },
   "presets.tree.name": {
     "description": "The name of preset 'tree'",
     "message": "Cây"
+  },
+  "presets.water.name": {
+    "description": "The name of preset 'water'",
+    "message": "Vùng nước"
   }
 }
